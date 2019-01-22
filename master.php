@@ -4,8 +4,6 @@
 <?php include 'header.php'; ?>
     <!--start container-->
     <div class="container">
-        
-        
     </div>
     <!--end container-->
 
