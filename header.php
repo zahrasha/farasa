@@ -157,17 +157,11 @@
                   دوره ها
                 </a>
               
-            <li><a href="page2.php"></a> <i class="mdi-action-dashboard right"></i>
+            <li><a href="page2.php"> <i class="mdi-action-dashboard right"></i>
                   راهنما
-                </a>
-                <div class="collapsible-body">
-                    <ul>
-                        <li><a href="#"> </a></li>
-
-                    </ul>
-                </div>
+            </a>
             </li>
-            <li><a class="collapsible-header waves-effect waves-teal"><i
+            <li><a  href="page3.php" ><i
                         class="mdi-action-assignment right"></i>
                   خدمات ویژه
                 </a>
@@ -178,7 +172,7 @@
                     </ul>
                 </div>
             </li>
-            <li><a class="collapsible-header waves-effect waves-teal"><i
+            <li><a href="page4.php"><i
                         class="mdi-action-track-changes right"></i>
                         درباره ما
                 </a>
