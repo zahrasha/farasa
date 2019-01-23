@@ -173,7 +173,7 @@
                     </ul>
                 </div>
             </li>
-            <li><a class="collapsible-header waves-effect waves-teal"><i
+            <li><a  href="page3.php" ><i
                         class="mdi-action-assignment right"></i>
                    گزارش گیری
                 </a>
@@ -184,7 +184,7 @@
                     </ul>
                 </div>
             </li>
-            <li><a class="collapsible-header waves-effect waves-teal"><i
+            <li><a href="page4.php"><i
                         class="mdi-action-track-changes right"></i>
                     باشگاه ها
                 </a>
@@ -203,10 +203,11 @@
 
                 <div class="collapsible-body">
                     <ul>
-                        <li><a href="#">مدیریت سازمان ها</a></li>
-                        <li><a href="#">ایجاد سازمان جدید</a></li>
-                        <li><a href="#">ثبت نام انبوه کاربر</a></li>
-                        <li><a href="#">ثبت نام انبوه اعتبار</a></li>
+                        <li><a href="images/address.jpg">
+آدرس: تهران، میدان توحید، ابتدای خیابان ستارخان، کوچه شهید صیامی، پلاک ۱۷</a></li>
+                        <li>صندوق پستی: ۱۶۷۸-۱۳۱۸۵</li>
+                        <li>email: info@farzaninstitute.com</li>
+                        <li>وب سایت:www.farzaninstitute.com</li>
                     </ul>
                 </div>
             </li>
