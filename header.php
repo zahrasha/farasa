@@ -13,25 +13,15 @@
     <div class="header-bg-holder">
         <div class="row no-pad-marg">
             <div class="col s3 m3 l2 valign-wrapper fixed-height right">
-                <a class="valign center right-header-logo-align" href="index.php">
-                    <img src="images/f-h-logo.png" class="responsive-img " alt="logo">
-                </a>
+               
             </div>
             <div class="col s6 m7 l9 right fixed-height s-align">
                 <div class="row header-text-align doubled-border ">
-                    <p class="white-text header-text-style ib no-pad-marg ">
-                        <span class="single-border"><span class="red-text">F</span>itASA</span>
-                        <br>
-                        <span class="white-text ">مدیریت هوشمند سلامت</span>
-                    </p>
-                    <p class="left white-text ib header-institute-text doubled-border-top">موسسه توسعه دانش پژوهش و فن
-                        آوری فرزان</p>
+                
                 </div>
             </div>
             <div class="col s3 m2 l1 left valign-wrapper fixed-height">
-                <a class="left-header-logo-align valign" href="index.php">
-                    <img class="responsive-img " src="images/footer-logo.png" alt="logo">
-                </a>
+              
             </div>
         </div>
         <!--=============================== Top Menu===================================-->
@@ -164,29 +154,39 @@
             </li>
             <!--            ===================items===========-->
             <li><a class="collapsible-header waves-effect waves-teal"><i class="mdi-action-dashboard right"></i>
-                    مالی
+                  دوره ها
                 </a>
                 <div class="collapsible-body">
                     <ul>
-                        <li><a href="#">مدیریت مالی</a></li>
+                        <li><a href="#"> </a></li>
+
+                    </ul>
+                </div>
+            </li>
+            <li><a class="collapsible-header waves-effect waves-teal"><i class="mdi-action-dashboard right"></i>
+                  راهنما
+                </a>
+                <div class="collapsible-body">
+                    <ul>
+                        <li><a href="#"> </a></li>
 
                     </ul>
                 </div>
             </li>
             <li><a class="collapsible-header waves-effect waves-teal"><i
                         class="mdi-action-assignment right"></i>
-                   گزارش گیری
+                  خدمات ویژه
                 </a>
                 <div class="collapsible-body">
                     <ul>
-                        <li><a href="#">کاربران</a></li>
-                        <li><a href="#">مالی</a></li>
+                        <li><a href="#"></a></li>
+                        <li><a href="#"></a></li>
                     </ul>
                 </div>
             </li>
             <li><a class="collapsible-header waves-effect waves-teal"><i
                         class="mdi-action-track-changes right"></i>
-                    باشگاه ها
+                        درباره ما
                 </a>
 
                 <div class="collapsible-body">
@@ -199,7 +199,7 @@
                 </div>
             </li>
             <li><a class="collapsible-header waves-effect waves-teal"><i
-                        class="mdi-social-people right"></i> سازمان ها </a>
+                        class="mdi-social-people right"></i> تماس با ما </a>
 
                 <div class="collapsible-body">
                     <ul>
