@@ -4,14 +4,14 @@
 <?php include 'header.php'; ?>
     <!--start container-->
     <div class="container">
-<h3>دوره های من</h3>
+<h5>دوره های من</h5>
 <div>
 <a href="">
-<span>استانداردهای گزارش پژوهش های بالينی(CONSORT) </span> 
+<span>استانداردهای گزارش پژوهش های بالينی(CONSORT) </span>
 <img src="images/50.jpg" alt="">
-</a>
-<span>موسسه فرزان	
+</a> <span>موسسه فرزان	
 دسته: پژوهش پزشکی </span>
+
 <img src="images/ISBN-978-600-6135-00-7.jpg" alt="">
 </div>
 
