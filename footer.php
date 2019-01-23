@@ -63,7 +63,7 @@
             <div class="col s12 m12 l6 right no-pad un-margin">
                 <div class="center footer-text white-text">
                     <ul class="footer-menu">
-                        <li><a href="#">درباره فیت آسا </a></li>
+                        <li><a href="#">درباره فراسا </a></li>
                         <li class="vline"><span> | </span></li>
                         <li><a href="#"> درباره ما </a></li>
                         <li class="vline"><span> | </span></li>

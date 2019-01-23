@@ -20,9 +20,9 @@
             <div class="col s6 m7 l9 right fixed-height s-align">
                 <div class="row header-text-align doubled-border ">
                     <p class="white-text header-text-style ib no-pad-marg ">
-                        <span class="single-border"><span class="red-text">F</span>itASA</span>
+                        <span class="single-border"><span class="red-text">F</span>arasa</span>
                         <br>
-                        <span class="white-text ">مدیریت هوشمند سلامت</span>
+                        <span class="white-text ">آموزش و سنجش الکترونیک</span>
                     </p>
                     <p class="left white-text ib header-institute-text doubled-border-top">موسسه توسعه دانش پژوهش و فن
                         آوری فرزان</p>
@@ -63,7 +63,7 @@
             </ul>
             <div class="nav-wrapper">
                 <ul class="right hide-on-med-and-down">
-                    <li>
+                    <!-- <li>
                         <a class="dropdown-button black-text waves-effect waves-teal" href="javascript:void(0)"
                            data-activates="dropdown1"
                            data-constrainwidth="false" data-alignment="right" data-hover="true">
@@ -91,14 +91,35 @@
                             <i class="mdi-social-people"></i>
                             <span>سازمان ها</span>
                         </a>
+                    </li> -->
+                    <li>
+                       <a class="dropdown-button black-text waves-effect waves-teal" href="javascript:void(0)" data-activates="dropdown5"
+                          data-constrainwidth="false" data-alignment="right" data-hover="true">
+                            <i class="mdi-action-assignment-ind"></i>
+                            <span>مشخصات کاربر</span>
+                        </a>
                     </li>
-<!--                    <li>-->
-<!--                        <a class="dropdown-button black-text waves-effect waves-teal" href="javascript:void(0)" data-activates="dropdown5"-->
-<!--                           data-constrainwidth="false" data-alignment="right" data-hover="true">-->
-<!--                            <i class="mdi-content-mail"></i>-->
-<!--                            <span> پیام ها و هشدارها</span>-->
-<!--                        </a>-->
-<!--                    </li>-->
+                   <li>
+                       <a class="dropdown-button black-text waves-effect waves-teal" href="javascript:void(0)" data-activates="dropdown5"
+                          data-constrainwidth="false" data-alignment="right" data-hover="true">
+                            <i class="mdi-action-class"></i>
+                            <span> دوره های من </span>
+                        </a>
+                    </li>
+                    <li>
+                       <a class="dropdown-button black-text waves-effect waves-teal" href="javascript:void(0)" data-activates="dropdown5"
+                          data-constrainwidth="false" data-alignment="right" data-hover="true">
+                            <i class="mdi-action-assessment"></i>
+                            <span>اعتبار و پرداخت</span>
+                        </a>
+                    </li>
+                    <li>
+                       <a class="dropdown-button black-text waves-effect waves-teal" href="javascript:void(0)" data-activates="dropdown5"
+                          data-constrainwidth="false" data-alignment="right" data-hover="true">
+                            <i class="mdi-content-mail"></i>
+                            <span> صندوق پستی</span>
+                        </a>
+                    </li>
 
                 </ul>
 
