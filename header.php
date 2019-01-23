@@ -153,16 +153,10 @@
                 <div class="divider"></div>
             </li>
             <!--            ===================items===========-->
-            <li><a class="collapsible-header waves-effect waves-teal"><i class="mdi-action-dashboard right"></i>
+            <li><a href="page1.php"><i class="mdi-action-dashboard right"></i>
                   دوره ها
                 </a>
-                <div class="collapsible-body">
-                    <ul>
-                        <li><a href="#"> </a></li>
-
-                    </ul>
-                </div>
-            </li>
+              
             <li><a class="collapsible-header waves-effect waves-teal"><i class="mdi-action-dashboard right"></i>
                   راهنما
                 </a>
@@ -191,10 +185,7 @@
 
                 <div class="collapsible-body">
                     <ul>
-                        <li><a href="#">مدیریت باشگاه ها</a></li>
-                        <li><a href="#">ایجاد باشگاه جدید</a></li>
-                        <li><a href="#">ثبت نام انبوه باشگاه</a></li>
-                        <li><a href="#">ارسال انبوه لینک</a></li>
+                    
                     </ul>
                 </div>
             </li>
