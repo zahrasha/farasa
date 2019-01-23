@@ -188,10 +188,11 @@
 
                 <div class="collapsible-body">
                     <ul>
-                        <li><a href="#">مدیریت سازمان ها</a></li>
-                        <li><a href="#">ایجاد سازمان جدید</a></li>
-                        <li><a href="#">ثبت نام انبوه کاربر</a></li>
-                        <li><a href="#">ثبت نام انبوه اعتبار</a></li>
+                        <li><a href="images/address.jpg">
+آدرس: تهران، میدان توحید، ابتدای خیابان ستارخان، کوچه شهید صیامی، پلاک ۱۷</a></li>
+                        <li>صندوق پستی: ۱۶۷۸-۱۳۱۸۵</li>
+                        <li>email: info@farzaninstitute.com</li>
+                        <li>وب سایت:www.farzaninstitute.com</li>
                     </ul>
                 </div>
             </li>
