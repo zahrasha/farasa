@@ -157,7 +157,7 @@
                   دوره ها
                 </a>
               
-            <li><a class="collapsible-header waves-effect waves-teal"><i class="mdi-action-dashboard right"></i>
+            <li><a href="page2.php"></a> <i class="mdi-action-dashboard right"></i>
                   راهنما
                 </a>
                 <div class="collapsible-body">
