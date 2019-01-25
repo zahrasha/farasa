@@ -4,6 +4,13 @@
 <?php include 'header.php'; ?>
     <!--start container-->
     <div class="container">
+        <div class="row margin-bottom-0">
+            <!--Top title-->
+            <div class="col s12 m12 l12">
+                <h5 class="breadcrumbs-title "><i class="mdi-action-class"></i>دوره های من</h5>
+            </div>
+        </div>
+
       <div class="row">
         <div class="col-xs-3 col-md-3">
            <h5 >دوره های من</h5>
