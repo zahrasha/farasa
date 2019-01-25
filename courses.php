@@ -7,30 +7,32 @@
         <div class="row margin-bottom-0">
             <!--Top title-->
             <div class="col s12 m12 l12">
-                <h5 class="breadcrumbs-title "><i class="mdi-action-class"></i>دوره های من</h5>
+              <h5 class="breadcrumbs-title "><i class="mdi-action-class"></i>دوره های من</h5>
             </div>
         </div>
-
       <div class="row">
-        <div class="col-xs-3 col-md-3">
-           <h5 >دوره های من</h5>
-           <div class="card" style="width: 18rem;">
-            <img src="images/50.jpg"class="card-img-top" alt="..."> <img src="images/ISBN-978-600-6135-00-7.jpg" alt="">
-            <div class="card-body">
-              
-              <a href="">  
-              <span class="card-text">استانداردهای گزارش پژوهش های بالينی(CONSORT)</span>
-            </a> <br>
-            <span>
-                موسسه فرزان
-<br>
-                دسته: پژوهش پزشکی
-              </span></div>
-          </div>
-   
-      
-        </div>
-        </div>
+        <?php 
+          for ($i = 0; $i <= 10; $i++) {
+            echo 
+            '<div class="col s12 m4 l3 right">
+                <div class="card z-depth-1 my-card">
+                  <div class="card-content">
+                  <div class="center">
+                    <a href="course.php"><img src="images/50.jpg"></a> 
+                    <img src="images/ISBN-978-600-6135-00-7.jpg">
+                  </div>
+                    <h3 class="title"><a href="course.php">استانداردهای گزارش پژوهش های بالينی(CONSORT)</a></h3>
+                    <p>
+                      <small>دسته: <b>پژوهش پزشکی</b></small>
+                      <small> / موسسه فرزان</small>
+                    </p>
+                  </div>
+                </div>
+            </div>';
+        } 
+        ?>
+
+      </div>
       </div>
     <!--end container-->
 
