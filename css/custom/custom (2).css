@@ -457,10 +457,10 @@ div.picker a.today {
 }
 
 .breadcrumbs-title {
-  font-size: 13pt;
-  margin: 6px 0 0 0;
+  font-size: 14pt;
+  margin: 10px 0 5px 0;
   line-height: normal;
-  /* font-weight: 700; */
+  font-weight: bold;
 }
 
 .modal.modal-fixed-footer {
@@ -923,6 +923,16 @@ th {
   font-size: 13pt;
   padding-right: 19px;
   margin: 1px 3px !important;
+}
+.my-card {
+  padding-top: 30px;
+  padding-bottom: 15px;
+}
+.card .title {
+  font-size: 13px;
+  margin: 5px 0;
+  font-weight: bold;
+  line-height: 1.5;
 }
 
 /*.form-text {*/
