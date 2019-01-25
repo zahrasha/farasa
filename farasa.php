@@ -10,48 +10,111 @@
 
 	<p>در صورتيكه عضو نيستيد<br>
 بر روي 
-	<a href="http://farasa.net/elearning2/registration.php?register=%D8%AB%D8%A8%D8%AA+%D9%86%D8%A7%D9%85"> ثبت نام</a> كليك كنيد. </p>	<br>
-	<!-- <p align="center">&#1575;&#1711;&#1585; &#1585;&#1605;&#1586; &#1593;&#1576;&#1608;&#1585; &#1582;&#1608;&#1583; &#1585;&#1575; &#1601;&#1585;&#1575;&#1605;&#1608;&#1588; &#1603;&#1585;&#1583;&#1607; &#1575;&#1610;&#1583;  <br><a href="http://www.farasa.net/elearning/password_reminder.php">&#1575;&#1610;&#1606;&#1580;&#1575;</a> &#1585;&#1575; &#1603;&#1604;&#1610;&#1603; &#1603;&#1606;&#1610;&#1583;.</p> -->
-	<div class="map"> </div>	
- </div>
+	<a href="http://farasa.net/elearning2/registration.php?register
+    =%D8%AB%D8%A8%D8%AA+%D9%86%D8%A7%D9%85"> ثبت نام</a> كليك كنيد. </p>
+    	<br>
+    </div>
     <div class="entry">
 
 <div class="lentry "></div>
     
         <div class="post" id="post-1274">
-            <h2><a href="http://farasa.net/home/?p=1274" rel="bookmark" title="لینک ثابت به اطلاعیه دوره مراقبت و کنترل دیابت">اطلاعیه دوره مراقبت و کنترل دیابت</a></h2>
-
-                <p><strong><a rel="attachment wp-att-1144" href="http://farasa.net/home/?attachment_id=1144"><img class="size-full wp-image-1144 alignleft" title="diabetes" src="http://farasa.net/home/wp-content/uploads/2018/01/diabetes4.jpg" alt="" width="93" height="90"></a> </strong></p>
-<h4><strong>قابل توجه پزشکان محترم شرکت کننده در دوره مراقبت و کنترل دیابت</strong></h4>
+            <h6><a href="http://farasa.net/home/?p=1274"
+             rel="bookmark" title="لینک ثابت به اطلاعیه دوره 
+             مراقبت و کنترل دیابت">اطلاعیه دوره مراقبت و کنترل دیابت
+             </a></h6>
+             <p><strong><a rel="attachment wp-att-1144"
+              href="http://farasa.net/home/?attachment_id=1144">
+             <img class="size-full wp-image-1144 alignleft"
+              title="diabetes" 
+              src="http://farasa.net/home/wp-content/uploads/2018/01/diabetes4.jpg" 
+              alt="" width="93" height="90" />
+              </a> 
+              </strong>
+              </p>  
+<h6><strong>
+قابل توجه پزشکان محترم شرکت کننده در دوره مراقبت و کنترل دیابت
+</strong></h6>
 <p> <br></p>
-<h4>دانشکده علوم پزشکی و خدمات بهداشتی درمانی تربت جام</h4>
-<h4>دانشکده علوم پزشکی و خدمات بهداشتی درمانی استان کرمانشاه</h4>
+<h6>دانشکده علوم پزشکی و خدمات بهداشتی درمانی تربت جام</h6>
+<h6>دانشکده علوم پزشکی و خدمات بهداشتی درمانی جیرفت </h6>
 <p>&nbsp;</p>
-<p>دوره مذکور از تاریخ ۱۳۹۷/۱۱/۰۱ برای شرکت کنندگان، قابل دسترس می باشد و می توانند گایدلاین استفاده از سایت را از <a title="راهنمای پزشکان شرکت کننده در دوره دیابت  " href="http://farasa.net/home/wp-content/uploads/2018/12/%D8%B1%D8%A7%D9%87%D9%86%D9%85%D8%A7%DB%8C-%D9%BE%D8%B2%D8%B4%DA%A9%D8%A7%D9%86-%D8%B4%D8%B1%DA%A9%D8%AA-%DA%A9%D9%86%D9%86%D8%AF%D9%87-%D8%AF%D8%B1-%D8%AF%D9%88%D8%B1%D9%87-%D8%AF%DB%8C%D8%A7%D8%A8%D8%AA.pdf">اینجا</a> دانلود و مطالعه نمایند.</p>
-<p style="text-align: justify;"><span style="color: #ff0000;"><strong>توجه : آزمون نوبت اول در روز چهارشنبه مورخ ۱۳۹۷/۱۲/۰۱ برگزار خواهد شد و افرادی که موفق به کسب نمره قبولی در این آزمون نشده باشند می توانند در آزمون نوبت دوم در روز چهارشنبه مورخ ۱۳۹۷/۱۲/۰۸ شرکت کنند.</strong></span><strong> </strong></p>
+<p> دوره مذکور از تاریخ ۱۳۹۷/۱۰/۱۰ برای شرکت کنندگان، 
+قابل دسترس می باشد و می توانند گایدلاین استفاده از سایت را از 
+ <a title="راهنمای پزشکان شرکت کننده در دوره دیابت  "
+  href="http://farasa.net/home/wp-content/uploads/2018/12/%D8%B1%D8%A7%D9%87%D9%86%D9%85%D8%A7%DB%8C
+  -%D9%BE%D8%B2%D8%B4%DA%A9%D8%A7%D9%86-%D8%B4%D8%B1%DA%A9%D8%AA-%DA%A9%D9%86%D9%86%D8%AF%D9%87-
+  %D8%AF%D8%B1-%D8%AF%D9%88%D8%B1%D9%87-%D8%AF%DB%8C%D8%A7%D8%A8%D8%AA.pdf">اینجا
+  </a>
+   دانلود و مطالعه نمایند.
+   </p>
+
+<p style="text-align: justify;">
+<span style="color:blue;">
+<strong>
+توجه : آزمون نوبت اول در روز شنبه مورخ 
+۱۳۹۷/۱۱/۱۳ برگزار خواهد شد 
+و افرادی که موفق به کسب نمره قبولی 
+در این آزمون نشده باشند می توانند در آزمون نوبت 
+دوم در روز سه شنبه مورخ ۱۳۹۷/۱۱/۲۳ شرکت کنند.
+ </strong>
+ </span>
+ 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
 
         </div>
-
     
-        <div class="post" id="post-1265">
-            <h2><a href="http://farasa.net/home/?p=1265" rel="bookmark" title="لینک ثابت به اطلاعیه دوره مراقبت و کنترل دیابت">اطلاعیه دوره مراقبت و کنترل دیابت</a></h2>
+        <div class="post" id="post-1274">
+            <h6><a href="http://farasa.net/home/?p=1274"
+             rel="bookmark" title="لینک ثابت به اطلاعیه دوره 
+             مراقبت و کنترل دیابت">اطلاعیه دوره مراقبت و کنترل دیابت
+             </a></h6>
+             <p><strong><a rel="attachment wp-att-1144"
+              href="http://farasa.net/home/?attachment_id=1144">
+             <img class="size-full wp-image-1144 alignleft"
+              title="diabetes" 
+              src="http://farasa.net/home/wp-content/uploads/2018/01/diabetes4.jpg" 
+              alt="" width="93" height="90" />
+              </a> 
+              </strong>
+              </p>  
+<h6><strong>
+قابل توجه پزشکان محترم شرکت کننده در دوره مراقبت و کنترل دیابت
+</strong></h6>
+<p> <br></p>
+<h6>دانشکده علوم پزشکی و خدمات بهداشتی درمانی تربت جام</h6>
+<h6>دانشکده علوم پزشکی و خدمات بهداشتی درمانی استان کرمانشاه</h6>
+<p>&nbsp;</p>
+<p>دوره مذکور از تاریخ ۱۳۹۷/۱۱/۰۱ برای شرکت کنندگان،
+ قابل دسترس می باشد و می توانند گایدلاین استفاده از سایت را از 
+ <a title="راهنمای پزشکان شرکت کننده در دوره دیابت  "
+  href="http://farasa.net/home/wp-content/uploads/2018/12/%D8%B1%D8%A7%D9%87%D9%86%D9%85%D8%A7%DB%8C
+  -%D9%BE%D8%B2%D8%B4%DA%A9%D8%A7%D9%86-%D8%B4%D8%B1%DA%A9%D8%AA-%DA%A9%D9%86%D9%86%D8%AF%D9%87-
+  %D8%AF%D8%B1-%D8%AF%D9%88%D8%B1%D9%87-%D8%AF%DB%8C%D8%A7%D8%A8%D8%AA.pdf">اینجا
+  </a>
+   دانلود و مطالعه نمایند.
+   </p>
 
-                <p><strong><a rel="attachment wp-att-1144" href="http://farasa.net/home/?attachment_id=1144"><img class="size-full wp-image-1144 alignleft" title="diabetes" src="http://farasa.net/home/wp-content/uploads/2018/01/diabetes4.jpg" alt="" width="93" height="90"></a> </strong></p>
-<p>&nbsp;</p>
-<p><strong>قابل توجه پزشکان محترم شرکت کننده در دوره مراقبت و کنترل دیابت</strong></p>
-<p><strong>دانشگاه علوم پزشکی و خدمات بهداشتی درمانی جیرفت</strong></p>
-<p>&nbsp;</p>
-<p>دوره مذکور از تاریخ ۱۳۹۷/۱۰/۱۰ برای شرکت کنندگان، قابل دسترس می باشد و می توانند گایدلاین استفاده از سایت را از <a title="راهنمای پزشکان شرکت کننده در دوره دیابت  " href="http://farasa.net/home/wp-content/uploads/2018/12/%D8%B1%D8%A7%D9%87%D9%86%D9%85%D8%A7%DB%8C-%D9%BE%D8%B2%D8%B4%DA%A9%D8%A7%D9%86-%D8%B4%D8%B1%DA%A9%D8%AA-%DA%A9%D9%86%D9%86%D8%AF%D9%87-%D8%AF%D8%B1-%D8%AF%D9%88%D8%B1%D9%87-%D8%AF%DB%8C%D8%A7%D8%A8%D8%AA.pdf">اینجا</a> دانلود و مطالعه نمایند.</p>
-<p style="text-align: justify;"><span style="color: #ff0000;"><strong>توجه : آزمون نوبت اول در روز شنبه مورخ ۱۳۹۷/۱۱/۱۳ برگزار خواهد شد و افرادی که موفق به کسب نمره قبولی در این آزمون نشده باشند می توانند در آزمون نوبت دوم در روز سه شنبه مورخ ۱۳۹۷/۱۱/۲۳ شرکت کنند.</strong></span><strong> </strong></p>
+<p style="text-align: justify;">
+<span style="color:blue;">
+<strong>توجه :
+ آزمون نوبت اول در روز چهارشنبه مورخ ۱۳۹۷/۱۲/۰۱
+ برگزار خواهد شد و افرادی که موفق به کسب
+ نمره قبولی در این آزمون نشده باشند می توانند در
+ آزمون نوبت دوم
+  در روز 
+  چهارشنبه مورخ ۱۳۹۷/۱۲/۰۸ شرکت کنند.
+ </strong>
+ </span>
+ 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
 
         </div>
-
+        
     
         <div class="post" id="post-1239">
             <h2><a href="http://farasa.net/home/?p=1239" rel="bookmark" title="لینک ثابت به اطلاعیه دوره مراقبت و کنترل دیابت">اطلاعیه دوره مراقبت و کنترل دیابت</a></h2>
