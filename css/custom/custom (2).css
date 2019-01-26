@@ -458,7 +458,7 @@ div.picker a.today {
 
 .breadcrumbs-title {
   font-size: 14pt;
-  margin: 10px 0 5px 0;
+  margin: 10px 0;
   line-height: normal;
   font-weight: bold;
 }
@@ -927,6 +927,16 @@ th {
 .my-card {
   padding-top: 30px;
   padding-bottom: 15px;
+  margin: 0.5rem 0 1rem;
+}
+.link {
+  color: #333;
+  font-size: 18px;
+  font-weight: bold;
+}
+.bordered-card {
+  border: 1px solid #ccc;
+  border-radius: 4px;
 }
 .card .title {
   font-size: 13px;
