@@ -24,7 +24,10 @@
 				<option  value="male">مرد</option>
 				<option value="female">زن</option>
 				</select>
-				
+				<br><label for="login">حساب</label><br />
+				<select name="#"  >
+				<option  value="farasa">فراسا</option>
+				</select>
 	</div>
 
 	<br>
