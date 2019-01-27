@@ -10,31 +10,23 @@
                 <h5 class="breadcrumbs-title "><i class="mdi-action-home"></i> اعتبار و پرداخت</h5>
             </div>
         </div>
-        <table class="responsive-table striped centered 
-        farzan-table  first-col-shrink">
-        <thead class="white-text purple">
-	
-       <tr>
-       <td>اعتبار فعال
-	         </td>
-        
-	         <td>میزان اعتبار
-	         </td>
-	   </tr>
-       </thead>
-       <tbody >
-         <tr>
-       <td>اعتبار اختصاص یافته به شما	</td>
-	   <td>اعتبار اختصاص یافته به حساب/مرکز شما	</td>
-       </tr> 
-       <tr>
-       <td><input type="text"></td>
-       <td><input type="text"></td>       
-       </tr>
-	   </tbody>
-    </table>
+        <div>
+        <table class=" striped centered farzan-table  first-col-shrink  ">
 
+<tr>
+<td>
+اعتبار فعال</td>
+<td>
+اعتبار اختصاص یافته به شما</td>
+<td>
+اعتبار اختصاص یافته به حساب/مرکز شما</td>
+</tr>
+<tr>
+<td>میزان اعتبار</td> 
+</tr>
 
+</div>
+        </table>   
 
 
     </div>

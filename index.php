@@ -17,7 +17,7 @@
                         <a href="course.php" target="_blank">صفحه اصلی دوره</a>
                     </li>
                     <li class="collection-item">
-                        <a href="exam.php" target="_blank">صفحه مربوط به آزمون ها</a>
+                        <a href="test.php" target="_blank">صفحه مربوط به آزمون ها</a>
                     </li>
                     <li class="collection-item">
                         <a href="content.php" target="_blank">صفحه نمایش محتوای</a>
