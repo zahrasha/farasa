@@ -944,7 +944,38 @@ th {
   font-weight: bold;
   line-height: 1.5;
 }
-
+.list-container {
+  padding: 10px 15px;
+}
+.list-container a {
+  font-size: 14px;
+  padding-right: 7px;
+}
+.list-container ul ul {
+  padding-right: 15px;
+  display: none;
+}
+.content-wrapper p {
+  text-align: justify;
+  line-height: 1.9;
+  font-size: 16px;
+}
+.content-wrapper img {
+  margin: 15px 0 15px 15px;
+}
+.main-title {
+  margin: 10px 0;
+  font-size: 18px;
+  font-weight: bold;
+}
+.nav-links {
+  text-align: center;
+  background: gainsboro;
+  margin: 0 5px;
+  padding: 1px 15px;
+  color: #333;
+  border-radius: 4px;
+}
 /*.form-text {*/
 /*font-size: 22px;*/
 /*margin: 25px auto;*/
