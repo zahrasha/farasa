@@ -10,24 +10,25 @@
                 <h5 class="breadcrumbs-title "><i class="mdi-action-home"></i> ذخیره سازی فایل ها</h5>
             </div>
         </div>
+        <div class="row">
+    <div class="col s6 offset-s6" >
 <span>فضای کاری</span>
-<div><form action="">
+<div><form  action="">
 <select name="" id="">
 <option value="">فایل دوره ها</option>
 <option value="">فایل های من</option>
 </select>
-<input type="submit" value="برو!">
+<input  class="btn" type="submit" value="برو!">
 </form><br><br>
-<label for="">مسير فلدر جاري:</label>
+<span >مسير فلدر جاري:</span>
 <a href="#">صفحه اصلی دوره</a>
-</div><br><br><br>
-<div>
-
-<table class="mat-table" >
+</div><br><br><br></div></div>
+<div class="row">
+<div class="col l8 offset-l2">
+<table  >
 <thead>
 <tr>
-<td>
-</td>
+
 <td>
 <a href="#"> 
 فايل</a></td>
@@ -50,7 +51,7 @@
 </tr>
 </div>
 </tbody>
-</table>
+</table></div>
 </div> 
 <div>
 <form action="">
