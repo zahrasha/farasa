@@ -11,22 +11,27 @@
             </div>
         </div>
         <div class="row">
-    <div class="col s6 offset-s6" >
+    <div class="col s6  offset-s6" >
 <span>فضای کاری</span>
 <div><form  action="">
 <select name="" id="">
 <option value="">فایل دوره ها</option>
 <option value="">فایل های من</option>
 </select>
-<input  class="btn" type="submit" value="برو!">
+<button class="btn blue waves-effect 
+waves-light" 
+type="submit" name="action">برو!
+<i class="">
+   </i>
+  </button>
 </form><br><br>
 <span >مسير فلدر جاري:</span>
 <a href="#">صفحه اصلی دوره</a>
 </div><br><br><br></div></div>
 <div class="row">
 <div class="col l8 offset-l2">
-<table  >
-<thead>
+<table class="striped  " >
+<thead >
 <tr>
 
 <td>
@@ -41,6 +46,7 @@
 </thead>
 <tbody>
 <tr>
+<tr>
 <td>	 Assignment.doc</td>
 <td>    موسسه فرزان</td>
 <td > 	-</td>
@@ -54,11 +60,12 @@
 </table></div>
 </div> 
 <div>
-<form action="">
-<div class="input-field">
-<button class="btn">دانلود</button>
-</div>
-</form>
+<button  class="btn  blue  waves-effect 
+waves-light" 
+type="submit" name="action">دانلود
+<i class="">
+   </i>
+  </button>
 
 </div>
     </div>

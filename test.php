@@ -45,21 +45,23 @@
     <span>ارسالهاي شما:</span>
     <br>
     <br>
-    <form method="get" action="/elearning2/tools/my_tests.php" enctype="multipart/form-data" >
-<table class="data static" summary="" rules="cols">
+    <form method="get" action="/elearning2/tools/my_tests.php"
+     enctype="multipart/form-data" >
+<table class="data static collection" 
+summary="" rules="cols">
     <thead>
-<tr>
+<tr class="collection  ">
 	<th >&nbsp;</th>	
-    <th>عنوان</th>
-	<th>تاريخ آزمون</th>
-	<th>مدت زمان حضور در آزمون</th>
-	<th>نمره</th>
-	<th>ارسال </th>
+    <th >عنوان</th>
+	<th >تاريخ آزمون</th>
+	<th >مدت زمان حضور در آزمون</th>
+	<th >نمره</th>
+	<th >ارسال </th>
 </tr>
 </thead>
-</table>
+
 <tbody>
-<tr><td colspan="4">چيزي پيدا نشد.</td></tr></tbody>
+<tr><td colspan="5">چيزي پيدا نشد.</td></tr></tbody>
 </table>
     </form>
     </div> 
