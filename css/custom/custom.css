@@ -606,7 +606,7 @@ a.my-nav:active, a.my-nav:hover {
 }
 
 .myborder {
-    border: 1px solid red;
+    border: 1px solid rgb(0, 255, 242);
 }
 
 .my-prefix {

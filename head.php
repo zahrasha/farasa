@@ -23,7 +23,7 @@
 
     <!-- Custome CSS-->
     <link href="./css/custom/custom (2).css" type="text/css" rel="stylesheet" media="screen,projection">
-    <link href="./css/custom/custom-D.css" Type="text/css" rel="style" media="screen,projection">
+    <link href="./css/custom/custom-chat.css" Type="text/css" rel="style" media="screen,projection">
     <!-- INCLUDED PLUGIN CSS ON THIS PAGE -->
 <!--    <link href="./js/plugins/perfect-scrollbar/perfect-scrollbar.css" type="text/css" rel="stylesheet"-->
 <!--          media="screen,projection">-->
