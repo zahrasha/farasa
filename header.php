@@ -152,6 +152,11 @@
 <!--                        </a>-->
 <!--                    </li>-->
                     <li>
+                        <a class="dropdown-button black-text tooltip-top modal-trigger" href="#help-modal" title="راهنما">
+                            <i class="mdi-action-info"></i>
+                        </a>
+                    </li>
+                    <li>
                         <a class="dropdown-button black-text tooltip-top" href="javascript:void(0)"
                            data-activates="dropdown9"
                            data-constrainwidth="false" data-alignment="left" data-hover="true" title="تنظیمات">

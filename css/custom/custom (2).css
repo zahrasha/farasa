@@ -60,6 +60,10 @@ WE WILL RELEASE FUTURE UPDATES SO IN ORDER TO NOT OVERWRITE YOUR STYLES IT'S BET
   z-index: 9999;
   position: absolute;
 }
+a {
+  background-color: transparent;
+  color: #00b0ff;
+}
 .clockpicker-popover .popover-title,
 .clockpicker {
   direction: ltr;
@@ -523,7 +527,9 @@ div.picker a.today {
 .modal .modal-content {
   padding: 2px !important;
 }
-
+.modal.modal-fixed-footer .modal-content {
+  padding: 15px;
+}
 .dropify-wrapper,
 [class^="swal2"] {
   font-family: "IRANSans" !important;
@@ -924,7 +930,10 @@ textarea.my-textarea-tiny {
 }
 
 .setting li {
-  padding: 5 !important;
+  padding: 5px !important;
+}
+.setting li a {
+  color: #00b0ff !important;
 }
 
 ul.table-options {
