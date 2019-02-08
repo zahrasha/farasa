@@ -272,8 +272,8 @@ textarea.materialize-textarea[readonly="readonly"] + label {
 }
 
 [type="checkbox"]:checked + label:before {
-  border-right: 2px solid #057153 !important;
-  border-bottom: 2px solid #057153 !important;
+  border-right: 2px solid #2e5db3 !important;
+  border-bottom: 2px solid #2e5db3 !important;
 }
 
 .upload-text {
@@ -1126,7 +1126,7 @@ th [type="checkbox"] + label:before {
   right: 0 !important;
   white-space: normal;
   top: 0.5rem !important;
-  margin-top: 15px;
+  margin-top: 0;
   margin-bottom: 10px;
   font-size: 10pt;
 }
@@ -1865,7 +1865,9 @@ figure:hover + span {
 }
 
 /*----------------Radio Button and check box customization-------------------*/
-
+.myradio label {
+  right: 5px !important;
+}
 [type="radio"]:not(:checked) + label,
 [type="radio"]:checked + label {
   padding-right: 0 !important;
