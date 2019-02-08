@@ -64,7 +64,17 @@ input[type=password]:focus.valid {
     font-size: 1.1rem !important;
 }
 
-
+.overflow-hidden {
+    overflow: hidden;
+}
+.header-search-wrapper {
+    width: 200px!important;
+    margin: 0 auto;
+    margin-top: 3px;
+    height: 40px;
+    display: inline-block;
+    position: relative;
+}
 /* ------------------------ end error input field -------------------- */
 [class^="flaticon-"]:before, [class*=" flaticon-"]:before,
 [class^="flaticon-"]:after, [class*=" flaticon-"]:after {

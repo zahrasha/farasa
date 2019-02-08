@@ -72,6 +72,69 @@ WE WILL RELEASE FUTURE UPDATES SO IN ORDER TO NOT OVERWRITE YOUR STYLES IT'S BET
   right: 13px;
   display: none;
 }
+
+.overflow-hidden {
+  overflow: hidden;
+}
+.border-radius-10 {
+  border-radius: 10px;
+}
+.header-search-wrapper {
+  width: 200px !important;
+  margin: 0 auto;
+  margin-top: 3px;
+  height: 40px;
+  display: inline-block;
+  position: relative;
+}
+.search-council {
+  width: 90% !important;
+  height: 1rem !important;
+  padding: 6px 8px !important;
+  border-bottom: 0 !important;
+  border-radius: 40px !important;
+  position: relative;
+  top: -2px !important;
+  font-size: 0.9rem !important;
+}
+.header-search-wrapper a i {
+  font-size: 1.1rem;
+  position: absolute;
+  z-index: 3;
+  left: 8px;
+  top: -1px !important;
+  cursor: pointer;
+}
+.header-search-wrapper:hover {
+  background-color: transparent !important;
+}
+input[type="date"]:focus:not([readonly]),
+input[type="datetime-local"]:focus:not([readonly]),
+input[type="email"]:focus:not([readonly]),
+input[type="number"]:focus:not([readonly]),
+input[type="password"]:focus:not([readonly]),
+input[type="search"]:focus:not([readonly]),
+input[type="tel"]:focus:not([readonly]),
+input[type="text"]:focus:not([readonly]),
+input[type="time"]:focus:not([readonly]),
+input[type="url"]:focus:not([readonly]),
+textarea.materialize-textarea:focus:not([readonly]) {
+  border-bottom: 1px solid #00b0ff;
+  box-shadow: 0 1px 0 0 #00b0ff;
+}
+input[type="date"]:focus:not([readonly]) + label,
+input[type="datetime-local"]:focus:not([readonly]) + label,
+input[type="email"]:focus:not([readonly]) + label,
+input[type="number"]:focus:not([readonly]) + label,
+input[type="password"]:focus:not([readonly]) + label,
+input[type="search"]:focus:not([readonly]) + label,
+input[type="tel"]:focus:not([readonly]) + label,
+input[type="text"]:focus:not([readonly]) + label,
+input[type="time"]:focus:not([readonly]) + label,
+input[type="url"]:focus:not([readonly]) + label,
+textarea.materialize-textarea:focus:not([readonly]) + label {
+  color: #00b0ff;
+}
 /* -------------- Toast ----------------- */
 .toast {
   border-radius: 4px;
@@ -272,8 +335,8 @@ textarea.materialize-textarea[readonly="readonly"] + label {
 }
 
 [type="checkbox"]:checked + label:before {
-  border-right: 2px solid #2e5db3 !important;
-  border-bottom: 2px solid #2e5db3 !important;
+  border-right: 2px solid #00b0ff !important;
+  border-bottom: 2px solid #00b0ff !important;
 }
 
 .upload-text {
@@ -324,12 +387,12 @@ textarea.materialize-textarea[readonly="readonly"] + label {
 }
 
 [type="radio"].with-gap:checked + label:before {
-  border: 2px solid #057153 !important;
+  border: 2px solid #00b0ff !important;
 }
 
 [type="radio"].with-gap:checked + label:after {
-  border: 2px solid #057153 !important;
-  background-color: #057153 !important;
+  border: 2px solid #00b0ff !important;
+  background-color: #00b0ff !important;
 }
 
 .modal.modal-fixed-footer .modal-footer {
@@ -481,8 +544,8 @@ td img {
 }
 
 [type="radio"]:checked + label:after {
-  border: 2px solid #057153;
-  background-color: #057153;
+  border: 2px solid #00b0ff;
+  background-color: #00b0ff;
 }
 
 th [type="checkbox"] + label:before {
@@ -491,7 +554,7 @@ th [type="checkbox"] + label:before {
 
 .pagination li.active,
 footer.page-footer {
-  background-color: #057153;
+  background-color: #00b0ff;
 }
 
 /*search-bar*/
@@ -698,13 +761,13 @@ td img {
 }
 
 [type="radio"]:checked + label:after {
-  border: 2px solid #057153;
-  background-color: #057153;
+  border: 2px solid #00b0ff;
+  background-color: #00b0ff;
 }
 
 .pagination li.active,
 footer.page-footer {
-  background-color: #057153;
+  background-color: #00b0ff;
 }
 
 .excel-btn a i {
@@ -898,7 +961,7 @@ th {
 
 /*==================================form===================================== */
 .card-header {
-  background-color: #057153 !important;
+  background-color: #00b0ff !important;
   box-shadow: 0 0 5px rgba(0, 0, 0, 0.4);
   padding: 8px;
 }
@@ -1320,7 +1383,7 @@ ul.card-prifile-list {
 }
 
 .farzan-select .dropdown-content li:not(.disabled) > span {
-  color: #057153;
+  color: #00b0ff;
 }
 
 .select-wrapper input.select-dropdown {
@@ -1821,7 +1884,7 @@ figure:hover + span {
   right: 2rem;
   white-space: nowrap;
   font-size: 0.9rem;
-  color: #057153;
+  color: #111;
 }
 
 .input-field input[type="radio"] ~ label,
@@ -1947,13 +2010,17 @@ table.responsive-table th {
     border: 1px solid rgba(224, 224, 224, 0.81);
   }
 
-  nav,
+  nav {
+    height: 30px;
+    line-height: 29px;
+    width: 100%;
+  }
   nav .nav-wrapper i,
   nav a.button-collapse,
   nav a.button-collapse i {
-    height: 30px;
-    line-height: 29px;
-    width: 30px !important;
+    height: 28px;
+    line-height: 27px;
+    width: 28px !important;
     font-size: 1.2rem !important;
   }
 
@@ -2301,6 +2368,14 @@ table.responsive-table th {
 @media screen and (max-width: 768px) {
   .header-institute-text {
     margin: 0;
+  }
+  nav li {
+    float: right;
+    display: inline-block;
+    margin-left: 5px;
+  }
+  .header-search-wrapper {
+    top: -3px;
   }
 }
 
@@ -2931,7 +3006,7 @@ table.responsive-table th {
 button.btn-floating,
 thead.purple,
 thead.purple.lighten-1 {
-  background: #057153 !important;
+  background: #00b0ff !important;
 }
 
 .classLabel {
