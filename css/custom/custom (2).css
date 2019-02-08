@@ -74,26 +74,10 @@ WE WILL RELEASE FUTURE UPDATES SO IN ORDER TO NOT OVERWRITE YOUR STYLES IT'S BET
 }
 /* -------------- Toast ----------------- */
 .toast {
-  border-radius: 6px;
-  position: relative;
-  top: 0 !important;
-  width: auto;
-  clear: both;
-  margin: 0 0 6px 0 !important;
-  max-width: 100%;
-  height: auto;
-  min-height: 30px;
+  border-radius: 4px;
   line-height: 1rem !important;
   word-break: break-all;
-  background-color: #eeeeee !important;
-  padding: 10px !important;
   font-size: 1rem !important;
-  font-weight: 300;
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  box-shadow: 0 27px 24px 0 rgba(0, 0, 0, 0.2),
-    0 40px 77px 0 rgba(0, 0, 0, 0.22);
 }
 
 #toast-container {

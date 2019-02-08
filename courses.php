@@ -37,6 +37,10 @@
     <!--end container-->
 
 <?php include 'footer.php'; ?>
+
+<script>
+  Materialize.toast("شما با موفقيت وارد شديد. خوش آمديد!", 3000);
+</script>
 </body>
 
 </html>
