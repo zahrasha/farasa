@@ -40,8 +40,14 @@
             <div class="col s12 m8 l10 right" id="MainLinks">
               <div class="white my-card bordered-card content-wrapper" style="padding: 15px;">
                 <h3 class="main-title right">عنوان محتوا</h3>
-                <a href="#" class="left nav-links">بعد</a>  
-                <a href="#" class="left nav-links">قبل</a>  
+                <a href="#" class="left nav-links">
+                  بعد
+                  <i class="mdi-navigation-arrow-back icon btn-icon"></i>
+                </a>  
+                <a href="#" class="left nav-links">
+                  <i class="mdi-navigation-arrow-forward icon btn-icon"></i>
+                  قبل
+                </a>  
                 <div class="clear"></div>
                 <p>
   در اوايل دهه 1990 دو گروه از سردبيران مجلات ، متخصصين کارآزمايي و متدولوژيست ها به طور مستقل پيشنهاداتي در مورد گزارش کارآزمايي ها ارائه دادند و پس از هماهنگ سازي نظرات، CONSORT (استاندارد تلفيقي در گزارش کارآزمايي ها)به وجود آمد. بيانيه CONSORT شامل چک ليستي مبني بر عناوين ضروري در گزارش کارآزمايي ها ونمودار روند و جريان شرکت کنندگان   است. 

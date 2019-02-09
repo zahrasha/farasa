@@ -120,6 +120,14 @@
                             <span> صندوق پستی</span>
                         </a>
                     </li>
+                    <li class="header-search-wrapper overflow-hidden">
+                        <form action="#" method="get" style="height: 35px;">
+                            <a onclick="$(this).closest('form').submit();" name="search-btn" class="left" data-hover="false"><i class="mdi-action-search white-text"></i></a>
+                            <input type="text" class="light-blue accent-3 border-radius-10 search-council" style="height: 1rem !important;" name="search_text" placeholder="جستجو کنید...">
+                            <input type="hidden" name="a" value="search">
+                            <input type="hidden" name="lang" value="fa">
+                        </form>
+                    </li>
 
                 </ul>
 
@@ -143,6 +151,11 @@
 <!--                            <i class="mdi-editor-insert-invitation"></i>-->
 <!--                        </a>-->
 <!--                    </li>-->
+                    <li>
+                        <a class="dropdown-button black-text tooltip-top modal-trigger" href="#help-modal" title="راهنما">
+                            <i class="mdi-action-info"></i>
+                        </a>
+                    </li>
                     <li>
                         <a class="dropdown-button black-text tooltip-top" href="javascript:void(0)"
                            data-activates="dropdown9"
@@ -173,9 +186,17 @@
 <nav class="hide-on-large-only mobile-nav">
     <div class="nav-wrapper white">
         <!--        ==================================button menu============================/-->
-        <a href="#" data-activates="mobile-demo" class="button-collapse right btn btn-floating teal darken-2">
-            <i class="mdi-navigation-menu"></i>
-        </a>
+        <li>
+            <a href="#" data-activates="mobile-demo" class="button-collapse right btn btn-floating light-blue accent-3">
+                <i class="mdi-navigation-menu"></i>
+            </a>
+        </li>
+        <li class="header-search-wrapper overflow-hidden">
+            <form action="#" method="post" style="height: 35px;">
+            <a onclick="$(this).closest('form').submit();" name="search-btn" href="" class="left"><i class="mdi-action-search white-text"></i></a>
+            <input type="text" class="light-blue accent-3 border-radius-10 search-council" style="height: 1rem !important;" placeholder="جستجو کنید...">
+            </form>
+        </li>
         <!--        ==================================mobile menu Sabbaghi============================/-->
         <ul class="side-nav collapsible collapsible-accordion" id="mobile-demo">
             <li class="active"><a href="#" class="collapsible-header remove-arrow waves-effect waves-cyan">

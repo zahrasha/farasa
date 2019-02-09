@@ -82,6 +82,19 @@
 </footer>
 <!-- END FOOTER -->
 
+
+<!-- Modal Structure -->
+<div id="help-modal" class="modal modal-fixed-footer">
+    <div class="modal-content">
+      <h5 class="center">راهنمای استفاده از سایت</h5>
+      <p>برای دسترسی به دوره های آموزشی آنلاین سامانه آموزش و سنجش فراسا ، ابتدا باید وارد سایت  
+        <a href="http://www.farasa.net">www.farasa.net</a>    
+      شوید. برای استفاده از امکانات سامانه شما نیازمند به یک کامپیوتر، یک خط اینترنت ADSL حداقل 128 مگابایتی، یک عدد هدست و نرم افزار Adobe Flash Player 11  دارید (برای دانلود نرم افزار به صفحه اصلی سایت فراسا، بخش راهنما مراجعه نمایید.)</p>
+    </div>
+    <div class="modal-footer">
+      <a href="#" class="modal-close waves-effect waves-green btn-flat left">متوجه شدم</a>
+    </div>
+  </div>
 <!-- ================================================
 Scripts
 ================================================ -->

@@ -148,24 +148,6 @@ $(document).ready(function() {
         return input === 0 ? "" : input.toLocaleString("en-US");
       });
     });
-
-    /**
-     * ==================================
-     * When Form Submitted
-     * ==================================
-     */
-    $form.on("submit", function(event) {
-      var $this = $(this);
-      var arr = $this.serializeArray();
-
-      for (var i = 0; i < arr.length; i++) {
-        arr[i].value = arr[i].value.replace(/[($)\s\._\-]+/g, ""); // Sanitize the values.
-      }
-
-      // console.log(arr);
-
-      event.preventDefault();
-    });
   });
 })(jQuery);
 
