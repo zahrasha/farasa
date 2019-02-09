@@ -50,7 +50,10 @@
                         <a href="payment.php" target="_blank">صفحه های مربوط به پرداخت</a>
                     </li>
                     <li class="collection-item">
-                        <a href="upload-file.php" target="_blank">صفحه آپلود فایل</a>
+                        <a href="upload-file.php" target="_blank">
+                            <i class="mdi-toggle-check-box"></i>
+                            صفحه آپلود فایل(ذخيره سازي فايل)
+                        </a>
                     </li>
                 </ul>
             </div>

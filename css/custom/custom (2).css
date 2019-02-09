@@ -3030,7 +3030,13 @@ thead.purple,
 thead.purple.lighten-1 {
   background: #00b0ff !important;
 }
-
+thead.purple tr.active-row {
+  background: #00b0ff !important;
+}
+thead.purple tr.active-row [type="checkbox"]:checked + label:before {
+  border-right: 2px solid #fff !important;
+  border-bottom: 2px solid #fff !important;
+}
 .classLabel {
   background: #444;
   color: #fff;
