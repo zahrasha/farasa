@@ -15,7 +15,6 @@
   
 }
 .table {
-  line-height: 2.5;
   direction:ltr;
   border: 1px solid #ccc;
   border-collapse: collapse;
@@ -37,11 +36,11 @@
   padding: .625em;
   text-align: left;
 }
-.table th {
+.table thead {
   background:#0e92ef;
   color:#ebf8f9;
 } 
-.table td {
+.table tbody {
   white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;
@@ -69,14 +68,12 @@ table{
   border: 1px solid rgba(255,255,255,0.3);
 }
 th{
-  padding: 20px 15px;
   text-align: left;
   font-weight: 500;
   font-size: 12px;
   text-transform: uppercase;
 }
 td{
-  padding: 15px;
   text-align: left;
   vertical-align:middle;
   font-weight: 300;
@@ -84,20 +81,8 @@ td{
   border-bottom: solid 1px rgba(255,255,255,0.1);
 }
 .table.card{
-  height:259px;
-  margin-right:5px;
 
 }
-
-
-
-
-
-
-
-
-
-
 </style>
 <body>
 <?php include 'header.php'; ?>
@@ -133,9 +118,9 @@ td{
       </div> 
       </div>  
       </div>
-        <table class=" table card">
-        <thead>
-    <tr >
+        <table class=" table card responsive-table striped centered farzan-table  first-col-shrink">
+        <thead class="white-text ">
+    <tr  class="my-table" >
       <th scope="col"> وضعیت دوره </th>
       <th scope="col"> نمره نهایی</th>
       <th scope="col"> 	گواهی </th>
@@ -167,9 +152,9 @@ td{
       <td> دریافت نشده </td>
       <td> <a href="#"> مبانی Plagiarism ویژه سردبیران </a></td>
     </tr>
-    
+   
   </tbody>
-</table>
+</table> 
     </div>
     </div>
     </div>

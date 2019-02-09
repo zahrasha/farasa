@@ -1,5 +1,10 @@
 <?php include 'head.php'; ?>
 </head>
+<style>
+.first-col-shrink tr th:first-child {
+    width: 15%;
+}
+</style>
 <body>
 <?php include 'header.php'; ?>
     <!--start container-->
@@ -13,59 +18,53 @@
 
 
         <div>
-        <form method="get" action="/elearning2/tools/my_tests.php" enctype="multipart/form-data" >
-<table class="data static" summary="" rules="cols">
-<thead>
-<tr>
-	<th >&nbsp;</th>	
-    <th>عنوان</th>
-	<th>وضعيت</th>
-	<th>تاريخ شروع</th>
-	<th>تاريخ اتمام</th>
-	<th>تعداد ارسال مجاز</th>
-</tr>
-</thead>
-<tbody>
-<tr><td>&nbsp;</td><td>
-    <strong>
-    <a href="tools/test_intro.php?tid=28">آزمون نهایی</a>
-    </strong>
-    </td><td>
-    <em><strong>آماده پاسخ‌گويي</strong></em></td>
-    <td>&#1777;&#1779;&#1785;&#1776;&#1776;&#1777;&#1776;&#1777;
-    &#1776;&#1784;&#1776;&#1776;</td><td>&#1777;&#1780;&#1776;&#1776;
-    &#1777;&#1778;&#1778;&#1785; &#1778;&#1779;:&#1776;&#1776;</td><td>
-    0/2</td></tr>
-    </tbody>
-     </table>
-    </form>
-    </div>
-    <br>
-    <br>
-    <span>ارسالهاي شما:</span>
-    <br>
-    <br>
-    <form method="get" action="/elearning2/tools/my_tests.php"
-     enctype="multipart/form-data" >
-<table class="data static collection" 
-summary="" rules="cols">
-    <thead>
-<tr class="collection  ">
-	<th >&nbsp;</th>	
-    <th >عنوان</th>
-	<th >تاريخ آزمون</th>
-	<th >مدت زمان حضور در آزمون</th>
-	<th >نمره</th>
-	<th >ارسال </th>
-</tr>
-</thead>
-
-<tbody>
-<tr><td colspan="5">چيزي پيدا نشد.</td></tr></tbody>
-</table>
-    </form>
-    </div> 
-   
+        <table class="responsive-table striped centered farzan-table  first-col-shrink">
+                <thead class="white-text purple">
+                <tr class="my-table">
+                    <th>عنوان	</th>
+                    <th>وضعيت	</th>
+                    <th>تاريخ شروع	</th>
+                    <th>تاريخ اتمام	</th>
+                    <th>تعداد ارسال مجاز</th>
+                </tr>
+                </thead>
+                <tbody>
+                <tr>
+                    <td><a href="">آزمون نهایی	</a></td>
+                    <td>آماده پاسخ‌گويي	</td>
+                    <td>01/1/1391 8:00</td>
+                    <td>29/12/1400 </td>
+                    <td>0/2</td>
+                    
+                </tr>
+                </tbody>
+            </table>
+            <div class="row margin-0">
+            <div class="table-option-holder">
+                <p>ارسالهاي شما</p>
+            </div>
+            <div class="clear"></div>
+            <table class="responsive-table striped centered farzan-table  first-col-shrink">
+                <thead class="white-text purple">
+                <tr class="my-table">
+                    <th>عنوان	</th>
+                    <th> تاریخ ازمون</th>
+                    <th>	مدت زمان حضور در آزمون</th>
+                    <th>نمره</th>
+                    <th>ارسال</th>
+                </tr>
+                </thead>
+                <tbody>
+                <tr>
+                    <td>چیزی پیدا نشد</td>
+                    <td>	</td>
+                    <td></td>
+                    <td> </td>
+                    <td></td>
+                   
+                </tr>
+                </tbody>
+            </table>
     <!--end container-->
 
 <?php include 'footer.php'; ?>

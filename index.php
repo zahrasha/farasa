@@ -33,7 +33,16 @@
                     </li>
                     <li class="collection-item">
                         <a href="upload-file.php" target="_blank">صفحه آپلود فایل</a>
-                    </li>
+                        </li>
+                    <li class="collection-item">
+                        <a href="angoman.php" target="_blank"> صفحه انجمن ها  </a> 
+                        </li>
+                        <li class="collection-item">
+                        <a href="seiry-d.php" target="_blank"> صفحه سیری در دوره ها </a> 
+                        </li>  
+                        <li class="collection-item">
+                        <a href="index-govahi.php" target="_blank"> صفحه گواهی </a> 
+                        </li> 
                 </ul>
             </div>
         </div>
