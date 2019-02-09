@@ -56,6 +56,19 @@ WE WILL RELEASE FUTURE UPDATES SO IN ORDER TO NOT OVERWRITE YOUR STYLES IT'S BET
   -moz-animation-iteration-count: 1000;
   -webkit-animation-iteration-count: 1000;
 }
+.keyword-title {
+  font-size: 1rem;
+  font-weight: bold;
+}
+.helper-text {
+  font-size: 13px;
+  color: #676767;
+  padding-right: 10px;
+}
+.btn-icon {
+  position: relative;
+  top: 3px;
+}
 .popover {
   z-index: 9999;
   position: absolute;
@@ -1916,7 +1929,7 @@ figure:hover + span {
   margin: 6px 2rem 5px 0 !important;
   /*padding-top: 5px;*/
   width: calc(100% - 1.5rem) !important;
-  font-size: 14pt;
+  font-size: 11pt;
 }
 
 .file-path-wrapper input {
