@@ -54,6 +54,7 @@
                     </li>
                     <li class="collection-item">
                         <a href="upload-file.php" target="_blank">
+<<<<<<< HEAD
                         <i class="mdi-toggle-check-box"></i>
                         صفحه آپلود فایل
                         </a>
@@ -76,6 +77,21 @@
                          صفحه گواهی 
                          </a> 
                         </li> 
+=======
+                            <i class="mdi-toggle-check-box"></i>
+                            صفحه آپلود فایل(ذخيره سازي فايل)
+                        </a>
+                    </li>
+                    <li class="collection-item">
+                        <a href="angoman.php" target="_blank"> صفحه انجمن ها  </a> 
+                    </li>
+                    <li class="collection-item">
+                        <a href="seiry-d.php" target="_blank"> صفحه سیری در دوره ها </a> 
+                    </li>  
+                    <li class="collection-item">
+                        <a href="index-govahi.php" target="_blank"> صفحه گواهی </a> 
+                    </li> 
+>>>>>>> 10de6977c890d9dc1788a5a88cca55a862261c28
                 </ul>
             </div>
         </div>
