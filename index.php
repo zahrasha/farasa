@@ -47,19 +47,34 @@
                         </a>
                     </li>
                     <li class="collection-item">
-                        <a href="payment.php" target="_blank">صفحه های مربوط به پرداخت</a>
+                        <a href="payment.php" target="_blank">
+                        <i class="mdi-toggle-check-box"></i>
+                        صفحه های مربوط به پرداخت
+                        </a>
                     </li>
                     <li class="collection-item">
-                        <a href="upload-file.php" target="_blank">صفحه آپلود فایل</a>
+                        <a href="upload-file.php" target="_blank">
+                        <i class="mdi-toggle-check-box"></i>
+                        صفحه آپلود فایل
+                        </a>
                         </li>
                     <li class="collection-item">
-                        <a href="angoman.php" target="_blank"> صفحه انجمن ها  </a> 
+                        <a href="angoman.php" target="_blank">
+                        <i class="mdi-toggle-check-box"></i>
+                         صفحه انجمن ها
+                           </a> 
                         </li>
                         <li class="collection-item">
-                        <a href="seiry-d.php" target="_blank"> صفحه سیری در دوره ها </a> 
+                        <a href="seiry-d.php" target="_blank">
+                        <i class="mdi-toggle-check-box"></i>
+                         صفحه سیری در دوره ها 
+                         </a> 
                         </li>  
                         <li class="collection-item">
-                        <a href="index-govahi.php" target="_blank"> صفحه گواهی </a> 
+                        <a href="index-govahi.php" target="_blank">
+                        <i class="mdi-toggle-check-box"></i>
+                         صفحه گواهی 
+                         </a> 
                         </li> 
                 </ul>
             </div>

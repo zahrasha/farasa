@@ -30,36 +30,40 @@ type="submit" name="action">برو!
 </div><br><br><br></div></div>
 <div class="row">
 <div class="col l8 offset-l2">
-<table class="striped  " >
-<thead >
-<tr>
 
-<td>
-<a href="#"> 
-فايل</a></td>
-<td>	مؤلف</td>
-<td>	بازنگري ها</td>
-<td>	توضيحات</td>
-<td><a href="#">  اندازه</a></td>
-<td><a href="#">	تاريخ</a></td>
-</tr>
-</thead>
-<tbody>
-<tr>
-<tr>
-<td>	 Assignment.doc</td>
-<td>    موسسه فرزان</td>
-<td > 	-</td>
-<td><a href="#">	0 توضيحات</a></td>
-<td> 24.5كيلوبايت</td>
+<form action="">
+        <table class="responsive-table striped centered farzan-table  first-col-shrink">
+                <thead class="white-text purple">
+                <tr class="my-table">
 
-<td>۱۰:۱۵	۱۳۹۰-۱۲-۲۲</td>
-</tr>
-</div>
-</tbody>
-</table></div>
-</div> 
-<div>
+                <th>فايل
+                <div class="">
+					      <input id="check" type="checkbox" class=" check" checked>
+                <label for="check"><span class="  icon"></span>
+                </label>
+
+			        	</div>
+                </th>
+
+                    <th>مؤلف</th>
+                    <th>بازنگري ها</th>
+                    <th>توضيحات	</th>
+                    <th>اندازه</th>
+                    <th>تاريخ	</th>
+                </tr>
+                </thead>
+                <tbody>
+                <tr>
+                    <td><a href="">آزمون نهایی	</a></td>
+                    <td>آماده پاسخ‌گويي	</td>
+                    <td>01/1/1391 8:00</td>
+                    <td>29/12/1400 </td>
+                    <td>0/2</td>
+                    
+                </tr>
+                </tbody>
+                </table>
+                </form>
 <button  class="btn  blue  waves-effect 
 waves-light" 
 type="submit" name="action">دانلود
@@ -69,12 +73,13 @@ type="submit" name="action">دانلود
 
 </div>
     </div>
-    <!--end container-->
+      <!--end container-->
 
 <?php include 'footer.php'; ?>
 </body>
 
 </html>
+
 
 
 
