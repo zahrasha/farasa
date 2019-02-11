@@ -37,6 +37,7 @@
                 </div>
             </div>
         </div>
+
         
         <div class="row">
             <div class="col s12">
@@ -62,6 +63,7 @@
                                 <input type="checkbox" id="checkAll">
                                 <label for="checkAll" class="checkbox-text margin-0"> </label>
                         </div>
+<<<<<<< HEAD
                         </th>
                         <th>فایل</th>
                         <th>مولف</th>
@@ -137,8 +139,9 @@
                 <div class="clear"></div>
             </div>  
         </div>
+
     </div>
-    <!--end container-->
+      <!--end container-->
 
 <?php include 'footer.php'; ?>
 <script>
@@ -153,6 +156,7 @@
 </body>
 
 </html>
+
 
 
 
