@@ -59,11 +59,10 @@
                     <tr class="my-table">
                         <th>ردیف</th>
                         <th>    
-                        <div class="mycheckbox">
-                                <input type="checkbox" id="checkAll">
-                                <label for="checkAll" class="checkbox-text margin-0"> </label>
-                        </div>
-<<<<<<< HEAD
+                            <div class="mycheckbox">
+                                    <input type="checkbox" id="checkAll">
+                                    <label for="checkAll" class="checkbox-text margin-0"> </label>
+                            </div>
                         </th>
                         <th>فایل</th>
                         <th>مولف</th>
