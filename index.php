@@ -85,6 +85,9 @@
                     <li class="collection-item">
                         <a href="index-govahi.php" target="_blank"> صفحه گواهی </a> 
                     </li> 
+                    <li class="collection-item">
+                        <a href="visit.php" target="_blank"> صفحه بازدید </a> 
+                    </li> 
                 </ul>
             </div>
         </div>

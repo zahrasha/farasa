@@ -35,37 +35,37 @@ Views</h5>
     <table class="table responsive-table striped centered farzan-table z-depth-1">
     <thead class="white-text ">
     <tr class="my-table">
-        <th>Page</th>
-        <th>Visits</th>
-        <th>Total duration</th>
-        <th>Last access</th>
+        <th>صفحه</th>
+        <th>ديدارها</th>
+        <th>مدت کل</th>
+        <th>آخرين زمان دسترسي</th>
        
     </tr>
     </thead>
     <tbody>
     <tr>
-        <td><a href="#">Introduction</a></td>
+        <td><a href="#">مقدمه</a></td>
         <td >
         3
         </td>
         <td>	00:09:42 </td>
-        <td> 	Tuesday 9 February, 06:44 </td>
+        <td> 		سه شنبه ۹ بهمن ۰۶:۴۴ ق.ظ </td>
     </tr> 
     <tr>
-        <td><a href="#">Introduction</a></td>
+        <td><a href="#">خوش آمديد</a></td>
         <td >
-        3
+        2
         </td>
-        <td>	00:09:42 </td>
-        <td> 	Tuesday 9 February, 06:44 </td>
+        <td>		00:00:13 </td>
+        <td> سه شنبه ۹ بهمن ۰۶:۴۴ ق.ظ</td>
     </tr>
      <tr>
-        <td><a href="#">Introduction</a></td>
+        <td><a href="#">چکیده</a></td>
         <td >
-        3
+        2
         </td>
-        <td>	00:09:42 </td>
-        <td> 	Tuesday 9 February, 06:44 </td>
+        <td>		00:02:16 </td>
+        <td> 	سه شنبه ۹ بهمن ۰۶:۴۴ ق.ظ</td>
     </tr>
     
     </tbody>
