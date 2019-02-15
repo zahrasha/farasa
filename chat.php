@@ -126,6 +126,83 @@ textarea.materialize-textarea {
 }
 
 
+
+
+
+
+.chats-page{
+  padding:0 0 50px 0;
+}
+.smg-inbox{
+  border:1px solid #ccc;
+  overflow:hidden;
+  padding-bottom:30px;
+}
+.chats{
+  padding:30px 15px 0 25px;
+}
+.msg-page{
+  height:516px;
+  overflow-y:auto;
+}
+.received-chats-img{
+  display:inline-block;
+  width:20px;
+  float:left;
+}
+.received-msg{
+  display:inline-block;
+padding:0 0 0 10px;
+vertical-align:top;
+width:92%;
+}
+.received-msg-inbox{
+width;57%;
+}
+.received-msg-inbox p{
+  background:#efefef none repeat scroll 0 0;
+  border-radius:10px;
+  color: #646464;
+  font-size:14px;
+  margin:0;
+  padding:14px 10px 5px 12px;
+  width:100%;
+}
+.time{
+  color:#777;
+  display:block;
+  font-size:12px;
+  margin:8px 0 0;
+}
+.outgoing-chats{
+overflow:hidden;
+margin:26px 20px;
+}
+.outgoing-chats-msg p{
+background:#007bff none repeat scroll 0 0;
+color:#fff;
+border-radius:10px;
+font-size:14px;
+margin:0;
+color:#fff;
+padding:5px 10px 5px 12px;
+width:100%;
+}
+.outgoing-chats-msg{
+  float:left;
+  width:46%;
+  margin-left:45%;
+
+}
+.outgoing-chats-img {
+display:inline-block;
+width:20%;
+float:right;
+}
+
+
+
+
 </style>
 
  
