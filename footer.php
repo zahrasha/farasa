@@ -1,11 +1,8 @@
 
 <!---------- fab icon --------->
 <div class="fixed-action-btn my-fixed-btn hide-on-med-and-down">
-   <!-- <a class="btn-floating btn-large blue salamat-btn">
-  <img src="images/salamat.png">
-    </a> -->
-    <a class="btn-floating btn-large grey lighten-2 salamat-btn">
-        <img src="images/fitasa-footer.png">
+   <a class="btn-floating btn-large blue salamat-btn">
+        <img src="images/salamat.png">
     </a>
     <ul class="fixed-fab">
        <!-- <li><a href="http://shop1.farama.net" class="btn-floating fab-btn teal darken-3 tooltip-right farakala-color" title="محصولات سلامت">
@@ -18,8 +15,8 @@
        <!-- <li><a href="http://198.23.143.240" class="btn-floating fab-btn faracom-color tooltip-right"
               title="ارتباطات هوشمند سلامت "> فراکام </a></li> -->
 
-       <li><a href="http://farasa.net" class="btn-floating fab-btn tooltip-right farasa-color" title="آموزش الکترونیک فیت آسا">
-               فراسا</a></li>
+       <!-- <li><a href="http://farasa.net" class="btn-floating fab-btn tooltip-right farasa-color" title="آموزش الکترونیک فیت آسا">
+               فراسا</a></li> -->
 
        <li><a href="http://farama.net/dashboard/fa" class="btn-floating fab-btn tooltip-right farama-color" title="مشاوره هوشمند فیت آسا">
                فراما </a></li>
