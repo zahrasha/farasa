@@ -56,6 +56,12 @@ WE WILL RELEASE FUTURE UPDATES SO IN ORDER TO NOT OVERWRITE YOUR STYLES IT'S BET
   -moz-animation-iteration-count: 1000;
   -webkit-animation-iteration-count: 1000;
 }
+#MainLinks a div {
+  transition: all 200ms ease-in;
+}
+#MainLinks a:hover div {
+  transform: scale(1.05);
+}
 .keyword-title {
   font-size: 1rem;
   font-weight: bold;
@@ -1026,8 +1032,8 @@ th {
 }
 .content-wrapper p {
   text-align: justify;
-  line-height: 1.9;
-  font-size: 16px;
+  line-height: 1.5;
+  font-size: 15px;
 }
 .content-wrapper img {
   margin: 15px 0 15px 15px;
@@ -2398,6 +2404,11 @@ table.responsive-table th {
   }
   .header-search-wrapper {
     top: -3px;
+  }
+  ul.side-nav li {
+    display: block;
+    padding: 0;
+    text-align: right;
   }
 }
 

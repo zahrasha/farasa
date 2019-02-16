@@ -70,6 +70,7 @@
     margin-right: 29px;
     border-radius: 50%;
 }
+
   
   .container img.right {
     float: right;
@@ -124,6 +125,263 @@ textarea.materialize-textarea {
   border-radius:5px;
   margin-right:50px;
 }
+ 
+.container{ background:#f5f5f5;
+  max-width:500 !important;
+  margin:auto;
+  margin-top:4%;
+  font-family:sans-serif;
+  letter-spacing:0.5px;
+}
+img{
+ max-width:100%;
+}
+.max-header{
+  border:1px solid #ccc;
+  width:100%;
+  height:10%;
+  border-bottom:none;
+  display:inline-block;
+  background-color:#007bff;
+}
+
+
+
+.chats-page{
+  padding:0 0 50px 0;
+}
+.smg-inbox{
+  border:1px solid #ccc;
+  overflow:hidden;
+  padding-bottom:30px;
+}
+.chats{
+  padding:30px 15px 0 25px;
+}
+.msg-page{
+  height:516px;
+  overflow-y:auto;
+}
+.received-chats-img{
+  display:inline-block;
+  width:20px;
+  float:left;
+}
+.received-msg{
+  display:inline-block;
+padding:0 0 0 10px;
+vertical-align:top;
+width:92%;
+}
+.received-msg-inbox{
+width;57%;
+}
+.received-msg-inbox p{
+  background:#efefef none repeat scroll 0 0;
+  border-radius:10px;
+  color: #646464;
+  font-size:14px;
+  margin:0;
+  padding:14px 10px 5px 12px;
+  width:100%;
+}
+.time{
+  color:#777;
+  display:block;
+  font-size:12px;
+  margin:8px 0 0;
+}
+.outgoing-chats{
+overflow:hidden;
+margin:26px 20px;
+}
+.outgoing-chats-msg p{
+background:#007bff none repeat scroll 0 0;
+color:#fff;
+border-radius:10px;
+font-size:14px;
+margin:0;
+color:#fff;
+padding:5px 10px 5px 12px;
+width:100%;
+}
+.outgoing-chats-msg{
+  float:left;
+  width:46%;
+  margin-left:45%;
+
+}
+.outgoing-chats-img {
+  display:block;
+  width:20px;
+  float:right;
+}
+
+
+
+
+
+
+.container{ 
+  max-width:500 !important;
+  margin:auto;
+  margin-top:4%;
+  font-family:sans-serif;
+  letter-spacing:0.5px;
+}
+img{
+ max-width:100%;
+ border-radius:50%;
+}
+.msg-header{
+  border:1px solid #ccc;
+  width:100%;
+  height:10%;
+  border-bottom:none;
+  display:inline-block;
+  background-color:#007bff;
+}
+.msg-header-img{
+  border-radius:50%;
+  width:40px;
+  margin-left:5%;
+  margin-top:12px;
+  float:left;
+
+}
+.active{
+  width:120px;
+  float:left;
+  margin-top:10px;
+}
+.active h4{
+  font-size:20px;
+  margin-left:10px;
+  color:#fff;
+}
+.active h6{
+  font-size:10px;
+  margin-left:10px;
+  line-height:2px;
+  color:#fff;
+}
+.chats-page{
+  padding:0 0 50px 0;
+}
+.smg-inbox{
+  border:1px solid #ccc;
+  overflow:hidden;
+  padding-bottom:30px;
+}
+.chats{
+  padding:30px 15px 0 25px;
+}
+.msg-page{
+overflow-y:auto;
+}
+.received-chats-img{
+  display:inline-block;
+  width:35px;
+  float:left;
+}
+
+.received-chats-msg{
+  display:inline-block;
+padding:0 0 0 10px;
+vertical-align:top;
+ float:left;
+}
+.received-chats-msg-inbox{
+width:57%;
+}
+.received-chats-msg-inbox p{
+  background:#efefef none repeat scroll 0 0;
+  border-radius:10px;
+  color: #646464;
+  font-size:14px;
+  padding:5px 10px 5px 12px;
+  width:100%;
+}
+
+.time{
+  color:#777;
+  display:block;
+  font-size:12px;
+  margin:8px 0 0;
+}
+
+
+
+.outgoing-chats{
+overflow:hidden;
+margin:26px 20px;
+}
+.outgoing-chats img{
+  margin-bottom:10px;
+}
+.outgoing-chats-msg p{
+background:#007bff none repeat scroll 0 0;
+color:#fff;
+border-radius:10px;
+font-size:14px;
+margin:0;
+color:#fff;
+padding:5px 10px 5px 12px;
+width:100%;
+}
+.outgoing-chats-msg{
+  float:left;
+  width:46%;
+  margin-left:45%;
+    margin-right: 0px;
+}
+.outgoing-chats-img {
+  display:inline-block;
+  width:35px;
+  float:right;
+}
+.msg-bottom{
+  position:relative;
+  height:10%;
+  background-color:#007bff;
+}
+.input-group{
+  float:right;
+  margin-top:13px;
+  margin-right:20px;
+  outline:none!important;
+  border-radius:20px;
+  width:61% !important;
+  background-color:#fff;
+}
+.form-control{
+  border:none !important;
+  border-radius:20px  !important;
+
+}
+.input-group-text{
+  background:transparent !important;
+  border:none !important;
+}
+.input-group.fa{
+  color:#007bff;
+  float:right;
+}
+.bottom-icons{
+  float:left;
+  margin-top:17px;
+  width:30%  !important;
+  margin-left:22px;
+}
+.bottom-icons .fa{color:#fff;
+padding:5px;
+}
+.form-color:focus{
+  border-color:none !important;
+  box-shadow:none !important;
+  border-radius:20px;
+}
+
 
 
 </style>
@@ -157,10 +415,19 @@ Alt + Q : خروج از گفتگوي آنلاين<br>
 
 </p>
 </div>
+
+
+
+
+
+
+
+
+
             <div  class="card col s12 m6 l6  border">
 <div class="container  blue darken-1">
-  <img src="./images/user.png" alt="@" style="width:100%;">
-  <p>Lorem ipsum dolor sit amet consectetur.</p>
+<img src="./images/user.png" alt="@" style="width:100%;">
+<p>Lorem ipsum dolor sit amet consectetur.</p>
   <span class="time-right">00:00</span>
 </div>
 
@@ -196,6 +463,113 @@ Alt + Q : خروج از گفتگوي آنلاين<br>
 
 
 
+
+            <div class="container ">
+            <div class="msg-header">
+            <div class="msg-header-img">
+            <img src="./images/user.png" alt="">
+            </div>
+            <div class="active">
+            <h4>name </h4>
+            <h6> </h6>
+            </div>
+            </div>
+            <div class="chats-page">
+            <div class="msg-inbox">
+            <div class="chats">
+            <div class="msg-page">
+           <div class="received-chats">
+           
+           <div class="received-chats-img">
+            <img src="./images/user.png" alt="">
+            </div>
+            <div class="received-chats-msg">
+            <div class="received-chats-msg-inbox">
+            <p>hi !!!!</p>
+            <span class="time">11:01 pm</span>
+            </div>
+            </div>
+            </div>                  
+
+           
+            <div class="outgoing-chats">
+            <div class="outgoing-chats-msg">
+            <p>hi !!!!</p>
+            <span class="time">11:01 pm</span>
+            </div>
+            <div class="outgoing-chats-img">
+            <img src="./images/user.png" alt="">
+            </div>
+            </div>   
+            </div> <div class="received-chats-img">
+            <img src="./images/user.png" alt="">
+            </div>
+            <div class="received-chats-msg">
+            <div class="received-chats-msg-inbox">
+            <p>hi !!!!</p>
+            <span class="time">11:01 pm</span>
+            </div>
+            </div>
+            </div>                  
+
+           
+            <div class="outgoing-chats">
+            <div class="outgoing-chats-msg">
+            <p>hi !!!!</p>
+            <span class="time">11:01 pm</span>
+            </div>
+            <div class="outgoing-chats-img">
+            <img src="./images/user.png" alt="">
+            </div>
+            </div>   
+            </div> <div class="received-chats-img">
+            <img src="./images/user.png" alt="">
+            </div>
+            <div class="received-chats-msg">
+            <div class="received-chats-msg-inbox">
+            <p>hi !!!!</p>
+            <span class="time">11:01 pm</span>
+            </div>
+            </div>
+            </div>                  
+
+           
+            <div class="outgoing-chats">
+            <div class="outgoing-chats-msg">
+            <p>hi !!!!</p>
+            <span class="time">11:01 pm</span>
+            </div>
+            <div class="outgoing-chats-img">
+            <img src="./images/user.png" alt="">
+            </div>
+            </div>   
+            </div>
+            </div>
+            </div>  
+            </div>
+            <div class="msg-bottom">
+            <div class="bottom-icon">
+            <i></i>
+            <i></i>
+            <i></i>
+            </div>
+            <div class="input-group">
+            <input type="text" class="form-control" placeholder="write message...">
+            <div class="input-group-append">
+            <span class="input-group-text">
+            <i></i>
+            </span>
+            </div> 
+            </div>
+            </div> 
+            </div> 
+            </div>
+           
+
+
+            
+<!--end container-->
+
+<?php include 'footer.php'; ?>
 </body>
 </html>
-

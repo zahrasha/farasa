@@ -11,7 +11,7 @@
             </div>
         </div>
         <div class="row">
-            <div class="col s12 m4 l2 right">
+            <div class="col s12 m4 l3 right">
               <div class="white my-card z-depth-1 list-container">
                 <h4 class="heading">مرور مطالب</h4>
                 <ul>
@@ -37,7 +37,7 @@
                 </ul>
               </div>
             </div>
-            <div class="col s12 m8 l10 right" id="MainLinks">
+            <div class="col s12 m8 l9 right" id="MainLinks">
               <div class="white my-card bordered-card content-wrapper" style="padding: 15px;">
                 <h3 class="main-title right">عنوان محتوا</h3>
                 <a href="#" class="left nav-links">

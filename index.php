@@ -16,7 +16,7 @@
                     <li class="collection-item">
                         <a href="courses.php" target="_blank">
                             <i class="mdi-toggle-check-box"></i>
-                            صفحه اصلی دوره ها
+                            دوره های من
                         </a>
                     </li>
                     <li class="collection-item">
@@ -76,6 +76,9 @@
                                 صفحه گواهی 
                             </a> 
                     </li>
+                    <li class="collection-item">
+                        <a href="visit.php" target="_blank"> صفحه بازدید </a> 
+                    </li> 
                 </ul>
             </div>
         </div>

@@ -95,13 +95,6 @@
                     <li>
                        <a class="dropdown-button black-text waves-effect waves-teal" href="javascript:void(0)" data-activates="dropdown5"
                           data-constrainwidth="false" data-alignment="right" data-hover="true">
-                            <i class="mdi-action-assignment-ind"></i>
-                            <span>مشخصات کاربر</span>
-                        </a>
-                    </li>
-                   <li>
-                       <a class="dropdown-button black-text waves-effect waves-teal" href="javascript:void(0)" data-activates="dropdown5"
-                          data-constrainwidth="false" data-alignment="right" data-hover="true">
                             <i class="mdi-action-class"></i>
                             <span> دوره های من </span>
                         </a>
@@ -109,15 +102,16 @@
                     <li>
                        <a class="dropdown-button black-text waves-effect waves-teal" href="javascript:void(0)" data-activates="dropdown5"
                           data-constrainwidth="false" data-alignment="right" data-hover="true">
-                            <i class="mdi-action-assessment"></i>
-                            <span>اعتبار و پرداخت</span>
+                            <i class="mdi-action-assignment-ind"></i>
+                            <span>مشخصات کاربر</span>
                         </a>
                     </li>
+                
                     <li>
                        <a class="dropdown-button black-text waves-effect waves-teal" href="javascript:void(0)" data-activates="dropdown5"
                           data-constrainwidth="false" data-alignment="right" data-hover="true">
-                            <i class="mdi-content-mail"></i>
-                            <span> صندوق پستی</span>
+                            <i class="mdi-action-assessment"></i>
+                            <span>اعتبار و پرداخت</span>
                         </a>
                     </li>
                     <li class="header-search-wrapper overflow-hidden">
@@ -151,6 +145,16 @@
 <!--                            <i class="mdi-editor-insert-invitation"></i>-->
 <!--                        </a>-->
 <!--                    </li>-->
+                    <li>
+                        <a class="black-text" style="padding:0 5px !important" href="#">
+                            شیما ابن العلم <small>خوش آمدید</small>
+                        </a>
+                    </li>
+                    <li>
+                        <a title="صندوق پستی" class="black-text tooltip-top" href="#">
+                            <i class="mdi-content-mail"></i>
+                        </a>
+                    </li>
                     <li>
                         <a class="dropdown-button black-text tooltip-top modal-trigger" href="#help-modal" title="راهنما">
                             <i class="mdi-action-info"></i>
