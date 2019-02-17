@@ -44,8 +44,7 @@
                 <ul class="tree">
                 <li>  <a href="course.php">صفحه اصلی دوره</a></li>
                   <li><a href="content.php">پیش گفتار</a></li>
-                  <li>
-                  <a href="#">پیش گفتار</a>
+                  <li><a href="#">پیش گفتار</a>
                     <ul>
                       <li><a href="content.php">صفحه اصلی دوره</a></li>
                       <li><a href="content.php">پیش گفتار</a></li>
@@ -60,9 +59,25 @@
                     </ul>
                   </li>
                   <li><a href="content.php">لینک آخر</a></li>
+                  </ul>
 
-                </ul>
-              </div>
+            </div>
+            <div class="col s12 m12 l12 right">
+            <div class="white my-card z-depth-1  list-container">
+            <i class="mdi-action-credit-card prefix "></i>
+            <label  class="blue-text"> جستجو </label>
+            <select >
+            <option value="1"> نمایش محتوا </option>
+            </select>
+            <span style="display:block; " >تطابق: </span>
+            <input id="radio-4" name="radio" type="radio" checked>
+            <label for="radio-4" class="blue-text radio-label">تمام کلمات</label>
+            <input id="radio-5" name="radio" type="radio">
+            <label  for="radio-5" class="blue-text  radio-label">هر کلمه ای</label>
+            <button style="margin-top:20px;" class="btn blue"><a class=" white-text" href="search.php"> جستجو </a></button>
+                    
+            </div>
+            </div>
             </div>
             <div class="col s12 m8 l9 right" id="MainLinks">
               <div class="col s6 m4 l2 right">
