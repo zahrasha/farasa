@@ -7,8 +7,10 @@
         <div class="row margin-bottom-0">
             <!--Top title-->
             <div class="col s12 m12 l12">
-                <h5 class="breadcrumbs-title "><i class="mdi-action-class"></i>استانداردهای گزارش پژوهش های بالينی(CONSORT)</h5>
-            </div>
+                <h5 class="breadcrumbs-title "><i class="mdi-action-class"></i> 
+صفحه اصلی من/صفحه اصلی دوره ها/
+بهبود گزارش دهی RCT ها : بیانیه CONSORT
+           </h5>
         </div>
         <div class="row">
             <div class="col s12 m4 l3 right">

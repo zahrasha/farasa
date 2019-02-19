@@ -73,7 +73,7 @@
         <div class="row margin-bottom-0">
             <!--Top title-->
             <div class="col s12 m12 l12">
-                <h5 class="breadcrumbs-title "><i class="mdi-action-home"></i> سیری در دوره ها
+                <h5 class="breadcrumbs-title "><i class="mdi-action-home"></i> صفحه اصلی / سیری در دوره ها
                 </h5>
             </div>
  

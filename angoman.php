@@ -21,8 +21,7 @@
     <div class="container">
         <div class="row margin-bottom-0">
             <!--Top title-->
-            <div class="col s12 m12 l12">
-                <h5 class="breadcrumbs-title "><i class="mdi-social-people"></i> انجمن ها</h5>
+             <h5 class="breadcrumbs-title "><i class="mdi-social-people"></i>صفحه اصلی/ انجمن ها </h5>
             </div>
             <div class="row margin-0">
             <div class="col s12 m4 l3 right">

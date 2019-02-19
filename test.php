@@ -12,32 +12,14 @@
         <div class="row margin-bottom-0">
             <!--Top title-->
             <div class="col s12 m12 l12">
-                <h5 class="breadcrumbs-title "><i class="mdi-action-home"></i>آزمون ها </h5>
+                <h5 class="breadcrumbs-title "><i class="mdi-action-home"></i>صفحه اصلی / دوره انتخابی / آزمون </h5>
             </div>
         </div>
 
 
         <div>
-        <table class="responsive-table striped centered farzan-table  first-col-shrink">
-                <thead class="white-text purple">
-                <tr class="my-table">
-                    <th>عنوان	</th>
-                    <th>وضعيت	</th>
-                    <th>تاريخ شروع	</th>
-                    <th>تاريخ اتمام	</th>
-                    <th>تعداد ارسال مجاز</th>
-                </tr>
-                </thead>
-                <tbody>
-                <tr>
-                    <td><a href="azmon.php">آزمون نهایی	</a></td>
-                    <td>آماده پاسخ‌گويي	</td>
-                    <td>01/1/1391 8:00</td>
-                    <td>29/12/1400 </td>
-                    <td>0/2</td>
-                    
-                </tr>
-                </tbody>
+        </div>
+
             </table>
             <div class="row margin-0">
             <div class="table-option-holder">

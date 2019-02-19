@@ -78,12 +78,16 @@
                     </li>
                     <li class="collection-item">
                         <a href="visit.php" target="_blank"> صفحه بازدید </a> 
+                    </li>
+                    <li class="collection-item">
+                        <a href="  profile_picture.php" target="_blank"> اپلود تصویر </a> 
                     </li> 
+
                 </ul>
             </div>
 
 
-
+          
 
             <div class="col s12 m4 offset-m4">
                 <ul class="collection z-depth-1">

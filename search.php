@@ -24,7 +24,7 @@
         <div class="row margin-bottom-0">
             <!--Top title-->
             <div class="col s12 m12 l12">
-                <h5 class="breadcrumbs-title "><i class="mdi-action-home"></i> جستجو </h5>
+                <h5 class="breadcrumbs-title "><i class="mdi-action-home"></i> صفحه اصلی / جستجو  </h5>
             </div>
         </div>
     </div>
