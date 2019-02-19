@@ -74,9 +74,10 @@
                     <td>
                       <a href="http://www.farasa.net/elearning2/users/get_details_number.php?cid=4">مبانی Plagiarism ویژه سردبیران</a>
                     </td>
+                   <td>
                       <a href="http://www.farasa.net/elearning2/users/get_sertificate.php?cid=3240">دریافت شده</a>
                     </td>
-                    <td>دریافت </td>
+                   
                     <td>0</td>
                     <td>عدم شرکت در ازمون نهایی</td>
                 </tr>
