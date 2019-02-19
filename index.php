@@ -5,7 +5,7 @@
     <!--start container-->
     <div class="container">
         <div class="row">
-            <div class="col s12 m4 offset-m4">
+            <div class="col s12 m4 right pull-m2">
                 <ul class="collection z-depth-1">
                     <li class="collection-item">
                         <a href="master.php" target="_blank">
@@ -19,12 +19,12 @@
                             دوره های من
                         </a>
                     </li>
-                    <li class="collection-item">
+                    <!-- <li class="collection-item">
                         <a href="course.php" target="_blank">
                             <i class="mdi-toggle-check-box"></i>
                             صفحه اصلی دوره
                         </a>
-                    </li>
+                    </li> -->
                     <li class="collection-item">
                         <a href="test.php" target="_blank">
                             <i class="mdi-toggle-check-box"></i>
@@ -89,13 +89,13 @@
 
           
 
-            <div class="col s12 m4 offset-m4">
+            <div class="col s12 m4 pull-m2 right">
                 <ul class="collection z-depth-1">
-                    <li class="collection-item">
+                    <!-- <li class="collection-item">
                         <a href="http://www.farasa.net/elearning2/users/index.php" target="_blank">
                             دوره های من
                         </a>
-                    </li>
+                    </li> -->
                     <li class="collection-item">
                         <a href="http://www.farasa.net/elearning2/browse.php" target="_blank">
                             سیری در دوره ها
