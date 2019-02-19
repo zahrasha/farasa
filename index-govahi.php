@@ -1,91 +1,18 @@
 <?php include 'head.php'; ?>
-</head>
 <style>
-
-.line-text{
-  border-right:solid 10px #0e92ef;
-}
-.info-text{
-  line-height:2.5em;
-  margin: 45px;
-  color: rgb(31, 26, 88);
-} 
-.card{
-  margin-bottom:15px;
-  
-}
-.table {
-  direction:ltr;
-  border: 1px solid #ccc;
-  border-collapse: collapse;
-  width: 100%;
-}
-.table caption {
-  font-size: 1.5em;
-  margin: .5em 0 .75em;
-}
-.table-tr {
-  border: 1px solid #ddd;
- margin:0px;
-}
-.table tr:nth-child(even){
-  background: #f8f8f8;  
-}
-.table th
-.table td {
-  padding: .625em;
-  text-align: left;
-}
-.table thead {
-  background:#0e92ef;
-  color:#ebf8f9;
-} 
-.table tbody {
-  white-space: nowrap;
-  overflow: hidden;
-  text-overflow: ellipsis;
-}
-
- 
-h1{  text-transform: uppercase;
-  font-size: 30px;
-  font-weight: 300;
-  text-align: center;
-  margin-bottom: 15px;
-}
-table{
-
-  table-layout: fixed;
-
-}
-.tbl-header{
-  background-color: rgba(255,255,255,0.3);
- }
-.tbl-content{
-  height:300px;
-  overflow-x:auto;
-  margin-top: 0px;
-  border: 1px solid rgba(255,255,255,0.3);
-}
-th{
-  text-align: left;
-  font-weight: 500;
-  font-size: 12px;
-  text-transform: uppercase;
-}
-td{
-  text-align: left;
-  vertical-align:middle;
-  font-weight: 300;
-  font-size: 15px;
-  border-bottom: solid 1px rgba(255,255,255,0.1);
-}
-.table.card{
-
-}
-.first-col-shrink tr th:first-child {
-}
+  table.striped > tbody > tr > td, table.responsive-table th{
+    padding:7px 3px 7px 3px !important;
+  }
+  .card .content .my-title{
+    text-align: center;
+    font-size: 18px;
+    padding-top: 20px;
+  }
+  .card .content p {
+    margin: 5px;
+  }
 </style>
+</head>
 <body>
 <?php include 'header.php'; ?>
     <!--start container-->
@@ -95,71 +22,96 @@ td{
             <div class="col s12 m12 l12">
                 <h5 class="breadcrumbs-title "><i class="mdi-action-home"></i> صفحه اصلی/دوره انتخابی/گواهی</h5>
             </div>
-        
-        <div class="container ">
-        <a href="#">بازگشت به صفحه ی قبلی </a>
-        
+            <div class="col s12 m12 l12">
+              <a href="#">بازگشت به صفحه ی قبلی </a>
+            </div>
         </div>
+        <div class="row">
+          <div class="col s12">
+              <div class="card z-depth-1 card-content white ">
+              <div class="content">
+                  <h3 class="my-title"><b>صفحه ارزشیابی دوره های فراسا</b></h3>
+                  <div class="col s12 m6 l3 pull-l4 right">
+                    <p class="right"><b>نام و نام خانوادگی: </b> شیما ابن العلم</p>
+                  </div>
+                  <div class="col s12 m6  l3 pull-l4 right">
+                    <p class="right"><b>نام مرکز/ دانشگاه: </b> فراسا</p>
+                  </div>
+                  <div class="clear"></div>
+                  <div class="col s12 m6 l3 pull-l4 right">
+                    <p class="right"><b>مقطع تحصیلی: </b> کارشناسی</p>
+                  </div>
+                  <div class="col s12 m6  l3 pull-l4 right">
+                    <p class="right"><b>تعداد کل دوره های ثبت نام شده: </b> 210</p>
+                  </div>
+                  <div class="clear"></div>
+                  <div class="col s12 m6  l3 pull-l7 right">
+                    <p class="right"><b>تعداد کل دوره های کامل شده: </b> 1</p>
+                  </div>
+              </div>
+              <table class="responsive-table striped centered farzan-table first-col-shrink">
+                <thead class="white-text purple">
+                  <tr class="my-table">
+                      <th>ردیف</th>
+                      <th>عنوان دوره</th>
+                      <th>گواهی</th>
+                      <th>نمره نهایی</th>
+                      <th>وضعیت دوره</th>
+                  </tr>
+                </thead>
+                <tbody>
+                <tr>
+                    <td>1</td>
+                    <td>
+                      <a href="http://www.farasa.net/elearning2/users/get_details_number.php?cid=4">مبانی Plagiarism ویژه سردبیران</a>
+                    </td>
+                    <td>دریافت نشده</td>
+                    <td>0</td>
+                    <td>عدم شرکت در ازمون نهایی</td>
+                </tr>
+                <tr>
+                    <td>2</td>
+                    <td>
+                      <a href="http://www.farasa.net/elearning2/users/get_details_number.php?cid=4">مبانی Plagiarism ویژه سردبیران</a>
+                    </td>
+                      <a href="http://www.farasa.net/elearning2/users/get_sertificate.php?cid=3240">دریافت شده</a>
+                    </td>
+                    <td>دریافت </td>
+                    <td>0</td>
+                    <td>عدم شرکت در ازمون نهایی</td>
+                </tr>
+                <tr>
+                    <td>3</td>
+                    <td>
+                      <a href="http://www.farasa.net/elearning2/users/get_details_number.php?cid=4">مبانی Plagiarism ویژه سردبیران</a>
+                    </td>
+                    <td>دریافت نشده</td>
+                    <td>0</td>
+                    <td>عدم شرکت در ازمون نهایی</td>
+                </tr>
+                <tr>
+                    <td>4</td>
+                    <td>
+                      <a href="http://www.farasa.net/elearning2/users/get_details_number.php?cid=4">مبانی Plagiarism ویژه سردبیران</a>
+                    </td>
+                    <td>دریافت نشده</td>
+                    <td>0</td>
+                    <td>عدم شرکت در ازمون نهایی</td>
+                </tr>
+                </tbody>
+            </table>
+            <div class="clear"></div>
+            <p>این صفحه صرفا جهت ارزشیابی است و ارزش دیگری ندارد.</p>
+            <button class="btn waves-effect waves-light z-depth-1 light-blue accent-3 left" type="button">پرینت
+                        </button>
+            <div class="clear"></div>
+
+
+              </div>
+          </div>
         </div>
-     
-        <div class="row"> 
-        <div class="col s12 ">
-        <div class="card container">
-        <div class="line-text "><br>
-  <div class="info-text" >
- 
-  <span class="flow-text  "> صفحه ارزشیابی دوره های فراسا  </span>
-<ul >
-<li>نام و نام خانوادگی : شیما ابن العلم </li>
-<li> مقطع تحصیلی : </li>
-<li> نام مرکز/ دانشگاه : ﻿فراسا </li> 
-<li> تعداد کل دوره های ثبت نام شده : 215 </li>
-<li> تعداد کل دوره های کامل شده : 1 </li>
-</ul>
-       
-      </div> 
-      </div>  
-      </div>
-        <table class=" table card responsive-table striped centered farzan-table  first-col-shrink">
-        <thead class="white-text ">
-    <tr  class="my-table" >
-      <th scope="col"> وضعیت دوره </th>
-      <th scope="col"> نمره نهایی</th>
-      <th scope="col"> 	گواهی </th>
-      <th scope="col"> عنوان دوره </th>
-    </tr>
-  </thead>
-  <tbody>
-  <tr class="table-tr">
-      <td scope="row"> عدم شرکت در ازمون نهایی </td>
-      <td> 0 </td>
-      <td> دریافت نشده </td>
-      <td> <a href="#"> مبانی Plagiarism ویژه سردبیران </a></td>
-    </tr>
-    <tr class="table-tr">
-      <td scope="row"> عدم شرکت در ازمون نهایی </td>
-      <td> 0 </td>
-      <td> دریافت نشده </td>
-      <td> <a href="#"> مبانی Plagiarism ویژه سردبیران </a></td>
-    </tr>
-    <tr class="table-tr">
-      <td scope="row"> عدم شرکت در ازمون نهایی </td>
-      <td> 0 </td>
-      <td> دریافت نشده </td>
-      <td> <a href="#"> مبانی Plagiarism ویژه سردبیران </a></td>
-    </tr>
-    <tr class="table-tr">
-      <td scope="row"> عدم شرکت در ازمون نهایی </td>
-      <td> 0 </td>
-      <td> دریافت نشده </td>
-      <td> <a href="#"> مبانی Plagiarism ویژه سردبیران </a></td>
-    </tr>
-   
-  </tbody>
-</table> 
     </div>
-    </div>
-    </div>
+
  
     <!--end container-->
 <?php include 'footer.php'; ?>
