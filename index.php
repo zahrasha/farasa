@@ -132,8 +132,8 @@
                         </a>
                     </li>
                     <li class="collection-item">
-                            <a href="#" target="_blank">
-                                کلمات کلیدی
+                            <a href="http://farasa.net/elearning2/glossary/index.php" target="_blank">
+                         واژگان کلیدی
                             </a> 
                         </li>
                         <li class="collection-item">
