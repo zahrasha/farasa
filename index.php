@@ -192,7 +192,7 @@
                          </a> 
                     </li>
                     <li class="collection-item">
-                        <a href="#" target="_blank"> 
+                        <a href="http://www.farasa.net/elearning2/my_stats.php" target="_blank"> 
                         بازدید ها
                          </a> 
                     </li> 
@@ -202,7 +202,7 @@
                          </a> 
                     </li> 
                     <li class="collection-item">
-                        <a href="#" target="_blank"> 
+                        <a href="http://farasa.net/elearning2/users/index.php" target="_blank"> 
                         نشستی با استاد
                          </a> 
                     </li> 
