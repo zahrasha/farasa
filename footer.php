@@ -7,10 +7,10 @@
     <ul class="fixed-fab">
        <!-- <li><a href="http://shop1.farama.net" class="btn-floating fab-btn teal darken-3 tooltip-right farakala-color" title="محصولات سلامت">
                فراکالا </a></li> -->
-       <li><a href="http://social1.farama.net" class="btn-floating fab-btn faranet-color tooltip-right faranet-color" title=" شبکه اجتماعی سلامت"> فیت نت </a>
+       <li><a href="http://faranet.salemsa.net/" class="btn-floating fab-btn faranet-color tooltip-right faranet-color" title=" شبکه اجتماعی سلامت"> فرا نت  </a>
        </li>
 
-       <li><a href="http://fararu.fitasa.ir/" class="btn-floating fab-btn tooltip-right farahoosh-color" title="پرونده هوشمند فعالیت بدنی و تناسب اندام"> فرارو </a></li>
+       <li><a href="http://accounts.salemsa.net/accounts/login/?next=/o/authorize/%3Fresponse_type%3Dcode%26client_id%3DsT2hCZz0b7jDwLpnCuds1xDAGH0R3QnbWKy2UiXA%26redirect_uri%3Dhttp%253A%252F%252Ffaracom.salemsa.net%252Flogin" class="btn-floating fab-btn tooltip-right farahoosh-color" title="مدیریت هوشمند سلامت "> فراهوش</a></li>
 
        <!-- <li><a href="http://198.23.143.240" class="btn-floating fab-btn faracom-color tooltip-right"
               title="ارتباطات هوشمند سلامت "> فراکام </a></li> -->
@@ -18,15 +18,18 @@
        <!-- <li><a href="http://farasa.net" class="btn-floating fab-btn tooltip-right farasa-color" title="آموزش الکترونیک فیت آسا">
                فراسا</a></li> -->
 
-       <li><a href="http://farama.net/dashboard/fa" class="btn-floating fab-btn tooltip-right farama-color" title="مشاوره هوشمند فیت آسا">
-               فراما </a></li>
+       <li><a href="http://accounts.salemsa.net/accounts/login/?next=/o/authorize/%3Fresponse_type%3Dcode%26client_id%3DsT2hCZz0b7jDwLpnCuds1xDAGH0R3QnbWKy2UiXA%26redirect_uri%3Dhttp%253A%252F%252Ffaracom.salemsa.net%252Flogin" class="btn-floating fab-btn tooltip-right farama-color" title="ارتباطات هوشمند سلامت">
+              فراکام </a></li>
 
-       <li><a href="#" class="btn-floating fab-btn app-color tooltip-right" title="اپلیکیشن فیت آسا">
-               اپ </a></li>
+       <li><a href="http://accounts.salemsa.net/accounts/login/?next=/o/authorize/%3Fclient_id%3D0j2E6e1rPKwNCTYlS8cKj2Xp935vU0XaVatu0sFJ%26response_type%3Dcode%26redirect_uri%3Dhttp%3A//farasa.salemsa.net/login.php" class="btn-floating fab-btn app-color tooltip-right" title="آموزش و سنجش الکترونیک سلامت">
+               فراسا </a></li>
 
-       <li><a href="http://arzyabi.fitasa.ir/" class="btn-floating fab-btn hooma-color tooltip-right" title="ارزیابی و بازخورد هوشمند فیت آسا">
-       ارزیابی  </a></li>
-
+       <li><a href="http://accounts.salemsa.net/accounts/login/?next=/o/authorize/%3Fresponse_type%3Dcode%26client_id%3DvGJwWiwE4OtYWzqfroKK7j9hPWq7jc0cU0t7gAaY%26redirect_uri%3Dhttp%253A%252F%252Ffarama.salemsa.net%253Fa%253Dlogin%2526lang%253Dfa" class="btn-floating fab-btn purple accent-2 tooltip-right" title=" مشاوره تلفنی وآنلاین سلامت">
+        فراما</a></li>
+       <li><a href="http://salemsa.net/application/6757/" class="btn-floating fab-btn hooma-color tooltip-right" title="اپلیکیشن سلامت هوشمند">
+        آپ </a></li>
+        <li><a href="http://accounts.salemsa.net/accounts/login/?next=/o/authorize/%3Fresponse_type%3Dcode%26client_id%3DWJ1UnUf5bs3BrHo9pxqNntq9OZA5ylTB2E3p1x4j%26redirect_uri%3Dhttp%253A%252F%252Fhooma.salemsa.net%252Flogin%252F" class="btn-floating fab-btn cyan tooltip-right" title="ارزیابی هوشمند سلامت">
+       هوما </a></li>
    </ul>
 </div>
 <!---------- end fabicon-------->

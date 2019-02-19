@@ -31,7 +31,7 @@
 .table tr:nth-child(even){
   background: #f8f8f8;  
 }
-.table th,
+.table th
 .table td {
   padding: .625em;
   text-align: left;
@@ -82,6 +82,8 @@ td{
 }
 .table.card{
 
+}
+.first-col-shrink tr th:first-child {
 }
 </style>
 <body>
