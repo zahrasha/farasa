@@ -7,7 +7,7 @@
         <div class="row margin-bottom-0">
             <!--Top title-->
             <div class="col s12 m12 l12">
-                <h5 class="breadcrumbs-title "><i class="mdi-action-home"></i>صفحه اصلی / مشخصات کاربر / تغییر رمز عبور</h5>
+                <h5 class="breadcrumbs-title "><i class="mdi-action-home"></i>صفحه اصلی / مشخصات کاربر / تغییر پست الکترونیک</h5>
             </div>
         </div>
         <div class="row">
@@ -17,20 +17,12 @@
                         <div class="input-field ">
                                 <i class="mdi-maps-local-offer prefix"></i>
                                 <input id="gymname" type="password" class="validate">
-                                <label for="gymname" class=""> رمز عبور قبلی : </label>
+                                <label for="gymname" class=""> رمز عبور</label>
                             </div>
                             <div class="input-field ">
                                 <i class="mdi-maps-local-offer prefix"></i>
-                                <input id="gymname" type="password" class="validate">
-                                <label for="gymname" class=""> رمز عبور: </label>
-                           <p class="right">· ﻿از حروف ، اعداد و نمادها استفاده كنيد</p>
-                            <p class="right">· ﻿حداقل 8 کاراکتر، حداكثر 15 كاراكتر</p>
-                            </div>
-                            <br><br>
-                            <div class="input-field ">
-                                <i class="mdi-maps-local-offer prefix"></i>
-                                <input id="gymname" type="password" class="validate">
-                                <label for="gymname" class=""> تکرار رمز عبور: </label>
+                                <input id="gymname" placeholder="user2911635342@farasa.net" type="text" class="validate">
+                                <label for="gymname" class=""> آدرس پست الکترونیک  </label>
                             </div>
 
                             <button class="btn waves-effect waves-light create-btn z-depth-1 light-blue accent-3 left submit-form"
@@ -51,6 +43,3 @@
 </body>
 
 </html>
-
-
-
