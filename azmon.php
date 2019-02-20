@@ -52,6 +52,8 @@
     <a class="white-text" href="">
       انصراف</a></button>
     </div>
+    </div>
+    </div>
 
 
 
