@@ -15,25 +15,29 @@
                     <form action="#">
                         <div class="col s12  card-content right">
                         <div class="input-field ">
-                                <i class="mdi-maps-local-offer prefix"></i>
+                                <i class="mdi-action-lock prefix"></i> 
                                 <input id="gymname" type="password" class="validate">
                                 <label for="gymname" class=""> رمز عبور</label>
                             </div>
                             <div class="input-field ">
-                                <i class="mdi-maps-local-offer prefix"></i>
+                                <i class="mdi-content-mail prefix"></i>
                                 <input id="gymname" placeholder="user2911635342@farasa.net" type="text" class="validate">
                                 <label for="gymname" class=""> آدرس پست الکترونیک  </label>
                             </div>
 
-                            <button class="btn waves-effect waves-light create-btn z-depth-1 light-blue accent-3 left submit-form"
-                                type="button">ارسال
-                        </button>
-                        <button class="btn waves-effect waves-light create-btn z-depth-1 light-blue accent-3 left submit-form"
-                                type="button">انصراف 
-                        </button>
+                            <br>
+                            <div class="clear"></div>
+                            <button class="btn waves-effect waves-light create-btn z-depth-1 light-blue accent-3 right submit-form" type="button">
+                            ارسال
+                            </button>
+                            <button class="btn waves-effect waves-light create-btn z-depth-1 grey darken-2 right" type="button">
+                            انصراف
+                            </button>
+							<div class="clear"></div>
 
                             </div>
                             </div>
+                            </form>
         </div>
         </div>
     </div>

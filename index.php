@@ -82,7 +82,24 @@
                     <li class="collection-item">
                         <a href="  profile_picture.php" target="_blank"> اپلود تصویر </a> 
                     </li> 
-
+                    <li class="collection-item">
+                        <a href="azmon.php " target="_blank">  انتخاب آزمون </a> 
+                    </li> 
+                    <li class="collection-item">
+                        <a href=" questionnaire.php" target="_blank"> پرسشنامه </a> 
+                    </li> 
+                    <li class="collection-item">
+                        <a href="buy-pack.php" target="_blank"> پیشنهاد ویژه  </a> 
+                    </li> 
+                    <li class="collection-item">
+                        <a href="online-chat.php" target="_blank"> گفتگوی انلاین </a> 
+                    </li> 
+                    <li class="collection-item">
+                        <a href="chat.php" target="_blank"> گفتگوها </a> 
+                    </li>
+                   <li class="collection-item">
+                        <a href="factors-archive.php" target="_blank"> آرشیو پرداخت </a> 
+                    </li>
                 </ul>
             </div>
 
@@ -107,6 +124,7 @@
                         </a>
                     </li>
                     <li class="collection-item">
+                    <i class="mdi-toggle-check-box"></i>
                         <a href="http://www.farasa.net/elearning2/payment/buy_pack.php" target="_blank">
                        پیشنهاد ویژه
                         </a>
@@ -117,6 +135,7 @@
                         </a>
                     </li>
                     <li class="collection-item">
+                    <i class="mdi-toggle-check-box"></i>
                         <a href="http://farasa.net/elearning2/payment/credits_archive.php" target="_blank">
                        آرشیو اعتبار
                         </a>
@@ -217,6 +236,7 @@
                          </a> 
                     </li> 
                      <li class="collection-item">
+                    <i class="mdi-toggle-check-box"></i>
                     <a href="http://www.farasa.net/elearning2/search.php" target="_blank"> 
                     جستجو ها
                          </a> 
@@ -227,11 +247,16 @@
                          </a> 
                     </li>
                     <li class="collection-item">
+                    <i class="mdi-toggle-check-box"></i>
+
+
                     <a href="http://www.farasa.net/elearning2/users/profile.php" target="_blank"> 
                     مشخصات کاربر
                          </a> 
                     </li>
+
                     <li class="collection-item">
+                    <i class="mdi-toggle-check-box"></i>
                     <a href="http://farasa.net/elearning2/help/accessibility.php" target="_blank"> 
                     دستورات میانبر
                          </a> 
@@ -242,11 +267,13 @@
                          </a> 
                     </li>
                     <li class="collection-item">
+                    <i class="mdi-toggle-check-box"></i>
                     <a href="http://www.farasa.net/elearning2/users/password_change.php" target="_blank"> 
                     تغییر رمز عبور
                          </a> 
-                    </li> 
+                    </li>   
                      <li class="collection-item">
+                     <i class="mdi-toggle-check-box"></i>
                     <a href="http://www.farasa.net/elearning2/users/email_change.php" target="_blank"> 
                     تغییر پست اکترونیک
                          </a> 

@@ -1,4 +1,13 @@
 <?php include 'head.php'; ?>
+<style>
+.input-field p{
+margin-right:30px;
+color:#bbb;
+font-size:9px;
+display:block;
+padding:5px;
+}
+</style>
 </head>
 <body>
 <?php include 'header.php'; ?>
@@ -15,33 +24,38 @@
                     <form action="#">
                         <div class="col s12  card-content right">
                         <div class="input-field ">
-                                <i class="mdi-maps-local-offer prefix"></i>
+                                <i class="mdi-action-lock prefix"></i>
                                 <input id="gymname" type="password" class="validate">
                                 <label for="gymname" class=""> رمز عبور قبلی : </label>
                             </div>
                             <div class="input-field ">
-                                <i class="mdi-maps-local-offer prefix"></i>
+                                <i class="mdi-action-lock prefix"></i>
                                 <input id="gymname" type="password" class="validate">
                                 <label for="gymname" class=""> رمز عبور: </label>
-                           <p class="right">· ﻿از حروف ، اعداد و نمادها استفاده كنيد</p>
-                            <p class="right">· ﻿حداقل 8 کاراکتر، حداكثر 15 كاراكتر</p>
+                                <p class="right">· ﻿از حروف ، اعداد و نمادها استفاده كنيد</p>
+                                <br>
+                                <br>
+                                <p class="right">· ﻿حداقل 8 کاراکتر، حداكثر 15 كاراكتر</p>
                             </div>
-                            <br><br>
+                            <br>
                             <div class="input-field ">
-                                <i class="mdi-maps-local-offer prefix"></i>
+                                <i class="mdi-action-lock prefix"></i> 
                                 <input id="gymname" type="password" class="validate">
                                 <label for="gymname" class=""> تکرار رمز عبور: </label>
                             </div>
-
-                            <button class="btn waves-effect waves-light create-btn z-depth-1 light-blue accent-3 left submit-form"
-                                type="button">ارسال
-                        </button>
-                        <button class="btn waves-effect waves-light create-btn z-depth-1 light-blue accent-3 left submit-form"
-                                type="button">انصراف 
-                        </button>
+                            <br>
+                            <div class="clear"></div>
+                            <button class="btn waves-effect waves-light create-btn z-depth-1 light-blue accent-3 right submit-form" type="button">
+                            ارسال
+                            </button>
+                            <button class="btn waves-effect waves-light create-btn z-depth-1 grey darken-2 right" type="button">
+                            انصراف
+                            </button>
+							<div class="clear"></div>
 
                             </div>
                             </div>
+                         </form>
         </div>
         </div>
     </div>
