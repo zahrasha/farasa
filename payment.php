@@ -21,24 +21,24 @@
            <li><a href="track-payment.php"> پیگیری پرداخت</a></li>
           </ul>
         </div> 
-            <table class="col s8 m8 l7 offset-l1 responsive-table striped centered farzan-table  left first-col-shrink">
+                <table class="col s8 m8 l7 offset-l1 responsive-table striped centered farzan-table  left first-col-shrink">
                 <thead class="white-text purple">
                 <tr class="my-table">
-                    <th>ردیف</th>
-                    <th class="pad-tbl">اعتبار فعال	</th>
+                    <th class="pad-tbl">ردیف</th>
+                    <th >اعتبار فعال	</th>
                     <th> میزان اعتبار</th>
                     
                 </tr>
                 </thead>
                 <tbody>
                 <tr>
-                    <td>1</td>
-                    <td  class="pad-tbl">اعتبار اختصاص یافته به شما</td>
+                    <td class="pad-tbl">1</td>
+                    <td >اعتبار اختصاص یافته به شما</td>
                     <td></td>
                 </tr>
                 <tr>
-                <td>2</td>
-                <td  class="pad-tbl">اعتبار اختصاص یافته به حساب/مرکز شما</td>
+                <td class="pad-tbl">2</td>
+                <td  >اعتبار اختصاص یافته به حساب/مرکز شما</td>
                 <td></td>
                 </tr>
                 </tbody>

@@ -40,7 +40,7 @@
             </div>
             <div class="col s12 m8 l9 right" id="MainLinks">
               <div class="col s6 m4 l2 right">
-                <a href="#">
+                <a href="angoman.php">
                   <div class="white center my-card bordered-card">
                       <img src="./images/farasa/forum.png" alt="">
                       <h4 class="link">انجمن ها</h4>
@@ -49,7 +49,7 @@
               </div>
 
               <div class="col s6 m4 l2 right">
-                <a href="#">
+                <a href="keywords.php">
                   <div class="white center my-card bordered-card">
                       <img src="./images/farasa/keywords.png" alt="">
                       <h4 class="link">واژگان کلیدی</h4>
@@ -58,7 +58,7 @@
               </div>
 
               <div class="col s6 m4 l2 right">
-                <a href="#">
+                <a href="upload-file.php">
                   <div class="white center my-card bordered-card">
                       <img src="./images/farasa/database.png" alt="">
                       <h4 class="link">ذخیره سازی فایل</h4>
@@ -67,7 +67,7 @@
               </div>
 
               <div class="col s6 m4 l2 right">
-                <a href="#">
+                <a href="online-chat.php">
                   <div class="white center my-card bordered-card">
                       <img src="./images/farasa/chat.png" alt="">
                       <h4 class="link">گفتگوی آنلاین</h4>
@@ -85,7 +85,7 @@
               </div>
 
               <div class="col s6 m4 l2 right">
-                <a href="#">
+                <a href="test.php">
                   <div class="white center my-card bordered-card">
                       <img src="./images/farasa/exam.png" alt="">
                       <h4 class="link">آزمون ها</h4>
@@ -94,7 +94,7 @@
               </div>
 
               <div class="col s6 m4 l2 right">
-                <a href="#">
+                <a href="visit.php">
                   <div class="white center my-card bordered-card">
                       <img src="./images/farasa/eye.png" alt="">
                       <h4 class="link">بازدید ها</h4>
@@ -103,7 +103,7 @@
               </div>
 
               <div class="col s6 m4 l2 right">
-                <a href="#">
+                <a href="index-govahi.php">
                   <div class="white center my-card bordered-card">
                       <img src="./images/farasa/license.png" alt="">
                       <h4 class="link">گواهی</h4>
@@ -121,7 +121,7 @@
               </div>
 
               <div class="col s6 m4 l2 right">
-                <a href="#">
+                <a href="payment.php">
                   <div class="white center my-card bordered-card">
                       <img src="./images/farasa/payment.png" alt="">
                       <h4 class="link">پرداخت و اعتبار</h4>
