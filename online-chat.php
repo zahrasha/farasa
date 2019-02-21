@@ -11,16 +11,19 @@
             </div>
         </div>
     </div>
- <hr>
  <div class="container"> 
  <div class="row">
-   <span  class="col s6  offset-s6" >
-  هیچ نوشته ای پیدا نشد
-   </span>
-
-<a  class="btn blue darken-3 margin-top-25" href="chat.php">
-  ورود به بحث و گفتگو
-  </a>
+ <div class="col s12 m4 l3 right">
+    <?php include 'sidebar.php'; ?>
+ </div>
+   <div class="col s12 m7 l7 offset-l1 card margin-5">
+            <p>هيچ رونوشتي پيدا نشد.</p>
+            <a href="chat.php">
+            <button class="btn  waves-effect waves-light z-depth-1 light-blue accent-3 left" type="button">
+           ورود به بحث و گفتگو
+            </button></a>
+            <div class="clear"></div>
+   </div>
  </div>
  
  </div>

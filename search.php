@@ -29,17 +29,19 @@
         </div>
     </div>
     <div class="row">
-         
+    <div class="col s12 m4 l3 right">
+            <?php include 'sidebar.php'; ?>
+            </div>
     <div class="row container">
-    <div class="card  col s12 m6 l8 left">
+    <div class="card white my-card z-depth-1 list-container col s12 m6 l7 offset-l1 left">
     <label  class="blue-text"> کلمات </label>
     <select class=" " >
     <option value="1"> نمایش محتوا </option>
     </select>
-    <div class="form-redio">
+    <div class="input-field form-redio right myradio" style="margin-left: 20px;">
     <span style="display:block; " >تطابق: </span>
     <input id="radio-5" name="radio-5" type="radio" checked>
-    <label for="radio-5" class="blue-text radio-label">تمام کلمات</label>
+    <label for="radio-5" class="checkbox-text black-text blue-text radio-label">تمام کلمات</label>
     <input id="radio-6" name="radio-5" type="radio">
     <label  for="radio-6" class="blue-text  radio-label">هر کلمه ای</label>
     <span style="display:block; " > نتايج را پيدا کن در </span>
@@ -60,51 +62,10 @@
     <input  id="radio-c" name="radio-a" type="radio">
     <label style="display:block;"  for="radio-c" class="blue-text radio-label">گروه بندي بر اساس دوره </label>
     <button style="margin-top:20px; margin-bottom:30px;" class="btn blue"><a class=" white-text" href="search.php"> جستجو </a></button>
-
+   
     </div>
     </div>
-    
-    <div class="col s12 m4 l3 right">
-              <div class="white my-card z-depth-1 list-container">
-                <h4 class="heading">مرور مطالب</h4>
-                <ul class="tree">
-                <li>  <a href="course.php">صفحه اصلی دوره</a></li>
-                  <li><a href="content.php">پیش گفتار</a></li>
-                  <li><a href="#">پیش گفتار</a>
-                    <ul>
-                      <li><a href="content.php">صفحه اصلی دوره</a></li>
-                      <li><a href="content.php">پیش گفتار</a></li>
-                      <li>
-                      <a href="#">پیش گفتار</a>
-                        <ul>
-                          <li><a href="content.php">صفحه اصلی دوره</a></li>
-                          <li><a href="content.php">پیش گفتار</a></li>
-                          <li><a href="content.php">پیش گفتار</a></li>
-                        </ul>
-                      </li>
-                    </ul>
-                  </li>
-                  <li><a href="content.php">لینک آخر</a></li>
-                  </ul>
-
-                
-                  </div>
-                  <div class="col s12 m12 l12 right">
-            <div class="white my-card z-depth-1  list-container">
-            <i class="mdi-action-credit-card prefix "></i>
-            <label  class="blue-text"> جستجو </label>
-            <select >
-            <option value="1"> نمایش محتوا </option>
-            </select>
-            <span style="display:block; " >تطابق: </span>
-            <input id="radio-4" name="radio" type="radio" checked>
-            <label for="radio-4" class="blue-text radio-label">تمام کلمات</label>
-            <input id="radio-5" name="radio" type="radio">
-            <label  for="radio-5" class="blue-text  radio-label">هر کلمه ای</label>
-            <button style="margin-top:20px;" class="btn blue"><a class=" white-text" href="search.php"> جستجو </a></button>
-                   </div>
-                   </div>  
-                   </div>
+    </div>
     <!--end container-->
 
 <?php include 'footer.php'; ?>

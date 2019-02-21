@@ -15,10 +15,14 @@
             <div class="col s12 m12 l12">
                 <h5 class="breadcrumbs-title "><i class="mdi-action-home"></i> صفحه اصلی / صندوق پستی</h5>
             </div>
-        </div>
-        <table class="responsive-table striped centered farzan-table  first-col-shrink">
+            </div>
+  <div class="row">
+        <div class="col s12 m4 l3 right">
+            <?php include 'sidebar.php'; ?>
+            </div>
+            <table class="col s12 m7 l9 responsive-table striped centered farzan-table first-col-shrink">
                 <thead class="white-text purple">
-                <tr>
+                  <tr class="my-table">
                   <th>ردیف</th>
                   <th>	از</th>
                   <th>موضوع</th>
@@ -46,7 +50,7 @@
                 </tbody>
                 </table>
                
-             
+                </div>    
     </div>
     <!--end container-->
 

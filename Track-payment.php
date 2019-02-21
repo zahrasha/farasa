@@ -11,8 +11,11 @@
             </div>
             <div class="clear margin-bottom-10"></div>
         </div> 
-        <div class="row"> 
-        <div class="card col l4 offset-l4">
+        <div class="row">
+        <div class="col s12 m4 l3 right">
+            <?php include 'sidebar.php'; ?>
+            </div> 
+        <div class="card col s12 m5 l4 offset-l4">
         <br>
         <a href="payment.php">بازگشت به صفحه اعتبار و پرداخت</a>
         <br>

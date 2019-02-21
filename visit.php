@@ -32,7 +32,10 @@
    
         <div class="container">
         <div class="row">
-    <div class="col l12 right">
+        <div class="col s12 m4 l3 right">
+            <?php include 'sidebar.php'; ?>
+            </div>
+    <div class="col s12 m8 l9 my-card">
     <table class="table responsive-table striped centered farzan-table z-depth-1">
     <thead class="white-text ">
     <tr class="my-table">

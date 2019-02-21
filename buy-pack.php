@@ -29,6 +29,9 @@
             </div>
         </div>
         <div class="row">
+        <div class="col s12 m4 l3 right">
+            <?php include 'sidebar.php'; ?>
+            </div>
         <div class="col s12 m6 l3 right">
             <div class="card z-depth-1 card-profile grey lighten-3 center-align">
                 <div class="card-profile-header light-blue accent-3"></div>

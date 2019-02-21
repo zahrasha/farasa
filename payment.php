@@ -10,17 +10,10 @@
                 <h5 class="breadcrumbs-title "><i class="mdi-action-home"></i>صفحه اصلی/دوره انتخابی/ اعتبار و پرداخت</h5>
             </div>
         </div>
-        <div class="clear"></div>
-        <div class="row" >
-        <div class="card col s3 m3 l3 offset-l1 right">
-         <ul>
-           <li><a href="payment.php"> اعتبار و پرداخت</a></li>
-           <li><a href="buy-pack.php">  پیشنهاد ویژه </a></li>
-           <li><a href="factors-archive.php"> آرشيو پرداخت</a> </li>
-           <li><a href="Credit-archive.php">آرشيو اعتبار</a></li>
-           <li><a href="track-payment.php"> پیگیری پرداخت</a></li>
-          </ul>
-        </div> 
+        <div class="row">
+        <div class="col s12 m4 l3 right">
+            <?php include 'sidebar.php'; ?>
+        </div>
                 <table class="col s8 m8 l7 offset-l1 responsive-table striped centered farzan-table  left first-col-shrink">
                 <thead class="white-text purple">
                 <tr class="my-table">
@@ -43,12 +36,8 @@
                 </tr>
                 </tbody>
             </table>
-           
-
-
-        
-
-</div>
+            </div>
+            </div>
 
   <!--end container-->
 

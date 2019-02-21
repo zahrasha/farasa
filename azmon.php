@@ -1,7 +1,6 @@
 <?php include 'head.php'; ?>
 <style>
 .my-list li{
-
     line-height:2.5em;
     margin-right:20px;
 }
@@ -17,12 +16,18 @@
             <!--Top title-->
             <div class="col s12 m12 l12">
                 <h5 class="breadcrumbs-title "><i class="mdi-action-home"></i>صفحه اصلی/ دوره انتخابی/آزمون ها/اماده پاسخ گویی </h5>
-            </div>
         </div>
-    </div>
-    <div class="container card  margin-bottom-20">
+        </div> 
+        </div>
     <div class="row ">
-  
+
+    <div class="col s12 m4 l3 right">
+      <?php include 'sidebar.php'; ?>
+    </div>
+   
+   
+    <div class="card col l8 m8 s12 offset-l1">
+    <div class="row">
     <ul class="my-list col l2 right" >
     <li>سؤالات 	 </li>
     <li>بیشترین نمره </li>
@@ -44,17 +49,21 @@
    <li>خیر</li>
    <li>نمايش تمامي سوالات در يك صفحه</li>
    </ul>
+   </div>
+  <a href="questionnaire.php"> <button class="btn waves-effect waves-light create-btn z-depth-1 light-blue accent-3 right submit-form"
+    type="button">
+       شروع آزمون                 
+    </button></a>
+    <button class="btn waves-effect waves-light create-btn z-depth-1  grey darken-2 accent-3 right submit-form"
+    type="button">
+    انصراف               
+    </button>
+    
+    </div>
+    </div>
     </div> 
-  <button class="btn blue margin-bottom-20" >
-    <a class="white-text" href="questionnaire.php">
-      شروع ازمون </a></button>
-    <button class="btn blue  margin-bottom-20" >  
-    <a class="white-text" href="">
-      انصراف</a></button>
     </div>
-    </div>
-    </div>
-
+    </div> 
 
 
     <!--end container-->

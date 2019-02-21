@@ -10,8 +10,11 @@
                 <h5 class="breadcrumbs-title "><i class="mdi-action-home"></i> صفحه اصلی /دوره انتخابی/اعتبار و پرداخت/آرشیو اعتبار</h5>
             </div>
         </div>
-        <div class="">
-        <table  class="responsive-table striped centered farzan-table  first-col-shrink">
+        <div class="row">
+        <div class="col s12 m4 l3 right">
+            <?php include 'sidebar.php'; ?>
+        </div>
+        <table  class=" col l7 m7 s12 offset-l1 responsive-table striped centered farzan-table  first-col-shrink">
                 <thead class="white-text purple">
                 <tr class="my-table">
                     <th>ردیف</th>

@@ -11,6 +11,9 @@
             </div>
         </div>
         <div class="row">
+        <div class="col s12 m4 l3 right">
+            <?php include 'sidebar.php'; ?>
+        </div>
         <div class="card z-depth-1  col s12 m6 l4 offset-l4  white">
                     <form action="#">
                         <div class="col s12  card-content right">

@@ -26,7 +26,16 @@ ul li label{
             </div>
         </div>
     </div>
-    <div class="container card">
+
+<div class="row">
+    <div class="col s12 m4 l3 right">
+            <?php include 'sidebar.php'; ?>
+            </div>
+
+
+
+
+    <div class="col s12 m8 l9 container card">
 <label for="">آزمون نهایی</label>
 
               
@@ -251,10 +260,14 @@ ul li label{
 		        <li >
 		        <input type="radio" name="answers[285]" value="-1" id="choice_285'_x" checked="checked" /><label for="choice_285'_x"><em>بدون پاسخ</em></label>
 	            </li>
-                </ul>    
-                
-
-
+                </ul>  
+                <hr>  
+                <button class="btn waves-effect waves-light create-btn z-depth-1 light-blue accent-3 right submit-form" type="button">
+                            ارسال
+                            </button>
+               
+                </div>
+               
     </div>
     <!--end container-->
 

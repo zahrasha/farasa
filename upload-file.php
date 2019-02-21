@@ -19,6 +19,9 @@
             </div>
         </div>
         <div class="row">
+        <div class="col s12 m4 l3 right">
+            <?php include 'sidebar.php'; ?>
+            </div>
             <div class="col s12 m6 l2 right">
                     <div class="input-field farzan-select">
                         <i class="mdi-action-track-changes prefix "></i>
@@ -35,12 +38,8 @@
                         برو!
                     </button>
                 </div>
-            </div>
-        </div>
-
-        
-        <div class="row">
-            <div class="col s12">
+       
+            <div class="col s12 m8 l9">
             <div class="table-option-holder">
                     <p>مسير فلدر جاري:	صفحه اصلي دوره</p>
                     <ul class="table-options">
@@ -121,6 +120,7 @@
                     
                     </tbody>
                 </table>
+                </div>
                 <div class="clear"></div>
                 <ul class="pagination center">
                     <li class="disabled waves-effect padding-0"><a href="#">ابتدا</a></li>
@@ -139,7 +139,7 @@
             </div>  
         </div>
 
-    </div>
+    
       <!--end container-->
 
 <?php include 'footer.php'; ?>

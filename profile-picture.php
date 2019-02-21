@@ -11,7 +11,10 @@
             </div>
         </div>
     <div class="row ">
-    <div class="col s8 l6 card left">
+    <div class="col s12 m4 l3 right">
+            <?php include 'sidebar.php'; ?>
+    </div>
+    <div class="col s8 l6 offset-l2 card left">
     <span>بارگذاري عكس جديد</span>
     <button class="btn waves-effect waves-light create-btn z-depth-1 light-blue accent-3 left submit-form" type="button">
         <a class="white-text" href=""> choose file    </a>             

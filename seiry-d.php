@@ -78,31 +78,37 @@
             </div>
  
 
-            <div class="row">
-            <div class="col s12 right">
+            <div class="row ">
+            <div class="col s12 right input-field myradio">
                 <div class=" card z-depth-1 card-content white">
                 <span>  فیلتر کردن </span>
                 <br><br>
 
-                  <span > نتايج پيدا شده: 0  </span> 
+                  <span > نتايج پيدا شده: 211 </span> 
                   <br><br> 
 
                     <form action="#">   <form action="#"> 
                     <div class="clear"></div>
                   <div class="radio-button  col s12 m6 l3  right">
                   <div class="radio">
+                  <span>دسترسی:</span>
+                  <br>
                   <input id="radio-1" name="radio" type="radio" checked>
-                  <label for="radio-1" class="radio-label">Checked</label>
+                  <label for="radio-1" class="radio-label">با پرداخت</label>
                   </div>
 
                   <div class="radio">
                   <input id="radio-2" name="radio" type="radio">
-                  <label  for="radio-2" class="radio-label">Unchecked</label>
+                  <label  for="radio-2" class="radio-label">با عضويت</label>
                   </div>
 
                   <div class="radio">
                   <input id="radio-3" name="radio" type="radio" >
-                  <label for="radio-3" class="radio-label">Disabled</label>
+                  <label for="radio-3" class="radio-label">آزاد</label>
+                  </div>
+                  <div class="radio">
+                  <input id="radio-4" name="radio" type="radio" >
+                  <label for="radio-4" class="radio-label">همه</label>
                   </div>
                         </div>
                         </form>
@@ -115,7 +121,7 @@
                                  <option value="">دسته بندی نشده </option>
                                  <option value=""> ICDL </option>
                                  <option value=""> بدو خدمت کارکنان</option>
-                                 </select>
+                                 </select> <br>
                                  <label >دسته</label>
                             </div>
 
@@ -131,15 +137,10 @@
                         </div>
                         <div class="clear"></div>
                   <div class="radio-button  col s12 m6 l3  right">
-                  <Label>تطابق: </Label>
-                  
-                  <input id="radio-4" name="radio" type="radio" checked>
-                  <label for="radio-4" class="radio-label">تمام کلمات</label>
-                 
-
-                  
-                  <input id="radio-5" name="radio" type="radio">
-                  <label  for="radio-5" class="radio-label">هر کلمه ای</label>
+                  <input id="radio-5" name="radio" type="radio" checked>
+                  <label for="radio-5" class="radio-label">تمام کلمات</label>
+                  <input id="radio-6" name="radio" type="radio">
+                  <label  for="radio-6" class="radio-label">هر کلمه ای</label>
                   </div> 
                   <div class="clear"></div>
                   <div class="clear margin-bottom-10"></div>
@@ -153,12 +154,36 @@
                 </div>
             </div>
     </div>     
-    <div class="container">
-  
+   
+<div class="input-field col s12 m12 l12 right mycheckbox">
+       <input type="checkbox" id="barber">
+       <label for="barber" class="checkbox-text margin-bottom-0">لطفا دوره / دوره های مورد نظر خود را انتخاب کنید.  </label>
 </div>
-
-
-
+<div class="row">
+<button class="btn col s1 m2 l2 offset-l5 waves-effect waves-light create-btn z-depth-1 light-blue accent-3 submit-form"
+    type="button"> ثبت دروس انتخاب شده
+  </button>
+  
+        <div class="col s12 l10 offset-l1">
+        <?php 
+          for ($i = 0; $i <= 10; $i++) {
+            echo 
+            '<div class="col s12 m4 l4 right">
+                <div class="card z-depth-1 my-card hoverable">
+                  <div class="card-content">
+                  <div class="center">
+                    <a href="course.php"><img src="images/50.jpg"></a> 
+                  </div>
+                    <h3 class="title"><a href="course.php">استانداردهای گزارش پژوهش های بالينی(CONSORT)</a></h3>
+                    <p>
+                      <small>دسته: <b>پژوهش پزشکی</b></small>
+                    </p>
+                  </div>
+                </div>
+            </div>';
+        } 
+        ?>
+        </div>
     <!--end container-->
 <script>
 

@@ -27,13 +27,16 @@
             </div>
         </div>
         <div class="row">
-          <div class="col s12">
-              <div class="card z-depth-1 card-content white ">
-              <div class="content">
-                  <h3 class="my-title"><b>صفحه ارزشیابی دوره های فراسا</b></h3>
-                  <div class="col s12 m6 l3 pull-l4 right">
-                    <p class="right"><b>نام و نام خانوادگی: </b> شیما ابن العلم</p>
-                  </div>
+          <div class="col s12 m4 l3 right">
+            <?php include 'sidebar.php'; ?>
+          </div> 
+          <div class="col s12 m7 l9 ">
+          <div class="card z-depth-1 card-content white ">
+          <div class="content">
+            <h3 class="my-title"><b>صفحه ارزشیابی دوره های فراسا</b></h3>
+            <div class="col s12 m6 l3 pull-l4 right">
+            <p class="right"><b>نام و نام خانوادگی: </b> شیما ابن العلم</p>
+            </div>
                   <div class="col s12 m6  l3 pull-l4 right">
                     <p class="right"><b>نام مرکز/ دانشگاه: </b> فراسا</p>
                   </div>
