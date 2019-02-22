@@ -527,7 +527,7 @@ div.picker a.today {
 }
 
 .breadcrumbs-title {
-  font-size: 14pt;
+  font-size: 11pt;
   margin: 10px 0;
   line-height: normal;
   font-weight: bold;
@@ -1547,7 +1547,7 @@ ul.card-prifile-list {
 .breadcrumbs-title i {
   vertical-align: sub;
   margin-left: 5px;
-  font-size: 18pt;
+  font-size: 17pt;
 }
 
 /* =================-------------------  Table Options --------------------- ===============*/
@@ -2241,7 +2241,7 @@ table.responsive-table th {
 
   .breadcrumbs-title {
     margin: 5px 0 0 0 !important;
-    font-size: 13pt !important;
+    font-size: 11pt !important;
   }
 
   .index-top-text-style li:nth-child(2) {
@@ -2668,7 +2668,7 @@ table.responsive-table th {
 
   .breadcrumbs-title {
     margin: 5px 0 0 0 !important;
-    font-size: 13pt !important;
+    font-size: 11pt !important;
   }
 
   .form-title {
@@ -2852,12 +2852,8 @@ table.responsive-table th {
   /*font-size: 14pt*/
   /*}*/
 
-  .breadcrumbs-title {
-    font-size: 13pt !important;
-  }
-
   .breadcrumbs-title i {
-    font-size: 18pt !important;
+    font-size: 17pt !important;
   }
 
   .form-title {

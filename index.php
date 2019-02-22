@@ -98,7 +98,10 @@
                         </a> 
                     </li> 
                     <li class="collection-item">
-                        <a href=" questionnaire.php" target="_blank"> پرسشنامه </a> 
+                        <a href="questionnaire.php" target="_blank">
+                            <i class="mdi-toggle-check-box"></i>                            
+                            پرسشنامه 
+                        </a> 
                     </li> 
                     <li class="collection-item">
                         <a href="buy-pack.php" target="_blank">
@@ -168,9 +171,20 @@
                     </li>
                     <li class="collection-item">
                         <a href="help.php" target="_blank">
+                            <i class="mdi-toggle-check-box"></i>
                             راهنمای سایت
                         </a> 
                     </li>
+                    <li class="collection-item">
+                        <a href="contact-us.php" target="_blank"> 
+                            تماس با پشتیبانی
+                        </a> 
+                    </li>
+                    <li class="collection-item">
+                        <a href="course-factor.php" target="_blank">
+                        نمایش فاکتور برای دوره
+                        </a>
+                    </li>  
                 </ul>
             </div>
 
@@ -186,7 +200,7 @@
                     </li>  
                     <li class="collection-item">
                         <a href="http://farasa.net/elearning2/forum/index.php?fid=24" class="red-text" target="_blank"> 
-                        صفحه نمایش انجمن انتخابی
+                    نمایش انجمن انتخابی
                          </a> 
                     </li>  
                     <li class="collection-item">
@@ -196,17 +210,12 @@
                     </li> 
                     <li class="collection-item">
                         <a href="http://farasa.net/elearning2/tools/test_intro.php?tid=172" class="red-text" target="_blank"> 
-                        صفحه نمایش مشخصات آزمون انتخاب شده
+                        نمایش مشخصات آزمون انتخاب شده
                          </a> 
                     </li> 
                     <li class="collection-item">
                         <a href="http://farasa.net/elearning2/tools/take_test.php?tid=172" class="red-text" target="_blank"> 
-                        صفحه پرسشنامه آزمون
-                         </a> 
-                    </li> 
-                    <li class="collection-item">
-                    <a href="http://farasa.net/elearning2/my_stats.php" target="_blank"> 
-                        بازدید های کاربر
+                        پرسشنامه آزمون
                          </a> 
                     </li> 
                     <li class="collection-item">
@@ -219,11 +228,11 @@
                     نمایش پیام مورد نظر
                          </a> 
                     </li> 
-                    <li class="collection-item">
+                    <!-- <li class="collection-item">
                     <a href="http://farasa.net/elearning2/help/contact_support.php" target="_blank"> 
                     تماس با پشتیبانی
                          </a> 
-                    </li>   
+                    </li>    -->
                 </ul>
             </div>
 

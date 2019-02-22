@@ -4,14 +4,26 @@
     width: 15%;
 }
 ul li {
-   line-height:2em;
+    line-height: 2em;
+    padding-top: 0px;
+    padding-right: 20px;
+    padding-bottom: 5px;
 }
-
-
+ul li.true-answer{
+    position: relative;
+}
+ul li.true-answer:before {
+    content: "\e625";
+    display: block;
+    position: absolute;
+    font-family: Material-Design-Icons;
+    right: 0px;
+    color: #66BB6A;
+    top: -6px;
+    font-size: 23px;
+}
 ul li label{ 
     color:black;
- 
-
 }
 </style>
 </head>
@@ -28,59 +40,57 @@ ul li label{
     </div>
 
 <div class="row">
-    <div class="col s12 m12 l12 container card">
-<p> آزمون نهایی</p>
+    <div class="col s12 m12 l10 offset-l1 card">
+        <p> آزمون نهایی</p>
                 <div class="clear"></div>
                 <table class="responsive-table striped centered farzan-table  first-col-shrink">
-                <thead class="white-text purple">
-                <tr class="my-table">
-                <th>1 بارم 	</th>
-                <th> سوال 1: چند گزینه ای </th>
-                </tr>
-                </thead>
+                    <thead class="white-text purple">
+                        <tr class="my-table">
+                        <th>1 بارم 	</th>
+                        <th> سوال 1: چند گزینه ای </th>
+                        </tr>
+                    </thead>
+                    </table>
+                    <br>
+                    <span>    بر طبق بیانیه CONSORT کدام مورد در قسمت روش ها جایگاهی ندارد ؟
+                    </span>
+                    <br>
+                    <ul style="padding: 0px; margin: 0px; list-style-type: none">
+                    <li>
+                    <input type="radio" name="answers[278]" value="0" id="choice_278_0" />
+                        <label for="choice_278_0"></label>
+                        <span>معیار شایستگی برای شرکت کنندگان</span>
+                    <li >
+                    <input type="radio" name="answers[278]" value="1" id="choice_278_1" />
+                    <label for="choice_278_1"></label>
+                    <span>محل و نحوه جمع آوری داده ها</span>
+                    <li class="true-answer">
+                    <input type="radio" name="answers[278]" value="2" id="choice_278_2" />
+                    <label for="choice_278_2"></label>
+                    <span>جزئیات دقیق مداخله مورد نظر</span>
+                    <li >
+                    <input type="radio" name="answers[278]" value="3" id="choice_278_3" />
+                    <label for="choice_278_3"></label>
+                    <span>فرضیات مطالعه</span>
+                    <li >
+                    <input type="radio" name="answers[278]" value="-1" id="choice_278'_x" checked="checked" />
+                    <label for="choice_278'_x"></label>
+                    <span><em>بدون پاسخ</em></span>
+                    </li>
+                    </ul>
+                
+                    <div class="clear"></div>
+                    <table class="responsive-table striped centered farzan-table  first-col-shrink">
+                    <thead class="white-text purple">
+                    <tr class="my-table">
+                    <th>1 بارم 	</th>
+                    <th> سوال 1: چند گزینه ای </th>
+                    </tr>
+                    </thead>
                 </table>
                 <br>
                 <span>    بر طبق بیانیه CONSORT کدام مورد در قسمت روش ها جایگاهی ندارد ؟
                 </span>
-                <br>
-                <br>
-                <ul style="padding: 0px; margin: 0px; list-style-type: none">
-			    <li>
-			    <input type="radio" name="answers[278]" value="0" id="choice_278_0" />
-                    <label for="choice_278_0"></label>
-                    <span>معیار شایستگی برای شرکت کنندگان</span>
-		        <li >
-			    <input type="radio" name="answers[278]" value="1" id="choice_278_1" />
-                <label for="choice_278_1"></label>
-                <span>محل و نحوه جمع آوری داده ها</span>
-			    <li >
-			    <input type="radio" name="answers[278]" value="2" id="choice_278_2" />
-                <label for="choice_278_2"></label>
-                <span>جزئیات دقیق مداخله مورد نظر</span>
-			    <li >
-			    <input type="radio" name="answers[278]" value="3" id="choice_278_3" />
-                <label for="choice_278_3"></label>
-                <span>فرضیات مطالعه</span>
-		        <li >
-		        <input type="radio" name="answers[278]" value="-1" id="choice_278'_x" checked="checked" />
-                <label for="choice_278'_x"></label>
-                <span><em>بدون پاسخ</em></span>
-	            </li>
-                </ul>
-               
-                <div class="clear"></div>
-                <table class="responsive-table striped centered farzan-table  first-col-shrink">
-                <thead class="white-text purple">
-                <tr class="my-table">
-                <th>1 بارم 	</th>
-                <th> سوال 1: چند گزینه ای </th>
-                </tr>
-                </thead>
-                </table>
-                <br>
-                <span>    بر طبق بیانیه CONSORT کدام مورد در قسمت روش ها جایگاهی ندارد ؟
-                </span>
-                <br>
                 <br>
                 <ul style="padding: 0px; margin: 0px; list-style-type: none">
 			    <li>
@@ -89,7 +99,7 @@ ul li label{
 		        <li >
 			    <input type="radio" name="answers[279]" value="1" id="choice_279_1" />
                 <label for="choice_279_1"></label><span>محل و نحوه جمع آوری داده ها</span>
-			    <li >
+			    <li class="true-answer">
 			    <input type="radio" name="answers[279]" value="2" id="choice_279_2" />
                 <label for="choice_279-2"></label>  <span>جزئیات دقیق مداخله مورد نظر</span>
 			    <li >
