@@ -69,11 +69,13 @@
                         </li>
                         <li class="collection-item">
                             <a href="seiry-d.php" target="_blank">
+                                <i class="mdi-toggle-check-box"></i>
                                 صفحه سیری در دوره ها 
                             </a> 
                         </li>  
                         <li class="collection-item">
                             <a href="index-govahi.php" target="_blank">
+                                <i class="mdi-toggle-check-box"></i>
                                 صفحه گواهی 
                             </a> 
                     </li>

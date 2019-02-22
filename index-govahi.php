@@ -27,7 +27,11 @@
             </div>
         </div>
         <div class="row">
+<<<<<<< HEAD
           <div class="col s12 m12 l12 ">
+=======
+          <div class="col s12 m7 l10 offset-l1 ">
+>>>>>>> 5464d20cf0c4d7d4a43d1c30aa3bd032466a4acc
           <div class="card z-depth-1 card-content white ">
           <div class="content">
             <h3 class="my-title"><b>صفحه ارزشیابی دوره های فراسا</b></h3>

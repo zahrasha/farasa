@@ -86,6 +86,31 @@
     </div>
     </div>
     </div>
+    <div class="row">
+    <div class="row container">
+    <div class="card white my-card z-depth-1 list-container col s12 m8 l8 offset-l2 left">
+    <br>
+      <span >8- نتيجه جستجو</span>
+      <hr>
+     <label class="black-text"  for=""><a href="#">
+     پايش پژوهش های بالينی (Monitoring) 
+     </a>
+     نتايج - پيداشد.1 صفحات
+     </label>
+     <span style="padding-top:10px;">هيچ توصيفي در دسترس نيست
+     [Access: با پرداخت. زبان اوليه: فارسي]</span>
+   <p>
+   <a href="#">1. چك ليست شماره 1 - ماموریتهای اصلي پایشگر طی بازدید از محل مطالعه </a>
+   <br>
+   Untitled Document •	تأييد درستي و کامل بودن داده‌هاي ثبت شده در فرم‌هاي CRF (شامل كارت‌هاي روزانه(diary cards)، فرم‌هاي كيفيت زندگي(quality of life forms)، فرم‌هاي ثبت نام(registration forms)، فرم‌هاي رضايت‌نامه(consen...
+   <br>
+   <span>[كلمات كليدي: . مؤلف: هيچ. به روزرساني شد: دوشنبه دي ۸, ۱۳۹۳ - ۱۱:۴۲]</span>
+   </p>
+   </div>
+    </div>
+    </div>
+
+
     <!--end container-->
 
 <?php include 'footer.php'; ?>

@@ -26,15 +26,33 @@
                 </tr>
                 </thead>
                 <tbody>
-                  <tr>
+                <tr>
                   <td>1</td>
                   <td>1397/12/3</td>
                   <td>000000</td>
-                  <td></td>
-                  <td></td>
-                  <td></td>
-                  <td></td>
-                  <td></td>
+                  <td>-</td>
+                  <td> 300000 ريال</td>
+                  <td> با حساب</td>
+                  <td> -</td>
+                  <td>.......</td>
+                  </tr> <tr>
+                  <td>1</td>
+                  <td>1397/12/3</td>
+                  <td>000000</td>
+                  <td>-</td>
+                  <td> 300000 ريال</td>
+                  <td> با حساب</td>
+                  <td> -</td>
+                  <td>.......</td>
+                  </tr> <tr>
+                  <td>1</td>
+                  <td>1397/12/3</td>
+                  <td>000000</td>
+                  <td>-</td>
+                  <td> 300000 ريال</td>
+                  <td> با حساب</td>
+                  <td> -</td>
+                  <td>.......</td>
                   </tr>
                 </tbody>
             </table>
