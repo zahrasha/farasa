@@ -27,10 +27,7 @@
             </div>
         </div>
         <div class="row">
-          <div class="col s12 m4 l3 right">
-            <?php include 'sidebar.php'; ?>
-          </div> 
-          <div class="col s12 m7 l9 ">
+          <div class="col s12 m12 l12 ">
           <div class="card z-depth-1 card-content white ">
           <div class="content">
             <h3 class="my-title"><b>صفحه ارزشیابی دوره های فراسا</b></h3>

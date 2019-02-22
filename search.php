@@ -1,19 +1,10 @@
 <?php include 'head.php'; ?>
 <style>
 
-.form-redio span {
-    margin-top:15px;
-    font-size:12px;
-}
+
 .form-redio input {
     margin-top:15px;
     font-size:12px !important;
-}
-.form-redio label {
-    margin-top:15px;
-    font-size:13px !important;
- 
-    
 }
 </style>
 </head>
@@ -29,40 +20,69 @@
         </div>
     </div>
     <div class="row">
-    <div class="col s12 m4 l3 right">
-            <?php include 'sidebar.php'; ?>
-            </div>
     <div class="row container">
-    <div class="card white my-card z-depth-1 list-container col s12 m6 l7 offset-l1 left">
-    <label  class="blue-text"> کلمات </label>
-    <select class=" " >
-    <option value="1"> نمایش محتوا </option>
-    </select>
+    <div class="card white my-card z-depth-1 list-container col s12 m8 l8 offset-l2 left">
     <div class="input-field form-redio right myradio" style="margin-left: 20px;">
+    
+
+    <div class="col  s12 m8 l4  offset-l2 right">
+    <label  class="blue-text"> کلمات </label><br>
+    <select class=" " >
+    <option value="1"><small> نمایش محتوا</small> </option>
+    </select>
+    </div>
+    <div class="input-field col  s12 m8 l4  offset-l2 right myradio">
     <span style="display:block; " >تطابق: </span>
-    <input id="radio-5" name="radio-5" type="radio" checked>
-    <label for="radio-5" class="checkbox-text black-text blue-text radio-label">تمام کلمات</label>
-    <input id="radio-6" name="radio-5" type="radio">
-    <label  for="radio-6" class="blue-text  radio-label">هر کلمه ای</label>
+        <input type="radio" name="tick-a" id="all-1">
+        <label for="all-1" class="checkbox-text black-text" style="font-size: 12pt">
+        <span>تمام کلمات</span>
+        </label>
+        <input type="radio" name="tick-a" id="words1">
+        <label for="words1" class="checkbox-text black-text" style="font-size: 12pt">
+        <span>هر کلمه</span>
+        </label>
+    </div>
+    <div class="input-field col  s12 m8 l4  offset-l2 right myradio">
     <span style="display:block; " > نتايج را پيدا کن در </span>
-    <input id="radio-7" name="radio-7" type="radio">
-    <label for="radio-7" class="blue-text radio-label"> تمام دوره هاي قابل دسترس </label>
+        <input type="radio" name="tick-s" id="all-2">
+        <label for="all-2" class="checkbox-text black-text" style="font-size: 12pt">
+        <span> تمام دوره هاي قابل دسترس </span>
+        </label>
+    </div>
+    <div class="input-field col  s12 m8 l4  offset-l2 right myradio">
     <span style="display:block; " > جستجو در </span>
-    <input id="radio-8" name="radio-8" type="radio">
-    <label for="radio-8" class="blue-text radio-label"> همه  </label>
-    <input id="radio-9" name="radio-8" type="radio">
-    <label for="radio-9" class="blue-text radio-label"> محتوا </label>
-    <input id="radio-0" name="radio-8" type="radio">
-    <label for="radio-0" class="blue-text radio-label">انجمن ها  </label>
-    <span style="display:block;" > نمایش </span>
-    <input  id="radio-a" name="radio-a" type="radio">
-    <label style="display:block;" for="radio-a" class="blue-text radio-label"> به عنوان صفحات محتواي شخصي  </label>
-    <input  id="radio-b" name="radio-a" type="radio">
-    <label style="display:block;" for="radio-b" class="blue-text radio-label">گروه بندي بر اساس دوره  </label>
-    <input  id="radio-c" name="radio-a" type="radio">
-    <label style="display:block;"  for="radio-c" class="blue-text radio-label">گروه بندي بر اساس دوره </label>
-    <button style="margin-top:20px; margin-bottom:30px;" class="btn blue"><a class=" white-text" href="search.php"> جستجو </a></button>
-   
+        <input type="radio" name="tick-v" id="all-g">
+        <label for="all-g" class="checkbox-text black-text" style="font-size: 12pt">
+        <span>همه  </span>
+        </label>
+        <input type="radio" name="tick-v" id="all-f">
+        <label for="all-f" class="checkbox-text black-text" style="font-size: 12pt">
+        <span> محتوا </span>
+        </label>
+        <input type="radio" name="tick-v" id="all-d">
+        <label for="all-d" class="checkbox-text black-text" style="font-size: 12pt">
+        <span> انجمن ها </span>
+        </label>
+    </div>
+    <div class="input-field col  s12 m8 l4  offset-l2 right myradio">
+    <span style="display:block; " > نمایش  </span>
+        <input type="radio" name="tick-b" id="all-b">
+        <label for="all-b" class="checkbox-text black-text" style="font-size: 12pt">
+        <span> به عنوان صفحات محتواي شخصي   </span>
+        </label><input type="radio" name="tick-b" id="all-n">
+        <label for="all-n" class="checkbox-text black-text" style="font-size: 12pt">
+        <span>گروه بندي بر اساس دوره  </span>
+        </label><input type="radio" name="tick-b" id="all-m">
+        <label for="all-m" class="checkbox-text black-text" style="font-size: 12pt">
+        <span>گروه بندي بر اساس دوره </span>
+        </label>
+    </div>
+    <div class="col  s12 m8 l4 right">
+    <button class="btn waves-effect waves-light create-btn z-depth-1 light-blue accent-3 left submit-form"
+      type="submit">جستجو
+    </button>
+    </div>
+    </div>
     </div>
     </div>
     </div>

@@ -28,14 +28,7 @@ ul li label{
     </div>
 
 <div class="row">
-    <div class="col s12 m4 l3 right">
-            <?php include 'sidebar.php'; ?>
-            </div>
-
-
-
-
-    <div class="col s12 m8 l9 container card">
+    <div class="col s12 m12 l12 container card">
 <label for="">آزمون نهایی</label>
 
               

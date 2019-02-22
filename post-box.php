@@ -17,10 +17,7 @@
             </div>
             </div>
   <div class="row">
-        <div class="col s12 m4 l3 right">
-            <?php include 'sidebar.php'; ?>
-            </div>
-            <table class="col s12 m7 l9 responsive-table striped centered farzan-table first-col-shrink">
+            <table class="col s12 m8 l8 offset-l2 responsive-table striped centered farzan-table first-col-shrink">
                 <thead class="white-text purple">
                   <tr class="my-table">
                   <th>ردیف</th>
