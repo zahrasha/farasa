@@ -21,7 +21,7 @@
                             </div>
                             <div class="input-field ">
                                 <i class="mdi-content-mail prefix"></i>
-                                <input id="gymname" placeholder="user2911635342@farasa.net" type="text" class="validate">
+                                <input id="gymname" value="user2911635342@farasa.net" type="text" class="validate">
                                 <label for="gymname" class=""> آدرس پست الکترونیک  </label>
                             </div>
 

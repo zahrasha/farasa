@@ -80,13 +80,22 @@
                             </a> 
                     </li>
                     <li class="collection-item">
-                        <a href="visit.php" target="_blank"> صفحه بازدید </a> 
+                        <a href="visit.php" target="_blank">
+                            <i class="mdi-toggle-check-box"></i>    
+                            صفحه بازدید 
+                        </a> 
                     </li>
                     <li class="collection-item">
-                        <a href="profile-picture.php" target="_blank"> اپلود تصویر </a> 
+                        <a href="profile-picture.php" target="_blank">
+                            <i class="mdi-toggle-check-box"></i>                                                        
+                             اپلود تصویر
+                        </a> 
                     </li> 
                     <li class="collection-item">
-                        <a href="azmon.php " target="_blank">  انتخاب آزمون </a> 
+                        <a href="azmon.php " target="_blank">
+                            <i class="mdi-toggle-check-box"></i>                        
+                            صفحه نمایش مشخصات آزمون انتخاب شده
+                        </a> 
                     </li> 
                     <li class="collection-item">
                         <a href=" questionnaire.php" target="_blank"> پرسشنامه </a> 
@@ -95,37 +104,69 @@
                         <a href="buy-pack.php" target="_blank"> پیشنهاد ویژه  </a> 
                     </li> 
                     <li class="collection-item">
-                        <a href="online-chat.php" target="_blank"> گفتگوی انلاین </a> 
+                        <a href="online-chat.php" target="_blank">        
+                            <i class="mdi-toggle-check-box"></i>
+                            گفتگوی انلاین 
+                        </a> 
                     </li> 
                     <li class="collection-item">
-                        <a href="chat.php" target="_blank"> گفتگوها </a> 
+                        <a href="chat-system.php" target="_blank">
+                            <i class="mdi-toggle-check-box"></i>                            
+                            گفتگوها 
+                        </a> 
                     </li>
                    <li class="collection-item">
-                        <a href="factors-archive.php" target="_blank"> آرشیو پرداخت </a> 
+                        <a href="factors-archive.php" target="_blank">
+                            <i class="mdi-toggle-check-box"></i>                                                        
+                            آرشیو پرداخت 
+                        </a> 
                     </li>
                     <li class="collection-item">
-                        <a href="post-box.php" target="_blank">صندوق پستی   </a> 
+                        <a href="post-box.php" target="_blank">
+                            <i class="mdi-toggle-check-box"></i>                                                        
+                            صندوق پستی
+                        </a> 
                     </li>
                     <li class="collection-item">
-                        <a href="Shortcut.php" target="_blank">دستورات میانبر </a> 
+                        <a href="Shortcut.php" target="_blank">
+                            <i class="mdi-toggle-check-box"></i>                                                                                    
+                            دستورات میانبر 
+                        </a> 
                     </li> 
                     <li class="collection-item">
-                        <a href="search.php" target="_blank">جستجو</a> 
+                        <a href="search.php" target="_blank">
+                            <i class="mdi-toggle-check-box"></i>                                                                
+                            جستجو
+                        </a> 
                     </li>
                     <li class="collection-item">
-                        <a href="Track-payment.php" target="_blank"> پیگیری پرداخت</a> 
+                        <a href="Track-payment.php" target="_blank"> 
+                            <i class="mdi-toggle-check-box"></i>                                                        
+                            پیگیری پرداخت
+                        </a> 
                     </li>
                     <li class="collection-item">
-                        <a href="buy-pack.php" target="_blank">پیشنهاد ویژه </a> 
+                        <a href="Credit-archive.php" target="_blank">
+                            <i class="mdi-toggle-check-box"></i>                                                                                    
+                            ارشیو اعتبار 
+                        </a> 
                     </li>
                     <li class="collection-item">
-                        <a href="Credit-archive.php" target="_blank">ارشیو اعتبار </a> 
+                        <a href="password-change.php" target="_blank">
+                            <i class="mdi-toggle-check-box"></i>                                                                                            
+                            تغییر رمز عبور
+                        </a> 
                     </li>
                     <li class="collection-item">
-                        <a href="password-change.php" target="_blank">تغییر رمز عبور</a> 
+                        <a href="email-change.php" target="_blank">
+                            <i class="mdi-toggle-check-box"></i>                                                                                                                        
+                            تغییر پست الکترونیک
+                        </a> 
                     </li>
                     <li class="collection-item">
-                        <a href="email-change.php" target="_blank">تغییر پست الکترونیک</a> 
+                        <a href="help.php" target="_blank">
+                            راهنمای سایت
+                        </a> 
                     </li>
                 </ul>
             </div>
@@ -135,58 +176,11 @@
 
             <div class="col s12 m4 pull-m2 right">
                 <ul class="collection z-depth-1">
-                    <!-- <li class="collection-item">
-                        <a href="http://www.farasa.net/elearning2/users/index.php" target="_blank">
-                            دوره های من
-                        </a>
-                    </li> -->
-                    <li class="collection-item">
-                        <a href="http://www.farasa.net/elearning2/browse.php" target="_blank">
-                            سیری در دوره ها
-                        </a>
-                    </li>
-                    <li class="collection-item">
-                        <a href="http://www.farasa.net/elearning2/payment/course_payment.php" target="_blank">
-                            صفحه اعتبار و پرداخت
-                        </a>
-                    </li>
-                    <li class="collection-item">
-                    <i class="mdi-toggle-check-box"></i>
-                        <a href="http://www.farasa.net/elearning2/payment/buy_pack.php" target="_blank">
-                       پیشنهاد ویژه
-                        </a>
-                    </li>
-                    <li class="collection-item">
-                        <a href="http://www.farasa.net/elearning2/payment/factors_archive.php" target="_blank">
-                       آرشیو پرداخت
-                        </a>
-                    </li>
-                    <li class="collection-item">
-                    <i class="mdi-toggle-check-box"></i>
-                        <a href="http://farasa.net/elearning2/payment/credits_archive.php" target="_blank">
-                       آرشیو اعتبار
-                        </a>
-                    </li>
-                    <li class="collection-item">
-                        <a href="http://farasa.net/elearning2/payment/factor_tracking.php" target="_blank">
-                        پیگیری پرداخت
-                        </a>
-                    </li>
                     <li class="collection-item">
                         <a href="http://farasa.net/elearning2/payment/course_factor.php" target="_blank">
                         نمایش فاکتور برای دوره
                         </a>
-                    </li>
-                    <li class="collection-item">
-                            <a href="http://farasa.net/elearning2/glossary/index.php" target="_blank">
-                         واژگان کلیدی
-                            </a> 
-                        </li>
-                        <li class="collection-item">
-                            <a href="http://www.farasa.net/elearning2/content.php?cid=6623" target="_blank">
-                             فهرست موضوعات و امکانات
-                            </a> 
-                        </li>  
+                    </li>  
                         <li class="collection-item">
                             <a href="http://farasa.net/elearning2/users/index.php" target="_blank">
                              نمایش همه انجمن ها
@@ -203,26 +197,6 @@
                          </a> 
                     </li> 
                     <li class="collection-item">
-                        <a href="http://www.farasa.net/elearning2/file_storage/index.php" target="_blank"> 
-                        ذخیره سازی فایل
-                         </a> 
-                    </li>
-                    <li class="collection-item">
-                        <a href="http://www.farasa.net/elearning2/chat/index.php" target="_blank"> 
-                        نمایش همه ی گفتگو های موجود
-                         </a> 
-                    </li> 
-                    <li class="collection-item">
-                        <a href="http://www.farasa.net/elearning2/chat/index.php" target="_blank"> 
-                        صفحه نمایش و ارسال پیام برای گفتگوی انتخاب شده
-                         </a> 
-                    </li> 
-                    <li class="collection-item">
-                        <a href="http://www.farasa.net/elearning2/tools/my_tests.php" target="_blank"> 
-                        آزمون ها
-                         </a> 
-                    </li> 
-                    <li class="collection-item">
                         <a href="#" target="_blank"> 
                         صفحه نمایش مشخصات آزمون انتخاب شده
                          </a> 
@@ -230,16 +204,6 @@
                     <li class="collection-item">
                         <a href="#" target="_blank"> 
                         صفحه پرسشنامه آزمون
-                         </a> 
-                    </li> 
-                    <li class="collection-item">
-                        <a href="http://www.farasa.net/elearning2/tools/view_results.php?tid=28&rid=31525" target="_blank"> 
-                        مرور نتایج
-                         </a> 
-                    </li>
-                    <li class="collection-item">
-                        <a href="http://www.farasa.net/elearning2/my_stats.php" target="_blank"> 
-                        بازدید ها
                          </a> 
                     </li> 
                     <li class="collection-item">
@@ -253,19 +217,8 @@
                          </a> 
                     </li> 
                     <li class="collection-item">
-                    <a href="http://www.farasa.net/elearning2/inbox/index.php" target="_blank"> 
-                        صندوق پستی
-                         </a> 
-                    </li> 
-                    <li class="collection-item">
                     <a href="#" target="_blank"> 
                     نمایش پیام مورد نظر
-                         </a> 
-                    </li> 
-                     <li class="collection-item">
-                    <i class="mdi-toggle-check-box"></i>
-                    <a href="http://www.farasa.net/elearning2/search.php" target="_blank"> 
-                    جستجو ها
                          </a> 
                     </li> 
                     <li class="collection-item">
@@ -274,47 +227,10 @@
                          </a> 
                     </li>
                     <li class="collection-item">
-                    <i class="mdi-toggle-check-box"></i>
-
-
-                    <a href="http://www.farasa.net/elearning2/users/profile.php" target="_blank"> 
-                    مشخصات کاربر
-                         </a> 
-                    </li>
-
-                    <li class="collection-item">
-                    <i class="mdi-toggle-check-box"></i>
-                    <a href="http://farasa.net/elearning2/help/accessibility.php" target="_blank"> 
-                    دستورات میانبر
-                         </a> 
-                    </li>
-                    <li class="collection-item">
                     <a href="http://farasa.net/elearning2/help/contact_support.php target="_blank"> 
                     تماس با پشتیبانی
                          </a> 
-                    </li>
-                    <li class="collection-item">
-                    <i class="mdi-toggle-check-box"></i>
-                    <a href="http://www.farasa.net/elearning2/users/password_change.php" target="_blank"> 
-                    تغییر رمز عبور
-                         </a> 
                     </li>   
-                     <li class="collection-item">
-                     <i class="mdi-toggle-check-box"></i>
-                    <a href="http://www.farasa.net/elearning2/users/email_change.php" target="_blank"> 
-                    تغییر پست اکترونیک
-                         </a> 
-                    </li> 
-                     <li class="collection-item">
-                    <a href="http://www.farasa.net/elearning2/users/sertificate.php?CID=1160" target="_blank"> 
-                    صفحه صدور گواهینامه های دوره ها
-                         </a> 
-                    </li> 
-                    <li class="collection-item">
-                    <a href="http://www.farasa.net/elearning2/users/profile_picture.php" target="_blank"> 
-                    آپلود تصویر
-                    </a> 
-
                 </ul>
             </div>
 
