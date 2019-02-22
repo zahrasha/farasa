@@ -25,22 +25,22 @@
         <div class="row margin-bottom-0">
             <!--Top title-->
             <div class="col s12 m12 l12">
-                <h5 class="breadcrumbs-title "><i class="mdi-action-home"></i>صفحه اصلی /اعتبار و پرداخت/ پیشنهاد ویژه</h5>
-            </div>
+               <h5 class="breadcrumbs-title "><i class="mdi-action-home"></i>صفحه اصلی /اعتبار و پرداخت/ پیشنهاد ویژه</h5>
+               </div>
         </div>
         <div class="row">
         <div class="col s12 m6 l3 right">
             <div class="card z-depth-1 card-profile grey lighten-3 center-align">
                 <div class="card-profile-header light-blue accent-3"></div>
                 <div class="image-mask head-card1">
-                <h6>بسته پلاتینوم </h6>
-                </div>
+               <h6>بسته پلاتینوم </h6>
+               </div>
                 <div class="card-profile-content ">
                     
                     <p>دسترسی به کل دوره ها با تخفیف 50 درصد</p>
-                    <span>قیمت: 28,075,500</span>
+                    <span>قیمت: تومان 28,075,500</span>
                     <br>
-                    <a href="">خرید</a>
+                    <a class="btn waves-effect waves-light z-depth-1 light-blue accent-3 margin-top-5"  href="">خرید</a>
                 </div>
             </div>
         </div>
@@ -52,9 +52,9 @@
                 </div>
                 <div class="card-profile-content ">
                     <p>دسترسی به کل دوره ها با تخفیف 50 درصد</p>
-                    <span>قیمت: 28,075,500</span>
+                    <span>قیمت:  تومان 28,075,500</span>
                     <br>
-                    <a href="">خرید</a>
+                    <a class="btn waves-effect waves-light z-depth-1 light-blue accent-3 margin-top-5"  href="">خرید</a>
                 </div>
             </div>
         </div>
@@ -66,9 +66,9 @@
                 </div>
                 <div class="card-profile-content ">
                     <p>دسترسی به کل دوره ها با تخفیف 50 درصد</p>
-                    <span>قیمت: 28,075,500</span>
+                    <span>قیمت: تومان 28,075,500</span>
                     <br>
-                    <a href="">خرید</a>
+                    <a  class="btn waves-effect waves-light z-depth-1 light-blue accent-3 margin-top-5" href="">خرید</a>
                 </div>
             </div>
         </div> 
@@ -80,9 +80,9 @@
                 </div>
                 <div class="card-profile-content ">
                     <p>دسترسی به کل دوره ها با تخفیف 50 درصد</p>
-                    <span>قیمت: 28,075,500</span>
+                    <span>قیمت: تومان 28,075,500</span>
                     <br>
-                    <a href="">خرید</a>
+                    <a class="btn waves-effect waves-light z-depth-1 light-blue accent-3 margin-top-5"  href="">خرید</a>
                 </div>
             </div>
         </div>

@@ -26,10 +26,14 @@
     
 
     <div class="col  s12 m8 l4  offset-l2 right">
-    <label  class="blue-text"> کلمات </label><br>
-    <select class=" " >
-    <option value="1"><small> نمایش محتوا</small> </option>
-    </select>
+           <div class="input-field farzan-select">
+             <i class="mdi-action-view-agenda prefix "></i>
+             <label>کلمات</label>
+             <select title="شهر">
+             <option value="1">نمایش محتوا</option>
+             <option value="2"></option>
+             </select>
+            </div>
     </div>
     <div class="input-field col  s12 m8 l4  offset-l2 right myradio">
     <span style="display:block; " >تطابق: </span>
@@ -78,7 +82,7 @@
         </label>
     </div>
     <div class="col  s12 m8 l4 right">
-    <button class="btn waves-effect waves-light create-btn z-depth-1 light-blue accent-3 left submit-form"
+    <button style="margin-top:50px;" class="btn waves-effect waves-light create-btn z-depth-1 light-blue accent-3 left submit-form"
       type="submit">جستجو
     </button>
     </div>

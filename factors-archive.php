@@ -11,6 +11,8 @@
             </div>
         </div>
         <div class="row">
+        <a class="col s12 m8 l8 offset-l2" href="payment.php">بازگشت به صفحه اعتبار و پرداخت</a>
+        <div class="clear"></div>
         <table class="col s12 m8 l8 offset-l2 responsive-table striped centered farzan-table  first-col-shrink">
                 <thead class="white-text purple">
                 <tr class="my-table">
