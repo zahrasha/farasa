@@ -15,14 +15,14 @@
         <?php 
           for ($i = 0; $i <= 10; $i++) {
             echo 
-            '<div class="col s12 m4 l4 right">
+            '<div class="col s12 m6 l4">
                 <div class="card z-depth-1 my-card hoverable">
-                  <div class="card-content">
-                  <div class="">
+                  <div class="row card-content">
+                  <div class="col s5 m5 l5" >
                     <a href="course.php"><img src="images/50.jpg"></a> 
                     <img src="images/60.jpg">
                     </div>
-                  <div class="">
+                    <div class=" col s7 m7 l7 right">
                     <h3 class="title"><a href="course.php">استانداردهای گزارش پژوهش های بالينی(CONSORT)</a></h3>
                     <p>
                       <small>دسته: <b>پژوهش پزشکی</b></small>
