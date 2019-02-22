@@ -101,7 +101,10 @@
                         <a href=" questionnaire.php" target="_blank"> پرسشنامه </a> 
                     </li> 
                     <li class="collection-item">
-                        <a href="buy-pack.php" target="_blank"> پیشنهاد ویژه  </a> 
+                        <a href="buy-pack.php" target="_blank">
+                            <i class="mdi-toggle-check-box"></i>                                                                                                                                                    
+                            پیشنهاد ویژه  
+                        </a> 
                     </li> 
                     <li class="collection-item">
                         <a href="online-chat.php" target="_blank">        
@@ -177,57 +180,47 @@
             <div class="col s12 m4 pull-m2 right">
                 <ul class="collection z-depth-1">
                     <li class="collection-item">
-                        <a href="http://farasa.net/elearning2/payment/course_factor.php" target="_blank">
+                        <a href="http://www.farasa.net/elearning2/payment/course_factor.php?course=36,47&TPrice=600000" target="_blank">
                         نمایش فاکتور برای دوره
                         </a>
                     </li>  
-                        <li class="collection-item">
-                            <a href="http://farasa.net/elearning2/users/index.php" target="_blank">
-                             نمایش همه انجمن ها
-                            </a> 
-                    </li>
                     <li class="collection-item">
-                        <a href="#" target="_blank"> 
+                        <a href="http://farasa.net/elearning2/forum/index.php?fid=24" class="red-text" target="_blank"> 
                         صفحه نمایش انجمن انتخابی
                          </a> 
                     </li>  
                     <li class="collection-item">
-                        <a href="#" target="_blank"> 
+                        <a href="#" class="red-text" target="_blank"> 
                         انجمن ثبت نام شده
                          </a> 
                     </li> 
                     <li class="collection-item">
-                        <a href="#" target="_blank"> 
+                        <a href="http://farasa.net/elearning2/tools/test_intro.php?tid=172" class="red-text" target="_blank"> 
                         صفحه نمایش مشخصات آزمون انتخاب شده
                          </a> 
                     </li> 
                     <li class="collection-item">
-                        <a href="#" target="_blank"> 
+                        <a href="http://farasa.net/elearning2/tools/take_test.php?tid=172" class="red-text" target="_blank"> 
                         صفحه پرسشنامه آزمون
                          </a> 
                     </li> 
                     <li class="collection-item">
-                    <a href="#" target="_blank"> 
+                    <a href="http://farasa.net/elearning2/my_stats.php" target="_blank"> 
                         بازدید های کاربر
                          </a> 
                     </li> 
                     <li class="collection-item">
-                        <a href="http://farasa.net/elearning2/users/index.php" target="_blank"> 
+                        <a href="http://farasa.net/elearning2/mods/intellimeet/index.php" class="red-text" target="_blank"> 
                         نشستی با استاد
                          </a> 
                     </li> 
                     <li class="collection-item">
-                    <a href="#" target="_blank"> 
+                    <a href="http://farasa.net/elearning2/inbox/show.php" class="red-text" target="_blank"> 
                     نمایش پیام مورد نظر
                          </a> 
                     </li> 
                     <li class="collection-item">
-                    <a href="http://www.farasa.net/elearning2/help/index.php" target="_blank"> 
-                    راهنمای سایت
-                         </a> 
-                    </li>
-                    <li class="collection-item">
-                    <a href="http://farasa.net/elearning2/help/contact_support.php target="_blank"> 
+                    <a href="http://farasa.net/elearning2/help/contact_support.php" target="_blank"> 
                     تماس با پشتیبانی
                          </a> 
                     </li>   
