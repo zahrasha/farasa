@@ -51,6 +51,7 @@
                     </li>
                     <li class="collection-item">
                         <a href="payment.php" target="_blank">
+                        <i class="mdi-toggle-check-box"></i>
                         صفحه های مربوط به پرداخت
                         </a>
                     </li>

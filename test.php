@@ -15,10 +15,9 @@
                 <h5 class="breadcrumbs-title "><i class="mdi-action-home"></i>صفحه اصلی / دوره انتخابی / آزمون </h5>
             </div>
         </div>
-        <div>
         <div class="row">
             <div class="col s12 m4 l3 right">
-            <?php include 'sidebar.php'; ?>
+                <?php include 'sidebar.php'; ?>
             </div>
             <div class="col s12 m8 l9 ">
             
@@ -83,9 +82,10 @@
                 </tbody>
                 </table>
             </div>
-            </div>
-            </div>
-            <div class="clear"></div>
+        </div>
+    </div>
+    </div>
+    <div class="clear"></div>
 
     <!--end container-->
 

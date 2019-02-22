@@ -10,8 +10,9 @@
                 <h5 class="breadcrumbs-title "><i class="mdi-action-class"></i> 
 صفحه اصلی من/صفحه اصلی دوره ها/
 بهبود گزارش دهی RCT ها : بیانیه CONSORT
-           </h5>
-        </div>
+                </h5>
+            </div>
+            </div>
         <div class="row">
             <div class="col s12 m4 l3 right">
             <?php include 'sidebar.php'; ?>
