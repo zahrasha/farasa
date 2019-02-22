@@ -11,7 +11,7 @@
                 </h5>
             </div>
              <div class="row">
-            <div class="col s12 right">
+                <div class="col s12 right">
                 <div class=" card z-depth-1 card-content white">
                 <div class="clear"></div>
                     <form action="#">
@@ -67,14 +67,15 @@
                                 </label>
                         </div>  
                         <div class=" col s12 m6 l4 ">
-                        <button class="btn  waves-effect waves-light create-btn z-depth-1 light-blue accent-3  submit-form"
+                        <button class="btn  waves-effect waves-light create-btn z-depth-1 light-blue accent-3  submit-form left"
                                 type="button">فيلتر کردن
                         </button>
-                        <button class="btn waves-effect waves-light create-btn z-depth-1 light-blue accent-3  submit-form"
+                        <button class="btn waves-effect waves-light create-btn z-depth-1 light-blue accent-3  submit-form left"
                                 type="button">برگرداندن فیلتر
                         </button>
                         </div>
                         </form>
+                        <div class="clear">
                 </div>
                 </div>
                 </div>
@@ -177,8 +178,6 @@
                           <p>
                             <small>عنوان: <b>متن</b></small>
                           </p>
-                         
-                  </div>
                   </div>
                 </div>
             </div>  
@@ -212,8 +211,7 @@
                 </div>
             </div>                                         
       </div>  
-     </div>
-    <!--end container-->
+   <!--end container-->
 <script>
 
 </script>
