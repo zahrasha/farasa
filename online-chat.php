@@ -19,7 +19,7 @@
    <div class="col s12 m7 l7 offset-l1 card margin-5">
             <p>هيچ رونوشتي پيدا نشد.</p>
             <a href="chat.php">
-            <button class="btn  waves-effect waves-light z-depth-1 light-blue accent-3 left" type="button">
+            <button class="btn  waves-effect waves-light z-depth-1 light-blue accent-3 left margin-bottom-10" type="button">
            ورود به بحث و گفتگو
             </button></a>
             <div class="clear"></div>
