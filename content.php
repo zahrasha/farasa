@@ -14,30 +14,7 @@
         </div>
         <div class="row">
             <div class="col s12 m4 l3 right">
-              <div class="white my-card z-depth-1 list-container">
-                <h4 class="heading">مرور مطالب</h4>
-                <ul>
-                <li><a href="course.php">صفحه اصلی دوره</a></li>
-                  <li><a href="content.php">پیش گفتار</a></li>
-                  <li>
-                    <a href="#">پیش گفتار</a>
-                    <ul>
-                      <li><a href="content.php">صفحه اصلی دوره</a></li>
-                      <li><a href="content.php">پیش گفتار</a></li>
-                      <li>
-                        <a href="#">پیش گفتار</a>
-                        <ul>
-                          <li><a href="content.php">صفحه اصلی دوره</a></li>
-                          <li><a href="content.php">پیش گفتار</a></li>
-                          <li><a href="content.php">پیش گفتار</a></li>
-                        </ul>
-                      </li>
-                    </ul>
-                  </li>
-                  <li><a href="content.php">لینک آخر</a></li>
-
-                </ul>
-              </div>
+            <?php include 'sidebar.php'; ?>
             </div>
             <div class="col s12 m8 l9 right" id="MainLinks">
               <div class="white my-card bordered-card content-wrapper" style="padding: 15px;">

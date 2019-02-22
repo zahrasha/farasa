@@ -11,10 +11,7 @@
             </div>
         </div>
         <div class="row">
-        <div class="col s12 m4 l3 right">
-            <?php include 'sidebar.php'; ?>
-            </div>
-            <div class="col s12 m8 l9 " id="MainLinks">
+            <div class="col s12 m8 l8 offset-l2 " id="MainLinks">
 					<div class=" card z-depth-1 card-content white" style="padding: 15px;">
 							<form action="#">
                             <div class="col s12">
