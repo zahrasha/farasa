@@ -16,8 +16,11 @@
                 <h5 class="breadcrumbs-title "><i class="mdi-action-home"></i> صفحه اصلی / صندوق پستی</h5>
             </div>
             </div>
-  <div class="row">
-            <table class="col s12 m8 l8 offset-l2 responsive-table striped centered farzan-table first-col-shrink">
+          <div class="row">
+          <div class="col s12 m4 l3 right">
+            <?php include 'sidebar.php'; ?>
+            </div>
+            <table class="col s12 m8 l9 z-depth-1 margin-top-5 responsive-table striped centered farzan-table first-col-shrink">
                 <thead class="white-text purple">
                   <tr class="my-table">
                   <th>ردیف</th>

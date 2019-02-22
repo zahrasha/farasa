@@ -25,17 +25,17 @@ padding:5px;
                         <div class="col s12  card-content right">
                         <div class="input-field ">
                                 <i class="mdi-action-lock prefix"></i>
-                                <input id="gymname" type="password" class="validate">
-                                <label for="gymname" class=""> رمز عبور قبلی : </label>
+                                <input id="pass" type="password" class="validate">
+                                <label for="pass" class=""> رمز عبور قبلی</label>
                             </div>
                             <div class="input-field ">
                                 <i class="mdi-action-lock prefix"></i>
-                                <input id="gymname" type="password" class="validate">
-                                <label for="gymname" class=""> رمز عبور: </label>
-                                <p class="right">· ﻿از حروف ، اعداد و نمادها استفاده كنيد</p>
+                                <input id="re-pass" type="password" class="validate">
+                                <label for="re-pass" class=""> رمز عبور</label>
+                                <p class="right">از حروف، اعداد و نمادها استفاده كنيد·</p>
                                 <br>
                                 <br>
-                                <p class="right">· ﻿حداقل 8 کاراکتر، حداكثر 15 كاراكتر</p>
+                                <p class="right">حداقل 8 کاراکتر، حداكثر 15 كاراكتر.</p>
                             </div>
                             <br>
                             <div class="input-field ">
@@ -45,13 +45,13 @@ padding:5px;
                             </div>
                             <br>
                             <div class="clear"></div>
-                            <button class="btn waves-effect waves-light create-btn z-depth-1 light-blue accent-3 right submit-form" type="button">
+                            <button class="btn waves-effect waves-light z-depth-1 light-blue accent-3 left submit-form" type="button">
                             ارسال
                             </button>
-                            <button class="btn waves-effect waves-light create-btn z-depth-1 grey darken-2 right" type="button">
+                            <button class="btn waves-effect waves-light  z-depth-1 grey darken-2 right" type="button">
                             انصراف
                             </button>
-							<div class="clear"></div>
+							<div class="clear margin-bottom-10"></div>
 
                             </div>
                             </div>

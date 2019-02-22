@@ -26,14 +26,11 @@
     
 
     <div class="col  s12 m8 l4  offset-l2 right">
-           <div class="input-field farzan-select">
-             <i class="mdi-action-view-agenda prefix "></i>
-             <label>کلمات</label>
-             <select title="شهر">
-             <option value="1">نمایش محتوا</option>
-             <option value="2"></option>
-             </select>
-            </div>
+        <div class="input-field ">
+            <i class="mdi-content-text-format prefix"></i>
+            <input id="gymname" type="text" class="validate">
+            <label for="gymname" class="">کلمات</label>
+        </div>
     </div>
     <div class="input-field col  s12 m8 l4  offset-l2 right myradio">
     <span style="display:block; " >تطابق: </span>
@@ -47,10 +44,20 @@
         </label>
     </div>
     <div class="input-field col  s12 m8 l4  offset-l2 right myradio">
-    <span style="display:block; " > نتايج را پيدا کن در </span>
+        <span style="display:block; " > نتايج را پيدا کن در </span>
+        <input type="radio" name="tick-s" id="all-1">
+        <label for="all-1" class="checkbox-text black-text" style="font-size: 12pt">
+                <span>فقط در این دوره</span>
+        </label>
+
         <input type="radio" name="tick-s" id="all-2">
         <label for="all-2" class="checkbox-text black-text" style="font-size: 12pt">
-        <span> تمام دوره هاي قابل دسترس </span>
+                <span> دوره هاي ثبت نام شده من</span>
+        </label>
+
+        <input type="radio" name="tick-s" id="all-3">
+        <label for="all-3" class="checkbox-text black-text" style="font-size: 12pt">
+                <span> تمام دوره هاي قابل دسترس </span>
         </label>
     </div>
     <div class="input-field col  s12 m8 l4  offset-l2 right myradio">
@@ -78,11 +85,12 @@
         <span>گروه بندي بر اساس دوره  </span>
         </label><input type="radio" name="tick-b" id="all-m">
         <label for="all-m" class="checkbox-text black-text" style="font-size: 12pt">
-        <span>گروه بندي بر اساس دوره </span>
+        <span>چکيده هاي دوره</span>
         </label>
     </div>
-    <div class="col  s12 m8 l4 right">
-    <button style="margin-top:50px;" class="btn waves-effect waves-light create-btn z-depth-1 light-blue accent-3 left submit-form"
+    <div class="clear"></div>
+    <div class="col  s12 m8 l4 left">
+    <button class="btn waves-effect waves-light create-btn z-depth-1 light-blue accent-3 left submit-form"
       type="submit">جستجو
     </button>
     </div>
