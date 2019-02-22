@@ -80,7 +80,7 @@
                         <a href="visit.php" target="_blank"> صفحه بازدید </a> 
                     </li>
                     <li class="collection-item">
-                        <a href="  profile_picture.php" target="_blank"> اپلود تصویر </a> 
+                        <a href="profile-picture.php" target="_blank"> اپلود تصویر </a> 
                     </li> 
                     <li class="collection-item">
                         <a href="azmon.php " target="_blank">  انتخاب آزمون </a> 
