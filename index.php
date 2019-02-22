@@ -100,6 +100,30 @@
                    <li class="collection-item">
                         <a href="factors-archive.php" target="_blank"> آرشیو پرداخت </a> 
                     </li>
+                    <li class="collection-item">
+                        <a href="post-box.php" target="_blank">صندوق پستی   </a> 
+                    </li>
+                    <li class="collection-item">
+                        <a href="Shortcut.php" target="_blank">دستورات میانبر </a> 
+                    </li> 
+                    <li class="collection-item">
+                        <a href="search.php" target="_blank">جستجو</a> 
+                    </li>
+                    <li class="collection-item">
+                        <a href="Track-payment.php" target="_blank"> پیگیری پرداخت</a> 
+                    </li>
+                    <li class="collection-item">
+                        <a href="buy-pack.php" target="_blank">پیشنهاد ویژه </a> 
+                    </li>
+                    <li class="collection-item">
+                        <a href="Credit-archive.php" target="_blank">ارشیو اعتبار </a> 
+                    </li>
+                    <li class="collection-item">
+                        <a href="password-change.php" target="_blank">تغییر رمز عبور</a> 
+                    </li>
+                    <li class="collection-item">
+                        <a href="email-change.php" target="_blank">تغییر پست الکترونیک</a> 
+                    </li>
                 </ul>
             </div>
 
