@@ -24,7 +24,9 @@
             <!--Top title-->
             <div class="col s12 m12 l12">
                 <h5 class="breadcrumbs-title "><i class="mdi-action-home"></i>
-            صفحه اصلی /دوره انتخابی / بازدید ها
+                <a href="">صفحه اصلی</a> /
+                <a href=""> دوره انتخابی</a> /
+            بازدید ها
             </h5>
             </div>
         </div>

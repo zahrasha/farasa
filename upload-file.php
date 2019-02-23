@@ -15,7 +15,9 @@
         <div class="row margin-bottom-0">
             <!--Top title-->
             <div class="col s12 m12 l12">
-                <h5 class="breadcrumbs-title "><i class="mdi-device-storage"></i> صفحه اصلی/ دوره انتخابی /ذخیره سازی فایل</h5>
+                <h5 class="breadcrumbs-title "><i class="mdi-device-storage"></i><a href="">صفحه اصلی</a> /
+                <a href=""> دوره انتخابی</a> /
+                ذخیره سازی فایل</h5>
             </div>
         </div>
         <div class="row">

@@ -8,7 +8,8 @@
             <!--Top title-->
             <div class="col s12 m12 l12">
                 <h5 class="breadcrumbs-title "><i class="mdi-action-class"></i> 
-صفحه اصلی من/صفحه اصلی دوره ها/
+                </i><a href="">صفحه اصلی</a> /
+                <a href=""> دوره انتخابی</a> /
 بهبود گزارش دهی RCT ها : بیانیه CONSORT
                 </h5>
             </div>
