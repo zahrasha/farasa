@@ -70,7 +70,7 @@ ul li label{
                         </label>
                     </li>
 
-                    <li>
+                    <li class="true-answer">
                         <input type="radio" name="answers[278]" value="2" id="choice_278_2" />
                         <label for="choice_278_2">
                             <span>جزئیات دقیق مداخله مورد نظر</span>
@@ -114,7 +114,7 @@ ul li label{
                     <input type="radio" name="answers[279]" value="1" id="choice_279_1" />
                     <label for="choice_279_1"><span>محل و نحوه جمع آوری داده ها</span></label>
                 </li>
-                <li>
+                <li class="true-answer">
     			    <input type="radio" name="answers[279]" value="2" id="choice_279_2" />
                     <label for="choice_279-2"><span>جزئیات دقیق مداخله مورد نظر</span></label>  
                 </li>
@@ -130,9 +130,9 @@ ul li label{
                 </ul>    
             
               
-                <a href="q-answer.php" class="btn waves-effect waves-light create-btn z-depth-1 light-blue accent-3 right submit-form">
+                <button class="btn waves-effect waves-light create-btn z-depth-1 light-blue accent-3 right submit-form" type="button">
                             ارسال
-                            </a>
+                            </button>
                
                 </div>
                
