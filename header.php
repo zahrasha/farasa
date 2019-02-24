@@ -58,8 +58,8 @@
                 <li><a href="#">ثبت نام انبوه اعتبار</a></li>
             </ul>
             <ul id="dropdown9" class="dropdown-content setting">
-                <li><a href="profile-edit.php"> تنظیمات کاربری </a></li>
-                <li><a href="#"> تغییر رمز عبور </a></li>
+                <li><a href="profile.php"> تنظیمات کاربری </a></li>
+                <li><a href="password-change.php"> تغییر رمز عبور </a></li>
             </ul>
             <div class="nav-wrapper">
                 <ul class="right hide-on-med-and-down">
@@ -151,7 +151,7 @@
                         </a>
                     </li>
                     <li>
-                        <a title="صندوق پستی" class="black-text tooltip-top" href="#">
+                        <a title="صندوق پستی" class="black-text tooltip-top" href="post-box.php">
                             <i class="mdi-content-mail"></i>
                         </a>
                     </li>
@@ -203,14 +203,31 @@
         </li>
         <!--        ==================================mobile menu Sabbaghi============================/-->
         <ul class="side-nav collapsible collapsible-accordion" id="mobile-demo">
-            <li class="active"><a href="#" class="collapsible-header remove-arrow waves-effect waves-cyan">
+            <li class="active"><a href="" class="collapsible-header remove-arrow waves-effect waves-cyan">
                     <i class="mdi-action-home right"></i> صفحه اصلی</a></li>
             <li>
                 <div class="divider"></div>
             </li>
             <!--            ===================items===========-->
-            <li><a class="collapsible-header waves-effect waves-teal"><i class="mdi-action-dashboard right"></i>
-                    مالی
+            <li><a  href="courses.php" ><i class="mdi-action-class right"></i>
+            دوره های من 
+                </a>
+                <li><a  href="profile.php" ><i class="mdi-action-assignment-ind right"></i>
+            مشخصات کاربر 
+                </a>
+                <li><a  href="payment.php" ><i class="mdi-action-assessment right"></i>
+           اعتبار و پرداخت
+                </a>
+                <li><a  href="post-box.php" > <i class="mdi-content-mail right "> </i>
+                صندوق پستی
+                </a>
+                <li><a  href="" ><i class="mdi-action-info right"></i>
+          راهنما
+                </a> 
+              
+                <!---------------------
+            <li><a  href="" class="collapsible-header waves-effect waves-teal"><i class="mdi-action-dashboard right"></i>
+        ...
                 </a>
                 <div class="collapsible-body">
                     <ul>
@@ -219,7 +236,7 @@
                     </ul>
                 </div>
             </li>
-            <li><a  href="page3.php" ><i
+            <li><a  href="" ><i
                         class="mdi-action-assignment right"></i>
                    گزارش گیری
                 </a>
@@ -257,36 +274,39 @@
                     </ul>
                 </div>
             </li>
-
-            <li><a class="collapsible-header waves-effect waves-teal"><i class="mdi-action-settings right"></i> تنظیمات </a>
+--------->
+            <li><a class="collapsible-header waves-effect waves-teal"><i class="mdi-action-settings right"></i>
+             تنظیمات </a>
 
                 <div class="collapsible-body">
                     <ul>
-                        <li><a href="#"> تغییر کلمه عبور </a></li>
-                        <li><a href="profile-edit.php"> ویرایش پروفایل شخصی </a></li>
+                        <li><a href="password-change.php"> تغییر رمز عبور </a></li>
+                        <li><a href="email-change.php"> تغییر پست الکترونیک  </a></li>
+                        <li><a href="profile-picture.php"> تغییر عکس پروفایل </a></li>
+                        <li><a href="profile.php"> ویرایش پروفایل شخصی </a></li>
                         <li><a  href="other-setting.php"> سایر تنظیمات  </a></li>
                     </ul>
                 </div>
             </li>
+           
+            
+
+              <li class=""><a class="collapsible-header waves-effect waves-red">
+          <img src="http://farama.net/module/images/logo_fab.png" class="circle salamat-mobile-menu-btn">فرشته سلامت</a>
+        <div class="collapsible-body" style="display: none;">
+          <ul class="salamat-mobile-menu">
+                          <li><a href="http://hooma.salemsa.net" title="ارزیابی هوشمند سلامت">هوما</a></li>
+                            <li><a href="http://salemsa.net/%D8%A7%D9%BE%D9%84%DB%8C%DA%A9%DB%8C%D8%B4%D9%86-%D9%87%D8%A7%DB%8C-%D8%B3%D9%84%D8%A7%D9%85%D8%AA-%D9%87%D9%88%D8%B4%D9%85%D9%86%D8%AF/" title="اپلیکیشن سلامت هوشمند">اپ</a></li>
+                            <li><a href="http://farama.salemsa.net/dashboard/fa" title="مشاوره تلفنی و آنلاین سلامت">فراما</a></li>
+                            <li><a href="http://farasa.salemsa.net" title="آموزش و سنجش الکترونیک سلامت">فراسا</a></li>
+                            <li><a href="http://faracom.salemsa.net" title="ارتباطات هوشمند سلامت">فراکام</a></li>
+                            <li><a href="http://farahoosh.salemsa.net" title="مدیریت هوشمند سلامت">فراهوش</a></li>
+                            <li><a href="http://faranet.salemsa.net" title="شبکه اجتماعی سلامت">فرانت</a></li>
+                        </ul>
+        </div>
+      </li>
             <!--            ===================End of items===========-->
-            <li>
-                <div class="divider"></div>
-            </li>
-<!--            <li><a class="collapsible-header waves-effect waves-teal">-->
-<!--                    <img src="images/salamat.png" alt="salamat" class="circle salamat-mobile-menu-btn">فرشته سلامت</a>-->
-<!--                <div class="collapsible-body">-->
-<!--                    <ul class="salamat-mobile-menu">-->
-<!--                        <li><a href="http://arzyabi2.farama.net">هوما </a></li>-->
-<!--                        <li><a href="http://arzyabi2.farama.net">اپ </a></li>-->
-<!--                        <li><a href="http://farama.net">فراما </a></li>-->
-<!--                        <li><a href="http://farasa.net">فراسا</a></li>-->
-<!--                        <li><a href="http://198.23.143.240"> فراکام </a></li>-->
-<!--                        <li><a href="#"> فراهوش </a></li>-->
-<!--                        <li><a href="http://social1.farama.net"> فرانت </a></li>-->
-<!--                        <li><a href="http://shop1.farama.net"> فراکالا </a></li>-->
-<!--                    </ul>-->
-<!--                </div>-->
-<!--            </li>-->
+         
             <li>
                 <div class="divider"></div>
             </li>
