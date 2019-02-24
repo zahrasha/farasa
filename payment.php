@@ -13,7 +13,7 @@
             </div>
         </div>
         <div class="row">
-            <div class="col s8 m8 l7 offset-l1 ">
+            <div class="col s12 m10 l10 offset-l1 ">
                 <table class="responsive-table striped centered farzan-table  left first-col-shrink z-depth-1">
                 <thead class="white-text purple">
                 <tr class="my-table">

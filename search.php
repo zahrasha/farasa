@@ -35,8 +35,8 @@
     </div>
     <div class="input-field col  s12 m8 l4  offset-l2 right myradio">
     <span style="display:block; " >تطابق: </span>
-        <input type="radio" name="tick-a" id="all-1">
-        <label for="all-1" class="checkbox-text black-text" style="font-size: 12pt">
+        <input type="radio" name="tick-a" id="all-e1">
+        <label for="all-e1" class="checkbox-text black-text" style="font-size: 12pt">
         <span>تمام کلمات</span>
         </label>
         <input type="radio" name="tick-a" id="words1">
