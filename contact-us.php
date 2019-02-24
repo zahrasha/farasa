@@ -13,7 +13,7 @@
         <div class="row">
         <div class="col l12 m12 s12">
             <div class="col s12 right">
-                <div class=" card z-depth-1  card-content col s10 l10 offset-l1 white">
+                <div class=" card z-depth-1  card-content col s12 l10 offset-l1 white">
                     <form action="#">
         <div class="col s12 m6 l4 right">
             <div class="input-field ">
@@ -37,12 +37,13 @@
             </div>
         </div>
         <div class="col s12 m12 l12 right">
-            <div class="input-field ">
+            <div class="input-field">
                 <i class="mdi-editor-mode-comment prefix"></i>
-                <input id="main-text" type="text" class="validate">
-                <label for="main-text" class="">بدنه</label>
+                <textarea id="icon_prefix2" class="materialize-textarea"></textarea>
+                <label for="icon_prefix2">بدنه</label>
             </div>
         </div>
+        
         <div class="clear"></div>
         <button class="btn waves-effect waves-light create-btn z-depth-1 light-blue accent-3 left submit-form"
           type="button">جستجو
