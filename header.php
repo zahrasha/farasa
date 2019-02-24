@@ -93,14 +93,14 @@
                         </a>
                     </li> -->
                     <li>
-                       <a class="dropdown-button black-text waves-effect waves-teal" href="javascript:void(0)" data-activates="dropdown5"
+                       <a class="dropdown-button black-text waves-effect waves-teal" href="courses.php" data-activates="dropdown5"
                           data-constrainwidth="false" data-alignment="right" data-hover="true">
                             <i class="mdi-action-class"></i>
                             <span> دوره های من </span>
                         </a>
                     </li>
                     <li>
-                       <a class="dropdown-button black-text waves-effect waves-teal" href="javascript:void(0)" data-activates="dropdown5"
+                       <a class="dropdown-button black-text waves-effect waves-teal" href="profile.php" data-activates="dropdown5"
                           data-constrainwidth="false" data-alignment="right" data-hover="true">
                             <i class="mdi-action-assignment-ind"></i>
                             <span>مشخصات کاربر</span>
@@ -108,7 +108,7 @@
                     </li>
                 
                     <li>
-                       <a class="dropdown-button black-text waves-effect waves-teal" href="javascript:void(0)" data-activates="dropdown5"
+                       <a class="dropdown-button black-text waves-effect waves-teal" href="payment.php" data-activates="dropdown5"
                           data-constrainwidth="false" data-alignment="right" data-hover="true">
                             <i class="mdi-action-assessment"></i>
                             <span>اعتبار و پرداخت</span>
