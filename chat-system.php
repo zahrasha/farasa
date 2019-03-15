@@ -109,6 +109,24 @@
     <!--end container-->
 
 <?php include 'footer.php'; ?>
+<script>
+ $(".submit").on('click',function(e){
+    handleReplyMessage();      
+ })
+ $(".message-input input").on('keypress',function(){
+    
+ });
+function handleReplyMessage(){
+      var message = $(".message-input input").val();
+        var htmlTemplate = '<li class="replies">'+
+                      '<img src="http://emilcarlsson.se/assets/harveyspecter.png" alt="">'+
+                      '<p>'
+                        + message +
+                      '</p>'+
+                    '</li>' ;
+        $(".messages ul").append(htmlTemplate)         
+    }
+</script>
 </body>
 
 </html>

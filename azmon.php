@@ -27,17 +27,18 @@
     <div class="card col l8 m8 s8 offset-l2">
     <div class="row">
     <ul class="my-list s5 m4 l3 right " >
-    <li>سؤالات 	 </li>
-    <li>بیشترین نمره </li>
-    <li>تعداد ارسال مجاز </li>
-    <li>تاريخ شروع </li>
-    <li>تاريخ اتمام   </li> </ul>
+        <li>سؤالات:</li>
+        <li>بیشترین نمره:</li>
+        <li>تعداد ارسال مجاز:</li>
+        <li>تاريخ شروع:</li>
+        <li>تاريخ اتمام:</li> 
+    </ul>
    <ul class="my-list s5 m4 l3 right ">
-   <li>	8</li>
-   <li>	8</li>
-   <li>0 / 2</li>
-   <li>08:00  1390-01-01</li>
-   <li>23:00 1400-12-29</li>
+    <li>8</li>
+    <li>8</li>
+    <li>0 / 2</li>
+    <li>08:00  1390-01-01</li>
+    <li>23:00 1400-12-29</li>
    </ul>
    <ul class="my-list s5 m4 l3 right ">
    <li>مدت زمان آزمون  </li>

@@ -209,6 +209,11 @@ textarea.materialize-textarea:focus:not([readonly]) + label {
 .heading {
   font-weight: bold;
   font-size: 17px;
+  margin-top: 5px;
+  margin-bottom: 10px;
+}
+.heading + ul {
+  margin-top: 5px;
 }
 /***********************new styles******************/
 .dashboards-table {

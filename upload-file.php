@@ -47,6 +47,7 @@
                     <ul class="table-options">
                         <li>
                             <a class="btn-floating btn-flat waves-effect waves-light teal darken-3 white-text disabled tooltip-top "
+                            id="saveFile"
                             title="ذخیره"
                             >
                                 <i class="mdi-content-save"></i>
@@ -82,7 +83,7 @@
                                 <label for="check1" class="checkbox-text margin-0"> </label>
                             </div>
                         </td>
-                        <td><img src="images/word.png" class="file-icon" width="20px"> Assignment.doc</td>
+                        <td><img src="images/word.png" class="file-icon" width="20px">Assignment.docx</td>
                         <td>موسسه فرزان</td>
                         <td>-</td>
                         <td><a href="#">0 توضیحات</a></td>
@@ -97,7 +98,7 @@
                                 <label for="check2" class="checkbox-text margin-0"> </label>
                             </div>
                         </td>
-                        <td><img src="images/excel.png" class="file-icon" width="20px"> Assignment.xl</td>
+                        <td><img src="images/excel.png" class="file-icon" width="20px">Assignment.xlsx</td>
                         <td>موسسه فرزان</td>
                         <td>-</td>
                         <td><a href="#">0 توضیحات</a></td>
@@ -112,7 +113,7 @@
                                 <label for="check3" class="checkbox-text margin-0"> </label>
                             </div>
                         </td>
-                        <td><img src="images/pdf.png" class="file-icon" width="20px"> Assignment.pdf</td>
+                        <td><img src="images/pdf.png" class="file-icon" width="20px">Assignment.pdf</td>
                         <td>موسسه فرزان</td>
                         <td>-</td>
                         <td><a href="#">0 توضیحات</a></td>
@@ -146,6 +147,16 @@
 
 <?php include 'footer.php'; ?>
 <script>
+$("#saveFile").on('click',function(e){
+    e.preventDefault();
+    $("#pay-table td input[type='checkbox']").each(function(e){
+        if($(this).is(":checked"))
+        {
+            console.log("checked")
+        }
+    })
+
+})
     $("#checkAll").on("change",function(){
       if($(this).is(':checked')){
           $("td .mycheckbox input").prop("checked",true)

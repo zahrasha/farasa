@@ -10,7 +10,7 @@
                     <li class="collection-item">
                         <a href="master.php" target="_blank">
                             <i class="mdi-toggle-check-box"></i>
-                            قالب اصلی
+                            صفحه اصلی
                         </a>
                     </li>
                     <li class="collection-item">
@@ -34,7 +34,7 @@
                     <li class="collection-item">
                         <a href="content.php" target="_blank">
                             <i class="mdi-toggle-check-box"></i>
-                            صفحه نمایش محتوای
+                            صفحه نمایش محتوا
                         </a>
                     </li>
                     <li class="collection-item">

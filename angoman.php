@@ -83,6 +83,7 @@
 
 <script>
     $(".membership-icon").on("click",function(e){
+        var self = $(this);
         if($(this).hasClass("add")){
             swal({
                 title: 'آیا شما از این کار مطمئن هستید؟',
@@ -96,11 +97,15 @@
                 if (result.value) {
                     swal(
                         'عضویت شما با موفقیت انجام شد!',
-                        'شما با موفقيت به عضويت انجمن انجمن گزارش بی خطری در آمده ايد. پيامهاي ارسال شده به اين انجمن به پست الکترونيکي شما ارسال خواهد شد. براي ويرايش آدرس پست الکترونيکي خود، مشخصات خود را مشاهده نماييد.',
+                        'شما با موفقيت به عضويت انجمن گزارش بی خطری در آمده ايد. پيامهاي ارسال شده به اين انجمن به پست الکترونيکي شما ارسال خواهد شد. براي ويرايش آدرس پست الکترونيکي خود، مشخصات خود را مشاهده نماييد.',
                         'success',
                     )
                 }
-            });
+            }).then(function(){
+                self.toggleClass("mdi-content-remove-circle mdi-content-add-circle add remove");
+                self.tooltipster("destroy");
+                self.attr("title","لغو عضویت").tooltipster();
+            })
         }else{
             swal({
                 title: 'آیا شما از این کار مطمئن هستید؟',
@@ -118,7 +123,11 @@
                         'success',
                     )
                 }
-            });
+            }).then(function(){
+                self.toggleClass("mdi-content-remove-circle mdi-content-add-circle add remove");
+                self.tooltipster("destroy");
+                self.attr("title","عضویت").tooltipster();
+            })
         }
     })
 </script>
