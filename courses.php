@@ -15,7 +15,7 @@
         <?php 
           for ($i = 0; $i <= 10; $i++) {
             echo 
-            '<div class="col s12 m6 l4">
+            '<div class="col s12 m6 l4 right">
                 <div class="card z-depth-1 my-card hoverable">
                   <div class="row card-content">
                   <div class="col s5 m5 l3" >

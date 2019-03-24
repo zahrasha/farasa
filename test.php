@@ -24,27 +24,27 @@
             </div>
             <div class="col s12 m8 l9 ">
             
-                <table class="responsive-table striped centered farzan-table  first-col-shrink">
-                <thead class="white-text purple">
-                <tr class="my-table">
-                    <th>ردیف</th>
-                    <th>         عنوان	</th>
-                    <th> 	     وضعيت</th>
-                    <th>		 تاريخ شروع</th>
-                    <th>	    تاريخ اتمام</th>
-                    <th>	    تعداد ارسال مجاز</th>
-                </tr>
-                </thead>
+                <table class="responsive-table striped centered farzan-table  first-col-shrink z-depth-1">
+                    <thead class="white-text purple">
+                        <tr class="my-table">
+                            <th>ردیف</th>
+                            <th>عنوان</th>
+                            <th>وضعيت</th>
+                            <th>تاريخ شروع</th>
+                            <th>تاريخ اتمام</th>
+                            <th>تعداد ارسال مجاز</th>
+                        </tr>
+                    </thead>
                 <tbody>
-                <tr>
-                    <td>1</td>
-                    <td>     آزمون نهایی</td>
-                    <td><a href="azmon.php">	آماده پاسخ‌گويي</a></td>
-                    <td>     ۱۳۹۰-۰۱-۰۱ ۰۸:۰۰ </td>
-                    <td>     ۱۴۰۰-۱۲-۲۹ ۲۳:۰۰</td>
-                    <td> 	2/2</td>
-                   
-                </tr>
+                    <tr>
+                        <td>1</td>
+                        <td>     آزمون نهایی</td>
+                        <td><a href="azmon.php">	آماده پاسخ‌گويي</a></td>
+                        <td>     ۱۳۹۰-۰۱-۰۱ ۰۸:۰۰ </td>
+                        <td>     ۱۴۰۰-۱۲-۲۹ ۲۳:۰۰</td>
+                        <td> 	2/2</td>
+                    
+                    </tr>
                 </tbody>
                 </table>
                 <div class="row margin-0">
@@ -52,7 +52,7 @@
                 <p>ارسالهاي شما</p>
                 </div>
                 <div class="clear"></div>
-                <table class="responsive-table striped centered farzan-table  first-col-shrink">
+                <table class="responsive-table striped centered farzan-table  first-col-shrink z-depth-1">
                 <thead class="white-text purple">
                 <tr class="my-table">
                     <th>ردیف</th>
