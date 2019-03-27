@@ -209,19 +209,19 @@
                 <div class="divider"></div>
             </li>
             <!--            ===================items===========-->
-            <li><a  href="courses.php" ><i class="mdi-action-class right"></i>
+            <li><a href="courses.php" ><i class="mdi-action-class right"></i>
             دوره های من 
                 </a>
                 <li><a  href="profile.php" ><i class="mdi-action-assignment-ind right"></i>
             مشخصات کاربر 
                 </a>
-                <li><a  href="payment.php" ><i class="mdi-action-assessment right"></i>
+                <li><a href="payment.php" ><i class="mdi-action-assessment right"></i>
            اعتبار و پرداخت
                 </a>
                 <li><a  href="post-box.php" > <i class="mdi-content-mail right "> </i>
                 صندوق پستی
                 </a>
-                <li><a  href="" ><i class="mdi-action-info right"></i>
+                <li><a href="help.php" ><i class="mdi-action-info right"></i>
           راهنما
                 </a> 
               
