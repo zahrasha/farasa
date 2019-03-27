@@ -2,7 +2,7 @@
 <!---------- fab icon --------->
 <div class="fixed-action-btn my-fixed-btn hide-on-med-and-down">
    <a class="btn-floating btn-large blue salamat-btn">
-        <img src="images/salamat.png">
+   فراسا    
     </a>
     <ul class="fixed-fab">
        <!-- <li><a href="http://shop1.farama.net" class="btn-floating fab-btn teal darken-3 tooltip-right farakala-color" title="محصولات سلامت">
@@ -21,8 +21,8 @@
        <li><a href="http://accounts.salemsa.net/accounts/login/?next=/o/authorize/%3Fresponse_type%3Dcode%26client_id%3DsT2hCZz0b7jDwLpnCuds1xDAGH0R3QnbWKy2UiXA%26redirect_uri%3Dhttp%253A%252F%252Ffaracom.salemsa.net%252Flogin" class="btn-floating fab-btn tooltip-right farama-color" title="ارتباطات هوشمند سلامت">
               فراکام </a></li>
 
-       <li><a href="http://accounts.salemsa.net/accounts/login/?next=/o/authorize/%3Fclient_id%3D0j2E6e1rPKwNCTYlS8cKj2Xp935vU0XaVatu0sFJ%26response_type%3Dcode%26redirect_uri%3Dhttp%3A//farasa.salemsa.net/login.php" class="btn-floating fab-btn app-color tooltip-right" title="آموزش و سنجش الکترونیک سلامت">
-               فراسا </a></li>
+       <!-- <li><a href="http://accounts.salemsa.net/accounts/login/?next=/o/authorize/%3Fclient_id%3D0j2E6e1rPKwNCTYlS8cKj2Xp935vU0XaVatu0sFJ%26response_type%3Dcode%26redirect_uri%3Dhttp%3A//farasa.salemsa.net/login.php" class="btn-floating fab-btn app-color tooltip-right" title="آموزش و سنجش الکترونیک سلامت">
+                </a></li> -->
 
        <li><a href="http://accounts.salemsa.net/accounts/login/?next=/o/authorize/%3Fresponse_type%3Dcode%26client_id%3DvGJwWiwE4OtYWzqfroKK7j9hPWq7jc0cU0t7gAaY%26redirect_uri%3Dhttp%253A%252F%252Ffarama.salemsa.net%253Fa%253Dlogin%2526lang%253Dfa" class="btn-floating fab-btn purple accent-2 tooltip-right" title=" مشاوره تلفنی وآنلاین سلامت">
         فراما</a></li>
