@@ -1231,10 +1231,6 @@ th [type="checkbox"] + label:before {
   left: 0 !important;
 }
 
-table tr th [type="checkbox"] + label {
-  /*top: 6px;*/
-}
-
 .my-radio-label [type="radio"]:not(:checked) + label,
 .my-radio-label [type="radio"]:checked + label {
   position: initial;
@@ -1269,9 +1265,6 @@ table tr th [type="checkbox"] + label {
 .mytable-right td {
   text-align: right;
   width: 100%;
-}
-
-.mytable-right tr {
 }
 
 .mytable-right td:nth-child(1),
@@ -1400,11 +1393,6 @@ ul.card-prifile-list {
 }
 
 /****************************** margin top all select *****************************************/
-.farzan-select ul {
-  /*margin-top: 48px;*/
-  /*left: 18px !important;*/
-}
-
 .farzan-select .dropdown-content li {
   padding: 0;
 }
@@ -1486,10 +1474,6 @@ ul.card-prifile-list {
 .matrix-txtarea {
   border: 1px dotted;
   border-radius: 5px;
-}
-
-.point-second-td {
-  /*padding: 0 20px;*/
 }
 
 .point-second-td input {
@@ -1676,11 +1660,6 @@ ul.card-prifile-list {
 }
 
 /*//////////////// -- setting control panel -- ///////////////////*/
-
-.cp-btn-list-imp,
-.cp-btn-list {
-}
-
 .cp-btn-list-imp li,
 .cp-btn-list li {
   float: right;
