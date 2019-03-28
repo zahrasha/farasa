@@ -30,11 +30,11 @@
 
                             <br>
                             <div class="clear"></div>
-                            <button class="btn waves-effect waves-light create-btn z-depth-1 light-blue accent-3 right submit-form" type="button">
-                            ارسال
-                            </button>
-                            <button class="btn waves-effect waves-light create-btn z-depth-1 grey darken-2 right" type="button">
+                            <button class="btn waves-effect waves-light create-btn z-depth-1 grey darken-2 left" type="button">
                             انصراف
+                            </button>
+                            <button class="btn waves-effect waves-light create-btn z-depth-1 light-blue accent-3 left submit-form" type="button">
+                            ارسال
                             </button>
 							<div class="clear"></div>
 

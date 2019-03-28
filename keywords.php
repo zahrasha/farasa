@@ -17,7 +17,7 @@
             <?php include 'sidebar.php'; ?>
             </div>
             <div class="col s12 m8 l9 right" id="MainLinks">
-              <div class="white my-card bordered-card content-wrapper" style="padding: 15px;">
+              <div class="white my-card bordered-card content-wrapper " style="padding: 15px;">
                   <h3 class="main-title right">واژگان کلیدی</h3>
                   <div class="clear"></div>
                   <h5 class="keyword-title">تعيين اهداف شخصي:</h5>

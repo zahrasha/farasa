@@ -40,13 +40,13 @@
             <div class="input-field">
                 <i class="mdi-editor-mode-comment prefix"></i>
                 <textarea id="icon_prefix2" class="materialize-textarea"></textarea>
-                <label for="icon_prefix2">بدنه</label>
+                <label for="icon_prefix2">متن پیام</label>
             </div>
         </div>
         
         <div class="clear"></div>
         <button class="btn waves-effect waves-light create-btn z-depth-1 light-blue accent-3 left submit-form"
-          type="button">جستجو
+          type="button">ارسال
         </button>
         <div class="clear"></div>
         </form>

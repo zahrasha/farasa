@@ -31,7 +31,10 @@
         <div class="row margin-bottom-0">
             <!--Top title-->
             <div class="col s12 m12 l12">
-              <h5 class="breadcrumbs-title "><i class="mdi-action-home"></i>صفحه اصلی / دوره انتخابی</h5>
+              <h5 class="breadcrumbs-title "><i class="mdi-action-home"></i> 
+                <a href="">صفحه اصلی</a> /
+                <a href="">دوره اتنخابی </a>
+                </h5>
             </div>
         </div>
         <div class="row">

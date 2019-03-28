@@ -100,7 +100,7 @@
                     <li class="collection-item">
                         <a href="questionnaire.php" target="_blank">
                             <i class="mdi-toggle-check-box"></i>                            
-                            پرسشنامه 
+                            آزمون
                         </a> 
                     </li> 
                     <li class="collection-item">

@@ -50,13 +50,12 @@ ul li label{
                 <table class="responsive-table striped centered farzan-table  first-col-shrink">
                     <thead class="white-text purple">
                         <tr class="my-table">
-                        <th>1 بارم 	</th>
                         <th> سوال 1: چند گزینه ای </th>
+                        <th class="left">1 بارم 	</th>
                         </tr>
                     </thead>
                     </table>
-                    <br>
-                    <span>    بر طبق بیانیه CONSORT کدام مورد در قسمت روش ها جایگاهی ندارد ؟
+                    <span >    بر طبق بیانیه CONSORT کدام مورد در قسمت روش ها جایگاهی ندارد ؟
                     </span>
                     <br>
                     <ul style="padding: 0px; margin: 0px; list-style-type: none">
@@ -100,12 +99,11 @@ ul li label{
                     <table class="responsive-table striped centered farzan-table  first-col-shrink">
                     <thead class="white-text purple">
                     <tr class="my-table">
-                    <th>1 بارم 	</th>
                     <th> سوال 1: چند گزینه ای </th>
+                    <th class="left">1 بارم 	</th>
                     </tr>
                     </thead>
                 </table>
-                <br>
                 <span>    بر طبق بیانیه CONSORT کدام مورد در قسمت روش ها جایگاهی ندارد ؟
                 </span>
                 <br>
@@ -120,7 +118,7 @@ ul li label{
                 </li>
                 <li>
     			    <input type="radio" name="answers[279]" value="2" id="choice_279_2" />
-                    <label for="choice_279-2"><span>جزئیات دقیق مداخله مورد نظر</span></label>  
+                    <label for="choice_279_2"><span>جزئیات دقیق مداخله مورد نظر</span></label>  
                 </li>
 			    <li>
                     <input type="radio" name="answers[279]" value="3" id="choice_279_3" />
