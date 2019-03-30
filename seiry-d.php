@@ -88,12 +88,11 @@
              </div>
 
            <div class="clear"></div>
-             <div class="col s12 center">
-              <button class="btn col s1 m2 l2 offset-l5 waves-effect waves-light create-btn z-depth-1 light-blue accent-3 submit-form"
+           <div class="col s12 center">
+            <button class="btn col s1 m2 l1 offset-l1  waves-effect waves-light create-btn z-depth-1 light-blue accent-3 submit-form"
               type="button"> ثبت دروس انتخاب شده
             </button>
-             </div>
-  
+      </div> 
      <div class="row">
      <div class="col s12 l10 offset-l1">
             <div class="col s12 m4 l4 right">
@@ -150,7 +149,6 @@
                           <p>
                             <small>عنوان: <b>متن</b></small>
                           </p>
-                         
                   </div>
                 </div>
             </div>
@@ -207,7 +205,6 @@
                           <p>
                             <small>عنوان: <b>متن</b></small>
                           </p>
-                         
                   </div>
                 </div>
             </div>                                         

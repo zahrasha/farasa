@@ -21,8 +21,7 @@
     <div class="container">
         <div class="row margin-bottom-0">
             <!--Top title-->
-             <h5 class="breadcrumbs-title "><i class="mdi-social-people"></i><a href="">صفحه اصلی</a> /
-             
+             <h5 class="breadcrumbs-title "><i class="mdi-social-people"></i><a href="index.php">صفحه اصلی</a> /
               انجمن ها </h5>
             </div>
            </div>

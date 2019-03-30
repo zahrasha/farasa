@@ -68,7 +68,7 @@ input[type=password]:focus.valid {
     overflow: hidden;
 }
 .header-search-wrapper {
-    width: 200px!important;
+    width: 100px!important;
     margin: 0 auto;
     margin-top: 3px;
     height: 40px;

@@ -16,41 +16,41 @@
             <!--Top title-->
             <div class="col s12 m12 l12">
                 <h5 class="breadcrumbs-title "><i class="mdi-action-home"></i>
-                <a href="">صفحه اصلی</a> /
-                <a href=""> دوره انتخابی</a> /
-                <a href=""> آزمون</a> /
+                <a href="index.php">صفحه اصلی</a> /
+                <a href="course.php"> دوره انتخابی</a> /
+                <a href="test.php"> آزمون</a> /
                 اماده پاسخ گویی </h5>
-        </div>
+            </div>
         </div> 
-        </div>
+    </div>
     <div class="row ">
-    <div class="card col l8 m8 s8 offset-l2">
+    <div class="card col l5 m8 s8 offset-l4">
     <div class="row">
-    <ul class="my-list s5 m4 l3 right " >
+    <ul class="my-list  right " >
         <li>سؤالات:</li>
         <li>بیشترین نمره:</li>
         <li>تعداد ارسال مجاز:</li>
         <li>تاريخ شروع:</li>
         <li>تاريخ اتمام:</li> 
     </ul>
-   <ul class="my-list s5 m4 l3 right ">
+   <ul class="my-list  right ">
     <li>8</li>
     <li>8</li>
     <li>0 / 2</li>
     <li>08:00  1390-01-01</li>
     <li>23:00 1400-12-29</li>
    </ul>
-   <ul class="my-list s5 m4 l3 right ">
-   <li>مدت زمان آزمون  </li>
-   <li>ناشناس  </li>
-   <li> نمايش </li> 
-   <li> دستورالعمل ها </li>
+   <ul class="my-list right ">
+   <li>مدت زمان آزمون: </li>
+   <li>ناشناس: </li>
+   <li> نمایش:</li> 
+   <li> دستورالعمل ها:</li>
    </ul>
-   <ul class="my-list s5 m4 l3 right ">
+   <ul class="my-list right  ">
    <li>8  دقیقه</li>
    <li>خیر</li>
-   <li>نمايش تمامي سوالات در يك صفحه</li>
-   <li></li>
+   <li>نمايش تمامي سوالات </li>
+   <li>---</li>
    </ul>
    </div>
   <a href="questionnaire.php"> <button class="btn waves-effect waves-light create-btn z-depth-1 light-blue accent-3 right submit-form"

@@ -115,9 +115,9 @@
                         </a>
                     </li>
                     <li class="header-search-wrapper overflow-hidden">
-                        <form action="#" method="get" style="height: 35px;">
+                        <form action="#" method="get" style="height: 45px; width: 170px !important ;">
                             <a onclick="$(this).closest('form').submit();" name="search-btn" class="left" data-hover="false"><i class="mdi-action-search white-text"></i></a>
-                            <input type="text" class="light-blue accent-3 border-radius-10 search-council" style="height: 1rem !important;" name="search_text" placeholder="جستجو کنید...">
+                            <input type="text" class="light-blue accent-3 border-radius-10 search-council" style="height: 1rem !important;" name="search_text" placeholder="جستجو ...">
                             <input type="hidden" name="a" value="search">
                             <input type="hidden" name="lang" value="fa">
                         </form>
@@ -196,9 +196,9 @@
             </a>
         </li>
         <li class="header-search-wrapper overflow-hidden">
-            <form action="#" method="post" style="height: 35px;">
+            <form action="#" method="post" style="height: 35px; width: 150px !important ;">
             <a onclick="$(this).closest('form').submit();" name="search-btn" href="" class="left"><i class="mdi-action-search white-text"></i></a>
-            <input type="text" class="light-blue accent-3 border-radius-10 search-council" style="height: 1rem !important;" placeholder="جستجو کنید...">
+            <input type="text" class="light-blue accent-3 border-radius-10 search-council" style="height: 1rem !important;" placeholder="جستجو ...">
             </form>
         </li>
         <!--        ==================================mobile menu Sabbaghi============================/-->

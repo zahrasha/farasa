@@ -11,7 +11,7 @@
             </div>
         </div>
         <div class="row">
-        <div class="col l12 m12 s12">
+        <div class="col l8 m12 s12 offset-l2">
             <div class="col s12 right">
                 <div class=" card z-depth-1 card-content white">
                     <form action="#">

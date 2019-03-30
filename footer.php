@@ -55,8 +55,8 @@
                     <li><a href="https://www.facebook.com/farzaninstitute"><i class="fa fa-facebook-f hovicon effect-7 sub-b facebook-footer"></i></a></li>
                     <li><a href="https://www.instagram.com/farzan_institute"><i class="fa fa-instagram hovicon effect-7 sub-b instagram-footer"></i></a></li>
                     <li><a href="https://www.linkedin.com/in/farzan-institute-baa720ba?trk=hp-identity-name"><i class="fa fa-linkedin hovicon effect-7 sub-b linkedin-footer"></i></a></li>
-                    <li><a href="https://plus.google.com/b/108840769667373723312/108840769667373723312?gmbpt=true&hl=en"><i class="fa fa-google-plus hovicon effect-7 sub-b googleplus-footer"></i></a></li>
-                    <li><a href="#"><i class="fa fa-twitter hovicon effect-7 sub-b twitter-footer"></i></a></li>
+                  <!--  <li><a href="https://plus.google.com/b/108840769667373723312/108840769667373723312?gmbpt=true&hl=en"><i class="fa fa-google-plus hovicon effect-7 sub-b googleplus-footer"></i></a></li> 
+                    <li><a href="#"><i class="fa fa-twitter hovicon effect-7 sub-b twitter-footer"></i></a></li> ---->
                 </ul>
             </div>
 

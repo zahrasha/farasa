@@ -25,11 +25,11 @@
                 گواهی</h5>
             </div>
             <div class="col s12 m12 l12">
-              <a href="#">بازگشت به صفحه ی قبلی </a>
+              <a href="#">بازگشت به صفحه قبلی </a>
             </div>
         </div>
         <div class="row">
-          <div class="col s12 m7 l10 offset-l1 ">
+          <div class="col s12 m8 l10 offset-l1 ">
           <div class="card z-depth-1 card-content white ">
           <div class="content">
             <h3 class="my-title"><b>صفحه ارزشیابی دوره های فراسا</b></h3>

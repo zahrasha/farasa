@@ -1,5 +1,5 @@
             <div class="white my-card z-depth-1 list-container">
-                <h4 class="heading">مرور مطالب</h4>
+                <h6 class="heading">مرور مطالب</h6>
                 <ul class="tree">
                 <li>  <a href="course.php">صفحه اصلی دوره</a></li>
                   <li><a href="content.php">پیش گفتار</a></li>
@@ -22,7 +22,7 @@
 
               </div>
               <div class="white my-card z-depth-1 list-container">
-                <h4 class="heading">كاربران آنلاین</h4>
+                <h6 class="heading">كاربران آنلاین</h6>
                 <ul>
                     <li><a href="course.php">صفحه اصلی دوره</a></li>
                     <li><a href="content.php">لینک آخر</a></li>
@@ -30,7 +30,7 @@
                 </ul>
         </div>
         <div class="white my-card z-depth-1 list-container ">
-                        <h4 class="heading">جستجو</h4>
+                        <h6 class="heading">جستجو</h6>
                        <form action="">
                         <div class="input-field " style="margin-left: 20px;">
                                     <i class="mdi-action-search prefix"></i>
