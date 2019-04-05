@@ -115,7 +115,7 @@
    <p>
    <a href="#">1. چك ليست شماره 1 - ماموریتهای اصلي پایشگر طی بازدید از محل مطالعه </a>
    <br>
-   Untitled Document •	تأييد درستي و کامل بودن داده‌هاي ثبت شده در فرم‌هاي CRF (شامل كارت‌هاي روزانه(diary cards)، فرم‌هاي كيفيت زندگي(quality of life forms)، فرم‌هاي ثبت نام(registration forms)، فرم‌هاي رضايت‌نامه(consen...
+   Untitled Document •	تأييد درستي و کامل بودن داده‌هاي ثبت شده در <span class="highlighted-text">فرم‌هاي</span> CRF (شامل كارت‌هاي روزانه(diary cards)، فرم‌هاي كيفيت زندگي(quality of life forms)، فرم‌هاي ثبت نام(registration forms)، فرم‌هاي رضايت‌نامه(consen...
    <br>
    <span>[كلمات كليدي: . مؤلف: هيچ. به روزرساني شد: دوشنبه دي ۸, ۱۳۹۳ - ۱۱:۴۲]</span>
    </p>

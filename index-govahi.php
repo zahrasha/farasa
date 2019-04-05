@@ -33,14 +33,14 @@
           <div class="card z-depth-1 card-content white ">
           <div class="content">
             <h3 class="my-title"><b>صفحه ارزشیابی دوره های فراسا</b></h3>
-            <div class="col s12 m6 l3 pull-l4 right">
+            <div class="col s12 m6 l3 pull-l3 right">
             <p class="right"><b>نام و نام خانوادگی: </b> شیما ابن العلم</p>
             </div>
                   <div class="col s12 m6  l3 pull-l4 right">
                     <p class="right"><b>نام مرکز/ دانشگاه: </b> فراسا</p>
                   </div>
                   <div class="clear"></div>
-                  <div class="col s12 m6 l3 pull-l4 right">
+                  <div class="col s12 m6 l3 pull-l3 right">
                     <p class="right"><b>مقطع تحصیلی: </b> کارشناسی</p>
                   </div>
                   <div class="col s12 m6  l3 pull-l4 right">

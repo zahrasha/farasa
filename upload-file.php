@@ -75,7 +75,7 @@
                     </tr>
                     </thead>
                     <tbody>
-                    <tr data-username="نام کاربر" data-gym-name="نام باشگاه" data-activity-type="نوع غعالیت" data-gym-price="سهم باشگاه">
+                    <tr data-filename="Assignment.docx" >
                         <td>1</td>
                         <td>
                             <div class="mycheckbox">
@@ -90,7 +90,7 @@
                         <td>24.5 KB</td>
                         <td>1390-12-22 10:15</td>
                     </tr>
-                    <tr data-username="نام کاربر" data-gym-name="نام باشگاه" data-activity-type="نوع غعالیت" data-gym-price="سهم باشگاه">
+                    <tr data-filename="Assignment.xlsx" >
                         <td>2</td>
                         <td>
                             <div class="mycheckbox">
@@ -105,7 +105,7 @@
                         <td>24.5 KB</td>
                         <td>1390-12-22 10:15</td>
                     </tr>
-                    <tr data-username="نام کاربر" data-gym-name="نام باشگاه" data-activity-type="نوع غعالیت" data-gym-price="سهم باشگاه">
+                    <tr data-filename="Assignment.pdf" >
                         <td>3</td>
                         <td>
                             <div class="mycheckbox">
@@ -149,12 +149,15 @@
 <script>
 $("#saveFile").on('click',function(e){
     e.preventDefault();
+    var files = [];
     $("#pay-table td input[type='checkbox']").each(function(e){
         if($(this).is(":checked"))
         {
-            console.log("checked")
+            var file = $(this).parents("tr").attr("data-filename")
+            files.push(file);
         }
     })
+    console.log(files)
 
 })
     $("#checkAll").on("change",function(){

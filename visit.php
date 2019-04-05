@@ -41,10 +41,10 @@
     <table class="table responsive-table striped centered farzan-table z-depth-1">
     <thead class="white-text ">
     <tr class="my-table">
-        <th>صفحه</th>
-        <th>ديدارها</th>
-        <th>مدت کل</th>
-        <th>آخرين زمان دسترسي</th>
+        <th width="25%">صفحه</th>
+        <th width="25%">ديدارها</th>
+        <th width="25%">مدت کل</th>
+        <th width="25%">آخرين زمان دسترسي</th>
        
     </tr>
     </thead>

@@ -41,7 +41,7 @@
                 <div class="card-profile-content ">
                     
                     <p>دسترسی به کل دوره ها با تخفیف 50 درصد</p>
-                    <span>قیمت: تومان 28,075,500</span>
+                    <span>قیمت: 28,075,500 <small>تومان</small></span>
                     <br>
                     <a class="btn waves-effect waves-light z-depth-1 light-blue accent-3 margin-top-5"  href="">خرید</a>
                 </div>
@@ -55,7 +55,7 @@
                 </div>
                 <div class="card-profile-content ">
                     <p>دسترسی به کل دوره ها با تخفیف 50 درصد</p>
-                    <span>قیمت:  تومان 28,075,500</span>
+                    <span>قیمت: 28,075,500 <small>تومان</small></span>
                     <br>
                     <a class="btn waves-effect waves-light z-depth-1 light-blue accent-3 margin-top-5"  href="">خرید</a>
                 </div>
@@ -69,7 +69,7 @@
                 </div>
                 <div class="card-profile-content ">
                     <p>دسترسی به کل دوره ها با تخفیف 50 درصد</p>
-                    <span>قیمت: تومان 28,075,500</span>
+                    <span>قیمت: 28,075,500 <small>تومان</small></span>
                     <br>
                     <a  class="btn waves-effect waves-light z-depth-1 light-blue accent-3 margin-top-5" href="">خرید</a>
                 </div>
@@ -83,7 +83,7 @@
                 </div>
                 <div class="card-profile-content ">
                     <p>دسترسی به کل دوره ها با تخفیف 50 درصد</p>
-                    <span>قیمت: تومان 28,075,500</span>
+                    <span>قیمت: 28,075,500 <small>تومان</small></span>
                     <br>
                     <a class="btn waves-effect waves-light z-depth-1 light-blue accent-3 margin-top-5"  href="">خرید</a>
                 </div>

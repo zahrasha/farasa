@@ -1,28 +1,4 @@
 <?php include 'head.php'; ?>
-<style>
-   ul.tree, ul.tree ul {
-     list-style-type: none;
-     background: url(images/vline.png) repeat-y;
-     margin: 0;
-     padding: 0;
-     background-position: right top;
-       }
-   
-   ul.tree ul {
-     margin-left: 10px;
-   }
-
-   ul.tree li {
-     margin: 0;
-     padding: 0 12px;
-     background: url(images/node.png) no-repeat;
-     background-position: right top;   
-    }  
-   ul.tree li:last-child {
-    background: #fff url(images/lastnode.png) no-repeat;
-    background-position: right top;
-     }
-</style>
 </head>
 <body>
 <?php include 'header.php'; ?>

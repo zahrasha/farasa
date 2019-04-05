@@ -10,6 +10,33 @@ function validateMobile(input) {
   var re = new RegExp("^09\\d{9}$");
   return re.test(input);
 }
+
+$(function() {
+  if ($("ul.tree ul").length > 0) {
+    $("ul.tree ul").each(function(e) {
+      // if (
+      //   $(this)
+      //     .parents("li")
+      //     .is("ul.tree li:last-child")
+      // ) {
+      //   $(this)
+      //     .parents("li")
+      //     .css({
+      //       background: "url(images/lastnode-p.png) no-repeat",
+      //       "background-position": "right top"
+      //     });
+      // } else {
+      $(this)
+        .parents("li")
+        .css({
+          background: "url(images/node-p.png) no-repeat",
+          "background-position": "right top"
+        });
+      // }
+    });
+  }
+});
+
 $(document).ready(function() {
   $(".button-collapse").sideNav({ edge: "right" });
 

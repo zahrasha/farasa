@@ -93,7 +93,7 @@
                 </div>
                 <div class="message-input">
                   <div class="wrap">
-                  <input type="text" placeholder="پیام خود را بنویسید..." />
+                  <input type="text" id="composer" placeholder="پیام خود را بنویسید..."  />
                   <i class="fa fa-paperclip attachment" aria-hidden="true"></i>
                   <button class="submit"><i class="fa fa-paper-plane" aria-hidden="true"></i></button>
                   </div>
@@ -113,18 +113,21 @@
  $(".submit").on('click',function(e){
     handleReplyMessage();      
  })
- $(".message-input input").on('keypress',function(){
-    
+ $(".message-input input").on('keypress',function(e){
+  if(e.which == 13) {
+    handleReplyMessage();
+    }
  });
 function handleReplyMessage(){
-      var message = $(".message-input input").val();
+      var message = $(".message-input input#composer").val();
         var htmlTemplate = '<li class="replies">'+
                       '<img src="http://emilcarlsson.se/assets/harveyspecter.png" alt="">'+
                       '<p>'
                         + message +
                       '</p>'+
                     '</li>' ;
-        $(".messages ul").append(htmlTemplate)         
+        $(".messages ul").append(htmlTemplate);
+        $(".messages").scrollTop($(".messages")[0].scrollHeight);      
     }
 </script>
 </body>

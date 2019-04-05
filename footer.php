@@ -84,7 +84,7 @@
 
 
 <!-- Modal Structure -->
-<div id="help-modal" class="modal modal-fixed-footer">
+<div id="help-modal" class="modal modal-fixed-footer" style="overflow:hidden">
        <div class="modal-content">
        <h5 class="center">راهنمای استفاده از سایت</h5>
        <p>برای دسترسی به دوره های آموزشی آنلاین سامانه آموزش و سنجش فراسا ، ابتدا باید وارد سایت  
@@ -94,7 +94,7 @@
         برای مشاهده دوره بر روی آیکون "ورود به دوره ها" کلیک نمایید.
        </label><div class="row">
        <div class="clear"></div>
-       <a  href="#"><img class="col l3 offset-l4" src="images/favicon.ico" alt=""></a>
+       <a  href="#"><img class="col l3 offset-l4" src="images/farzan.png" alt=""></a>
        <div class="clear"></div>
        <p>سپس نام کاربری و رمز عبور را که از قبل برای شما ساخته شده وارد نمایید.</p>
        <div class="clear"></div>

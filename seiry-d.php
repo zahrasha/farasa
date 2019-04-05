@@ -12,34 +12,22 @@
                 </h5>
             </div>
              <div class="row">
-                <div class="col s12 right">
+                <div class="col s12  left">
                 <div class=" card z-depth-1 card-content white">
                 <div class="clear"></div>
                     <form action="#">
-                        <div class="input-field "> 
-                        <div class="col s12 m6 l2 right"> 
-                        <small>دسترسي</s>
-                        <div class="clear"></div>
-                          <input type="radio" name="tick" id="tick2">
-                            <label for="tick2" class="checkbox-text black-text" style="font-size: 12pt">
-                              <span>با پرداخت</span>
-                            </label>
-                            <input type="radio" name="tick" id="tick4">
-                            <label for="tick4" class="checkbox-text black-text" style="font-size: 12pt">
-                              <span>آزاد</span>
-                            </label>
-                            <br>
-                            <input type="radio" name="tick" id="tick3">
-                            <label for="tick3" class="checkbox-text black-text" style="font-size: 12pt">
-                              <span>با عضويت</span>
-                            </label>
-                            <input type="radio" name="tick" id="tick5">
-                            <label for="tick5" class="checkbox-text black-text" style="font-size: 12pt">
-                              <span>همه</span>
-                            </label>
+                        <div class="col s12 m6 l3 right">
+                            <div class="input-field farzan-select">
+                                <i class="mdi-action-visibility prefix "></i>
+                                <label>دسترسی</label>
+                                <select title="شهر">
+                                    <option value="1">با پرداخت</option>
+                                    <option value="2">آزاد</option>
+                                    <option value="3">با عضویت</option>
+                                    <option value="4">همه</option>
+                                </select>
+                            </div>
                         </div>
-                        </div>
-                        
                         <div class="col s12 m6 l3 right">
                             <div class="input-field farzan-select">
                                 <i class="mdi-action-view-agenda prefix "></i>
@@ -67,12 +55,12 @@
                                 <span>هر کلمه</span>
                                 </label>
                         </div>  
-                        <div class=" col s12 m6 l4 ">
+                        <div class=" col s12 m6 l3">
                         <button class="btn  waves-effect waves-light create-btn z-depth-1 light-blue accent-3  submit-form left"
-                                type="button">فيلتر کردن
+                                type="button" style="margin-top: 2.5rem;">فيلتر کردن
                         </button>
                         <button class="btn waves-effect waves-light create-btn z-depth-1 light-blue accent-3  submit-form left"
-                                type="button">برگرداندن فیلتر
+                                type="button" style="margin-top: 2.5rem;" >برگرداندن فیلتر
                         </button>
                         </div>
                         </form>
@@ -84,7 +72,7 @@
              <p class="margin-top-5">نتايج پيدا شده: 211</p>
             <div class="input-field col s12 m12 l12 right mycheckbox">
                   <input type="checkbox" id="checkAll">
-                  <label for="checkAll" class="checkbox-text margin-bottom-0">لطفا دوره / دوره های مورد نظر خود را انتخاب کنید.  </label>
+                  <label for="checkAll" style="font-weight:bold;" class="checkbox-text margin-bottom-0">لطفا دوره / دوره های مورد نظر خود را انتخاب کنید.  </label>
              </div>
 
            <div class="clear"></div>

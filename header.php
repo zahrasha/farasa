@@ -115,7 +115,7 @@
                         </a>
                     </li>
                     <li class="header-search-wrapper overflow-hidden">
-                        <form action="#" method="get" style="height: 45px; width: 170px !important ;">
+                        <form action="#" method="get" style="height: 45px; width: 130px !important ;">
                             <a onclick="$(this).closest('form').submit();" name="search-btn" class="left" data-hover="false"><i class="mdi-action-search white-text"></i></a>
                             <input type="text" class="light-blue accent-3 border-radius-10 search-council" style="height: 1rem !important;" name="search_text" placeholder="جستجو ...">
                             <input type="hidden" name="a" value="search">
@@ -146,8 +146,8 @@
 <!--                        </a>-->
 <!--                    </li>-->
                     <li>
-                        <a class="black-text" style="padding:0 5px !important" href="#">
-                            شیما ابن العلم <small>خوش آمدید</small>
+                        <a class="black-text" style="padding:0 10px !important" href="#">
+                            شیما ابن العلم خوش آمدید
                         </a>
                     </li>
                     <li>
@@ -169,7 +169,7 @@
                     </li>
                     <li>
                         <a title="خروج" class="red-text tooltip-top" href="#">
-                            <i class="fa fa-power-off red-text"></i>
+                            <i class="fa fa-power-off red-text" style="position: relative;top: 1px;"></i>
                         </a>
                     </li>
                 </ul>
@@ -196,7 +196,7 @@
             </a>
         </li>
         <li class="header-search-wrapper overflow-hidden">
-            <form action="#" method="post" style="height: 35px; width: 150px !important ;">
+            <form action="#" method="post" style="height: 35px; width: 130px !important ;">
             <a onclick="$(this).closest('form').submit();" name="search-btn" href="" class="left"><i class="mdi-action-search white-text"></i></a>
             <input type="text" class="light-blue accent-3 border-radius-10 search-council" style="height: 1rem !important;" placeholder="جستجو ...">
             </form>
@@ -292,13 +292,13 @@
             
 
               <li class=""><a class="collapsible-header waves-effect waves-red">
-          <img src="http://farama.net/module/images/logo_fab.png" class="circle salamat-mobile-menu-btn">فرشته سلامت</a>
+          <img src="http://farama.net/module/images/logo_fab.png" class="circle salamat-mobile-menu-btn">فراسا</a>
         <div class="collapsible-body" style="display: none;">
           <ul class="salamat-mobile-menu">
                           <li><a href="http://hooma.salemsa.net" title="ارزیابی هوشمند سلامت">هوما</a></li>
                             <li><a href="http://salemsa.net/%D8%A7%D9%BE%D9%84%DB%8C%DA%A9%DB%8C%D8%B4%D9%86-%D9%87%D8%A7%DB%8C-%D8%B3%D9%84%D8%A7%D9%85%D8%AA-%D9%87%D9%88%D8%B4%D9%85%D9%86%D8%AF/" title="اپلیکیشن سلامت هوشمند">اپ</a></li>
                             <li><a href="http://farama.salemsa.net/dashboard/fa" title="مشاوره تلفنی و آنلاین سلامت">فراما</a></li>
-                            <li><a href="http://farasa.salemsa.net" title="آموزش و سنجش الکترونیک سلامت">فراسا</a></li>
+                            <!-- <li><a href="http://farasa.salemsa.net" title="آموزش و سنجش الکترونیک سلامت">فراسا</a></li> -->
                             <li><a href="http://faracom.salemsa.net" title="ارتباطات هوشمند سلامت">فراکام</a></li>
                             <li><a href="http://farahoosh.salemsa.net" title="مدیریت هوشمند سلامت">فراهوش</a></li>
                             <li><a href="http://faranet.salemsa.net" title="شبکه اجتماعی سلامت">فرانت</a></li>

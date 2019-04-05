@@ -262,6 +262,9 @@ nav i.material-icons {
 
 .single-border {
   border-bottom: 1px solid #fff;
+  font-size: 14pt;
+  margin-bottom: 5px;
+  display: inline-block;
 }
 
 .doubled-border {

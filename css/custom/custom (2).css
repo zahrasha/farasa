@@ -62,9 +62,14 @@ WE WILL RELEASE FUTURE UPDATES SO IN ORDER TO NOT OVERWRITE YOUR STYLES IT'S BET
 #MainLinks a:hover div {
   transform: scale(1.05);
 }
+.highlighted-text {
+  background: #ffee58;
+  padding: 0 3px;
+}
 .keyword-title {
   font-size: 1rem;
   font-weight: bold;
+  color: #00b0ff;
 }
 .helper-text {
   font-size: 13px;
@@ -103,7 +108,7 @@ a {
   border-radius: 10px;
 }
 .header-search-wrapper {
-  width:  100px !important;
+  width: 130px !important;
   margin: 0 auto;
   margin-top: 3px;
   height: 40px;
@@ -111,7 +116,7 @@ a {
   position: relative;
 }
 .search-council {
-  width: 90% !important;
+  width: 82% !important;
   height: 1rem !important;
   padding: 6px 8px !important;
   border-bottom: 0 !important;
@@ -552,7 +557,7 @@ div.picker a.today {
   padding: 2px !important;
 }
 .modal.modal-fixed-footer .modal-content {
-  padding: 15px;
+  padding: 15px !important;
 }
 .dropify-wrapper,
 [class^="swal2"] {
@@ -1039,6 +1044,7 @@ th {
   text-align: justify;
   line-height: 1.5;
   font-size: 15px;
+  margin-top: 8px;
 }
 .content-wrapper img {
   margin: 15px 0 15px 15px;
@@ -3069,4 +3075,27 @@ thead.purple tr.active-row [type="checkbox"]:checked + label:before {
 }
 .week-plan tbody td:nth-child(2) a {
   float: left;
+}
+ul.tree,
+ul.tree ul {
+  list-style-type: none;
+  background: url(../../images/vline.png) repeat-y;
+  margin: 0;
+  padding: 0;
+  background-position: right top;
+}
+
+ul.tree ul {
+  margin-left: 10px;
+}
+
+ul.tree li {
+  margin: 0;
+  padding: 0 12px;
+  background: url(../../images/node.png) no-repeat;
+  background-position: right top;
+}
+ul.tree li:last-child {
+  background: #fff url(../../images/lastnode.png) no-repeat;
+  background-position: right top;
 }
